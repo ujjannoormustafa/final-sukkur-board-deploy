@@ -13,7 +13,7 @@ const coursesList = () => {
   return (
     <Layout headerBtn>
       <div className="inner-page-wrapper">
-        <PageTitle pageTitle="English Language Courses" />
+        {/*<PageTitle pageTitle="English Language Courses" />*/}
         <CoursesListPageHero />
         {/* END PAGE HERO */}
         {/* COURSES-1

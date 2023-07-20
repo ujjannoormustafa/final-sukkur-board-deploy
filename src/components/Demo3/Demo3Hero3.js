@@ -10,38 +10,38 @@ const Demo3Hero3 = () => {
             <div className="hero-txt text-center white-color">
               {/* Title */}
               <h2 className="h2-xs">
-                <span>2,769 online courses</span> from the leading experts
+                <span>Board of Intermediate & Secondary Education</span>
+
               </h2>
+              <span className={'h4'}> Sukkur,Sindhi Pakistan</span>
               {/* Text */}
               <p className="p-md">
-                Feugiat primis ligula risus auctor egestas augue mauri viverra
-                tortor in iaculis a placerat eugiat mauris ipsum in viverra
-                viverra tortor
+                Empowering Minds, Inspiring Futures: Board of Intermediate & Secondary Education Sukkur, Sindhi Pakistan
               </p>
               {/*Hero Search Form */}
-              <form
-                className="hero-form"
-                onSubmit={(e) => {
-                  e.preventDefault();
-                  Router.push({
-                    pathname: "/categories-list",
-                  });
-                }}
-              >
-                <div className="input-group">
-                  <input
-                    type="text"
-                    className="form-control"
-                    placeholder="What do you want to learn?"
-                    aria-label="Search"
-                  />
-                  <span className="input-group-btn">
-                    <button type="submit" className="btn">
-                      <i className="fa fa-search" aria-hidden="true" />
-                    </button>
-                  </span>
-                </div>
-              </form>
+              {/*<form*/}
+              {/*  className="hero-form"*/}
+              {/*  onSubmit={(e) => {*/}
+              {/*    e.preventDefault();*/}
+              {/*    Router.push({*/}
+              {/*      pathname: "/categories-list",*/}
+              {/*    });*/}
+              {/*  }}*/}
+              {/*>*/}
+              {/*  <div className="input-group">*/}
+              {/*    <input*/}
+              {/*      type="text"*/}
+              {/*      className="form-control"*/}
+              {/*      placeholder="What do you want to learn?"*/}
+              {/*      aria-label="Search"*/}
+              {/*    />*/}
+              {/*    <span className="input-group-btn">*/}
+              {/*      <button type="submit" className="btn">*/}
+              {/*        <i className="fa fa-search" aria-hidden="true" />*/}
+              {/*      </button>*/}
+              {/*    </span>*/}
+              {/*  </div>*/}
+              {/*</form>*/}
             </div>
           </div>
         </div>

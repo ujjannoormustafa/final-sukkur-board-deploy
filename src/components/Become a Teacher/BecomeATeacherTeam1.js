@@ -21,7 +21,7 @@ const BecomeATeacherTeam1 = () => {
                             </p>
                             {/* Button */}
                             <div className="title-btn">
-                                <Link href="/teachers-list">
+                                <Link href="/officers">
                                     <a className="btn btn-tra-grey rose-hover">
                                         Meet All Teachers
                                     </a>
@@ -86,7 +86,7 @@ const BecomeATeacherTeam1 = () => {
                             {/* Team Member Meta */}
                             <div className="tm-meta">
                                 <h5 className="h5-md">
-                                    <Link href="/teacher-profile">
+                                    <Link href="/controlling-authority">
                                         <a>Sam Richardson</a>
                                     </Link>
                                 </h5>
@@ -160,7 +160,7 @@ const BecomeATeacherTeam1 = () => {
                             {/* Team Member Meta */}
                             <div className="tm-meta">
                                 <h5 className="h5-md">
-                                    <Link href="/teacher-profile">
+                                    <Link href="/controlling-authority">
                                         <a>Kally Brooks</a>
                                     </Link>
                                 </h5>
@@ -234,7 +234,7 @@ const BecomeATeacherTeam1 = () => {
                             {/* Team Member Meta */}
                             <div className="tm-meta">
                                 <h5 className="h5-md">
-                                    <Link href="/teacher-profile">
+                                    <Link href="/controlling-authority">
                                         <a>Robert Coronado</a>
                                     </Link>
                                 </h5>

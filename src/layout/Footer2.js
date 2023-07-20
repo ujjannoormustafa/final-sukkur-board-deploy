@@ -1,4 +1,5 @@
 import Link from "next/dist/client/link";
+import React from "react";
 const Footer2 = () => {
   return (
     <footer id="footer-1" className="footer division">
@@ -11,9 +12,9 @@ const Footer2 = () => {
               {/* Footer Logo */}
               {/* For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 344 x 80 pixels) */}
               <img
-                src="images/logo.png"
-                width={172}
-                height={40}
+                  src="images/logo.jpg"
+                width={65}
+                height={65}
                 alt="footer-logo"
               />
             </div>
@@ -24,18 +25,18 @@ const Footer2 = () => {
               {/* Footer Links */}
               <ul className="foo-links clearfix">
                 <li>
-                  <Link href="/about">
-                    <a>About eTreeks</a>
+                  <Link href="/home">
+                    <a>Home</a>
                   </Link>
                 </li>
                 <li>
-                  <Link href="/reviews">
-                    <a>Our Testimonials</a>
+                  <Link href="/news">
+                    <a>News & Update</a>
                   </Link>
                 </li>
                 <li>
-                  <Link href="/blog-listing">
-                    <a>From the Blog</a>
+                  <Link href="/results">
+                    <a>Results</a>
                   </Link>
                 </li>
               </ul>
@@ -101,35 +102,14 @@ const Footer2 = () => {
             <div className="col-lg-8">
               <ul className="bottom-footer-list">
                 <li>
-                  <p>© Copyright eTreeks {new Date().getFullYear()}</p>
+                  <p>© Copyright by BISE Sukkur, Sindh-Pakistan. {new Date().getFullYear()}</p>
                 </li>
+
                 <li>
-                  <p>
-                    <Link href="#">
-                      <a
-                        onClick={(e) => {
-                          e.preventDefault();
-                        }}
-                        href="tel:123456789"
-                      >
-                        508.746.9892
-                      </a>
-                    </Link>
-                  </p>
-                </li>
-                <li>
-                  <p className="last-li">
-                    <Link href="#">
-                      <a
-                        onClick={(e) => {
-                          e.preventDefault();
-                        }}
-                        href="mailto:yourdomain@mail.com"
-                      >
-                        hello@domain.com
-                      </a>
-                    </Link>
-                  </p>
+                  <h6>Powered By <a target={"_blank"} href="https://www.fastechsystem.com">
+                    FasTech System
+                  </a></h6>
+
                 </li>
               </ul>
             </div>

@@ -65,7 +65,7 @@ const Aboutteam2 = () => {
                 {/* Team Member Meta */}
                 <div className="tm-meta">
                   <h5 className="h5-md">
-                    <Link href="/teacher-profile">
+                    <Link href="/controlling-authority">
                       <a>Sam Richardson</a>
                     </Link>
                   </h5>
@@ -116,7 +116,7 @@ const Aboutteam2 = () => {
                 {/* Team Member Meta */}
                 <div className="tm-meta">
                   <h5 className="h5-md">
-                    <Link href="/teacher-profile">
+                    <Link href="/controlling-authority">
                       <a>Kally Brooks</a>
                     </Link>
                   </h5>
@@ -167,7 +167,7 @@ const Aboutteam2 = () => {
                 {/* Team Member Meta */}
                 <div className="tm-meta">
                   <h5 className="h5-md">
-                    <Link href="/teacher-profile">
+                    <Link href="/controlling-authority">
                       <a>Robert Coronado</a>
                     </Link>
                   </h5>
@@ -218,7 +218,7 @@ const Aboutteam2 = () => {
                 {/* Team Member Meta */}
                 <div className="tm-meta">
                   <h5 className="h5-md">
-                    <Link href="/teacher-profile">
+                    <Link href="/controlling-authority">
                       <a>Becky Reed</a>
                     </Link>
                   </h5>
@@ -269,7 +269,7 @@ const Aboutteam2 = () => {
                 {/* Team Member Meta */}
                 <div className="tm-meta">
                   <h5 className="h5-md">
-                    <Link href="/teacher-profile">
+                    <Link href="/controlling-authority">
                       <a>David Smith</a>
                     </Link>
                   </h5>
@@ -320,7 +320,7 @@ const Aboutteam2 = () => {
                 {/* Team Member Meta */}
                 <div className="tm-meta">
                   <h5 className="h5-md">
-                    <Link href="/teacher-profile">
+                    <Link href="/controlling-authority">
                       <a>Linda J. Ross</a>
                     </Link>
                   </h5>
@@ -371,7 +371,7 @@ const Aboutteam2 = () => {
                 {/* Team Member Meta */}
                 <div className="tm-meta">
                   <h5 className="h5-md">
-                    <Link href="/teacher-profile">
+                    <Link href="/controlling-authority">
                       <a>Sergio Arriero</a>
                     </Link>
                   </h5>
@@ -421,7 +421,7 @@ const Aboutteam2 = () => {
                 {/* Team Member Meta */}
                 <div className="tm-meta">
                   <h5 className="h5-md">
-                    <Link href="/teacher-profile">
+                    <Link href="/controlling-authority">
                       <a>Linda Ferell</a>
                     </Link>
                   </h5>

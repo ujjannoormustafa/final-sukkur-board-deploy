@@ -250,7 +250,7 @@ const SinglePost = () => {
                   {/* All Posts */}
                   <div className="col-md-4 text-center">
                     <div className="all-posts mb-30">
-                      <Link href="/blog-listing">
+                      <Link href="/results">
                         <a>
                           <i className="fas fa-th-large" />
                         </a>

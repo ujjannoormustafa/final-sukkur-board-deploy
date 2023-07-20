@@ -5,6 +5,7 @@ const TeacherProfileTeam3 = () => {
     return (
         <section id="team-3" className="pt-100 team-section division">
             <div className="container">
+                <h1 className='text-center display-7 py-4'>CONTROLLING AUTHORITY OF THE BOARD</h1>
                 <div className="row">
                     {/* TEACHER PHOTO */}
                     <div className="col-md-4">
@@ -13,7 +14,7 @@ const TeacherProfileTeam3 = () => {
                             <div className="t-3-photo mb-25">
                                 <img
                                     className="img-fluid"
-                                    src="images/team-5.jpg"
+                                    src="images/boardimages/cm.jpg"
                                     alt="team-member-foto"
                                 />
                             </div>
@@ -77,22 +78,22 @@ const TeacherProfileTeam3 = () => {
                                         onClick={(e) => {
                                             e.preventDefault();
                                         }}
-                                        className="btn btn-md btn-tra-grey rose-hover"
+                                        className="btn btn-md btn-tra-grey custom-button"
                                     >
                                         Website
                                     </a>
                                 </Link>
-                                <Link href="#">
-                                    <a
-                                        onClick={(e) => {
-                                            e.preventDefault();
-                                        }}
-                                        href="mailto:yourdomain@mail.com"
-                                        className="btn btn-md btn-tra-grey rose-hover"
-                                    >
-                                        hello@yourdomain.com
-                                    </a>
-                                </Link>
+                                {/*<Link href="#">*/}
+                                {/*    <a*/}
+                                {/*        onClick={(e) => {*/}
+                                {/*            e.preventDefault();*/}
+                                {/*        }}*/}
+                                {/*        href="mailto:yourdomain@mail.com"*/}
+                                {/*        className="btn btn-md btn-tra-grey rose-hover"*/}
+                                {/*    >*/}
+                                {/*        hello@yourdomain.com*/}
+                                {/*    </a>*/}
+                                {/*</Link>*/}
                             </div>
                         </div>
                     </div>
@@ -101,58 +102,40 @@ const TeacherProfileTeam3 = () => {
                     <div className="col-md-8">
                         <div className="team-3-txt pc-45">
                             {/* Name */}
-                            <h3 className="h3-xs">David Smith</h3>
-                            <span>IT &amp; Software Courses</span>
+                            <h3 className="h3-xs">
+                                Syed Murad Ali Shah</h3>
+                            <span className={"text-primary my-2"}>Chief Minister Sindh</span>
                             {/* Data */}
-                            <p className="teacher-data">
-                                14,622 Total Students • 9 Courses • 4.63 Rating
-                                (738 Reviews)
-                            </p>
+                            <h3 className="teacher-data">
+                                Profile of Chief Minister Sindh
+                            </h3>
                             {/* Small Title */}
-                            <h5 className="h5-xl mt-40">About Me</h5>
+                            <h5 className="h5-xl mt-40">29-07-2016 to Present</h5>
                             {/* Text */}
                             <p>
-                                Aliqum mullam blandit tempor sapien gravida
-                                donec ipsum porta justo. Velna vitae auctor
-                                congue magna nihil impedit ligula risus. Mauris
-                                donec ociis magnis sapien sagittis sapien sem
-                                congue tempor gravida donec an enim ipsum porta
-                                justo integer odio velna a purus efficitur ipsum
-                                primis in cubilia laoreet
+                                Syed Murad Ali Shah was born on 11 August 1962 in Karachi. He earned his engineering degree from the NED University of Engineering and Technology while being schooled in Karachi. He held positions as a junior engineer at the Water and Power Development Authority (Wapda), engineer at the Hyderabad Development Authority, and executive engineer at the Port Qasim Authority. Additionally, he served as the project director of the fish harbor authority.
                             </p>
                             {/* List */}
                             <ul className="txt-list mb-15">
                                 <li>
-                                    Maecenas gravida porttitor nunc tempor
-                                    laoreet turpis
+                                    Later, he pursued masters degrees in engineering-economic system and civil and structural engineering from Stanford University in the 1990s.
                                 </li>
                                 <li>
-                                    Integer congue magna at pretium purus
-                                    pretium ligula at rutrum risus luctus dolor
-                                    auctor ipsum blandit purus aliqum mullam
-                                    blandit tempor
+                                    In 2002, Syed Murad Ali Shah contested and won the constituency of his father from the small town of Jhanghara, now in Jamshoro district, becoming an integral part of the PPP's think tank.
                                 </li>
                                 <li>
-                                    Risus at congue etiam aliquam sapien egestas
-                                    posuere gravida
+                                    He analyzed and opposed the provincial government backed by the then military ruler Gen Pervez Musharraf. His interest in financial matters and rules of the assembly earned him a key position in the party, proving beneficial when the PPP formed its government in Sindh.
                                 </li>
                                 <li>
-                                    Porttitor nunc, quis vehicula magna luctus
-                                    tempor laoreet
+                                    After winning the same constituency in 2008, he became the Minister for Irrigation during Syed Qaim Ali Shah's first stint as Chief Minister. Later, he took charge of the finance ministry, a position he has been overseeing to date. However, he faced disqualification from the assembly seat for holding dual nationality. To be eligible again, he surrendered his Canadian nationality and contested the elections while advising the chief minister for finance. After winning the by-election, he finally assumed his ministry.
                                 </li>
                                 <li>
-                                    Magna at pretium purus pretium ligula at
-                                    rutrum risus luctus dolor auctor ipsum
-                                    blandit purus aliqum mullam blandit tempor
+                                    To be eligible again, he surrendered his Canadian nationality and contested the elections while advising the chief minister for finance. After winning the by-election, he finally assumed his ministry.
                                 </li>
                             </ul>
                             {/* Text */}
                             <p>
-                                Maecenas gravida porttitor nunc, quis vehicula
-                                magna luctus tempor. Quisque laoreet turpis urna
-                                augue, viverra a augue eget, dictum tempor
-                                magnis. Pulvinar consectetur and placerat
-                                imperdiet dui varius viverr ac massa lorem fusce
+                                The oath-taking ceremony occurred at the Governor's House, where Sindh Governor Dr Ishrat ul Ebad Khan administered the oath. Numerous party leaders, including PPP Chairman Bilawal Bhutto, former Prime Minister Syed Yousaf Raza Gillani, former Sindh CM Syed Qaim Ali Shah, and Leader of the Opposition in the National Assembly Syed Khurshid Shah, were present. Pakistan People's Party (PPP) candidate Syed Murad Ali Shah was elected as the new Sindh Chief Minister (CM) on Friday after securing the required number of votes.
                             </p>
                         </div>
                     </div>

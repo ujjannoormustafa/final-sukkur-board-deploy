@@ -129,14 +129,14 @@ const Header2 = () => {
                                                         </Link>
                                                     </li>
                                                     <li>
-                                                        <Link href="/teachers-list">
+                                                        <Link href="/officers">
                                                             <a>
                                                                 Teachers Listing
                                                             </a>
                                                         </Link>
                                                     </li>
                                                     <li>
-                                                        <Link href="/teacher-profile">
+                                                        <Link href="/controlling-authority">
                                                             <a>
                                                                 Teacher Profile
                                                             </a>
@@ -171,7 +171,7 @@ const Header2 = () => {
                                                         </Link>
                                                     </li>
                                                     <li>
-                                                        <Link href="/blog-listing">
+                                                        <Link href="/results">
                                                             <a>Blog Listing</a>
                                                         </Link>
                                                     </li>
@@ -494,7 +494,7 @@ const Header2 = () => {
                                 {/* END MEGAMENU */}
                                 {/* SIMPLE NAVIGATION LINK */}
                                 <li className="nl-simple" aria-haspopup="true">
-                                    <Link href="/blog-listing">
+                                    <Link href="/results">
                                         <a>Blog</a>
                                     </Link>
                                 </li>

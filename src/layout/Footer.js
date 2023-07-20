@@ -12,16 +12,13 @@ const Footer = () => {
               {/* Footer Logo */}
               {/* For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 344 x 80 pixels) */}
               <img
-                src="images/logo.png"
-                width={172}
-                height={40}
+                src="images/logo.jpg"
+                width={65}
+                height={65}
                 alt="footer-logo"
               />
               {/* Text */}
-              <p>
-                Aliquam orci a nullam tempor sapien gravida donec enim ipsum
-                porta justo velna an auctor undo congue magna laoreet augue
-                sapien
+              <p>Empowering Minds, Inspiring Futures: Board of Intermediate & Secondary Education Sukkur, Sindhi Pakistan
               </p>
             </div>
           </div>
@@ -53,7 +50,7 @@ const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/blog-listing">
+                  <Link href="/results">
                     <a>From the Blog</a>
                   </Link>
                 </li>
@@ -164,21 +161,14 @@ const Footer = () => {
             <div className="col-lg-8">
               <ul className="bottom-footer-list">
                 <li>
-                  <p>© Copyright eTreeks {new Date().getFullYear()}</p>
+                  <p>© Copyright  by BISE Sukkur, Sindh-Pakistan. {new Date().getFullYear()}</p>
                 </li>
+
                 <li>
-                  <p>
-                    <Link href="#">
-                      <a
-                        onClick={(e) => {
-                          e.preventDefault();
-                        }}
-                        href="tel:123456789"
-                      >
-                        508.746.9892
-                      </a>
-                    </Link>
-                  </p>
+                  <h6>Powered By <a target={"_blank"} href="https://www.fastechsystem.com">
+                    FasTech System
+                  </a></h6>
+
                 </li>
                 <li>
                   <p className="last-li">
@@ -189,7 +179,7 @@ const Footer = () => {
                         }}
                         href="mailto:yourdomain@mail.com"
                       >
-                        hello@domain.com
+                        | mail@bisesuksindh.edu.pk
                       </a>
                     </Link>
                   </p>

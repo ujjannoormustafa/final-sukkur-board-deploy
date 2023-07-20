@@ -118,7 +118,7 @@ const HomeIPage = () => {
             >
               <div className="select_link">
                 <div className="hover-overlay">
-                  <Link href="/teachers-list">
+                  <Link href="/officers">
                     <a target="_blank">
                       <img
                         className="img-fluid"
@@ -137,7 +137,7 @@ const HomeIPage = () => {
             >
               <div className="select_link">
                 <div className="hover-overlay">
-                  <Link href="/teacher-profile">
+                  <Link href="/controlling-authority">
                     <a target="_blank">
                       <img
                         className="img-fluid"
@@ -216,7 +216,7 @@ const HomeIPage = () => {
             >
               <div className="select_link">
                 <div className="hover-overlay">
-                  <Link href="/blog-listing">
+                  <Link href="/results">
                     <a target="_blank">
                       <img
                         className="img-fluid"

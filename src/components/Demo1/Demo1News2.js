@@ -20,7 +20,7 @@ const Demo1News2 = () => {
                             </p>
                             {/* Button */}
                             <div className="title-btn">
-                                <Link href="/blog-listing">
+                                <Link href="/results">
                                     <a className="btn btn-tra-grey rose-hover">
                                         Read More Stories
                                     </a>

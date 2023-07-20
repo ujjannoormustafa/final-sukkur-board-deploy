@@ -56,7 +56,7 @@ const HomeSelect = () => {
               data-wow-delay="0.8s"
             >
               <div className="hover-overlay">
-                <Link href="/demo-3">
+                <Link href="/home">
                   <a target="_blank">
                     <img
                       className="img-fluid"
