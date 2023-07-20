@@ -1,5 +1,16 @@
 {
-  "name": "Sindh-Board",
+  "name": "sukkur-board",
+  "description": "sukkur board official website",
+  "keywords": [
+    "sukkur-board",
+    "sukkur board",
+    "sukkur board results",
+    "sukkur official board",
+    "sukkur board website",
+    "sukkur board results website",
+    "sukkur",
+    "sukkur board web application"
+  ],
   "version": "0.1.0",
   "private": true,
   "scripts": {
