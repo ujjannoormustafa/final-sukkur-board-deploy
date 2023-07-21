@@ -21,7 +21,7 @@ const SinglePost = () => {
                   <p>
                     Posted by Joel Peterson on March 15, 2020 in
                     <Link href="#">
-                      <a>Ideas &amp; Opinions</a>
+                      <span>Ideas &amp; Opinions</span>
                     </Link>
                   </p>
                 </div>
@@ -164,17 +164,17 @@ const SinglePost = () => {
                 <div className="col-md-9 col-xl-8 post-tags-list">
                   <span>
                     <Link href="#">
-                      <a>eTreeks News</a>
+                      <span>eTreeks News</span>
                     </Link>
                   </span>
                   <span>
                     <Link href="#">
-                      <a>Ideas &amp; Opinions</a>
+                      <span>Ideas &amp; Opinions</span>
                     </Link>
                   </span>
                   <span>
                     <Link href="#">
-                      <a>Education Process</a>
+                      <span>Education Process</span>
                     </Link>
                   </span>
                 </div>
@@ -183,23 +183,23 @@ const SinglePost = () => {
                   <ul className="share-social-icons text-center clearfix">
                     <li>
                       <Link href="#">
-                        <a className="share-ico ico-facebook">
+                        <span className="share-ico ico-facebook">
                           <i className="fab fa-facebook-square" />
-                        </a>
+                        </span>
                       </Link>
                     </li>
                     <li>
                       <Link href="#">
-                        <a className="share-ico ico-twitter">
+                        <span className="share-ico ico-twitter">
                           <i className="fab fa-twitter" />
-                        </a>
+                        </span>
                       </Link>
                     </li>
                     <li>
                       <Link href="#">
-                        <a className="share-ico ico-like">
+                        <span className="share-ico ico-like">
                           <i className="far fa-bookmark" />
-                        </a>
+                        </span>
                       </Link>
                     </li>
                   </ul>
@@ -225,7 +225,7 @@ const SinglePost = () => {
                   {/* Follow Button */}
                   <div className="author-follow-btn">
                     <Link href="#">
-                      <a>Follow</a>
+                      <span>Follow</span>
                     </Link>
                   </div>
                 </div>
@@ -243,7 +243,7 @@ const SinglePost = () => {
                         Previous Post
                       </h5>
                       <Link href="/single-post">
-                        <a>Congue magna eTreeks purus pretium magnis</a>
+                        <span>Congue magna eTreeks purus pretium magnis</span>
                       </Link>
                     </div>
                   </div>
@@ -251,9 +251,9 @@ const SinglePost = () => {
                   <div className="col-md-4 text-center">
                     <div className="all-posts mb-30">
                       <Link href="/results">
-                        <a>
+                        <span>
                           <i className="fas fa-th-large" />
-                        </a>
+                        </span>
                       </Link>
                     </div>
                   </div>
@@ -265,7 +265,7 @@ const SinglePost = () => {
                         <i className="fas fa-arrow-right" />
                       </h5>
                       <Link href="/single-post">
-                        <a>8 neque dolor primis a libero tempus blandit</a>
+                        <span>8 neque dolor primis a libero tempus blandit</span>
                       </Link>
                     </div>
                   </div>
@@ -294,10 +294,10 @@ const SinglePost = () => {
                       <span className="comment-date">5 days ago -</span>
                       <span className="btn-reply">
                         <Link href="#">
-                          <a href="#leave-comment" className="internal-link">
+                          <span href="#leave-comment" className="internal-link">
                             <i className="fas fa-reply" />
                             Reply
-                          </a>
+                          </span>
                         </Link>
                       </span>
                     </div>
@@ -314,12 +314,12 @@ const SinglePost = () => {
                     <div className="d-flex mt-3">
                       {/* Comment-2 Avatar */}
                       <Link href="#">
-                        <a className="pe-3">
+                        <span className="pe-3">
                           <img
                             src="images/post-author-2.jpg"
                             alt="comment-avatar"
                           />
-                        </a>
+                        </span>
                       </Link>
                       <div className="flex-grow-1 ms-3">
                         {/* Comment-2 Meta */}
@@ -330,13 +330,13 @@ const SinglePost = () => {
                           <span className="comment-date">6 days ago -</span>
                           <span className="btn-reply">
                             <Link href="#">
-                              <a
+                              <span
                                 href="#leave-comment"
                                 className="internal-link"
                               >
                                 <i className="fas fa-reply" />
                                 Reply
-                              </a>
+                              </span>
                             </Link>
                           </span>
                         </div>
@@ -371,10 +371,10 @@ const SinglePost = () => {
                       <span className="comment-date">13 days ago -</span>
                       <span className="btn-reply">
                         <Link href="#">
-                          <a href="#leave-comment" className="internal-link">
+                          <span href="#leave-comment" className="internal-link">
                             <i className="fas fa-reply" />
                             Reply
-                          </a>
+                          </span>
                         </Link>
                       </span>
                     </div>
@@ -408,10 +408,10 @@ const SinglePost = () => {
                       <span className="comment-date">42 days ago -</span>
                       <span className="btn-reply">
                         <Link href="#">
-                          <a href="#leave-comment" className="internal-link">
+                          <span href="#leave-comment" className="internal-link">
                             <i className="fas fa-reply" />
                             Reply
-                          </a>
+                          </span>
                         </Link>
                       </span>
                     </div>

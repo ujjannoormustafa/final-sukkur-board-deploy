@@ -25,9 +25,9 @@ const Demo3Banner5 = () => {
                                 </p>
                                 {/* Button */}
                                 <Link href="/become-a-teacher">
-                                    <a className="btn btn-rose tra-black-hover">
+                                    <span className="btn btn-rose tra-black-hover">
                                         Find Out More
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>
@@ -50,9 +50,9 @@ const Demo3Banner5 = () => {
                                 </p>
                                 {/* Button */}
                                 <Link href="/courses-list">
-                                    <a className="btn btn-rose tra-black-hover">
+                                    <span className="btn btn-rose tra-black-hover">
                                         Find Out More
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>

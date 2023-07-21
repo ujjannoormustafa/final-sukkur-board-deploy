@@ -54,14 +54,14 @@ const Pricing1 = () => {
                             {/* Pricing Table Button */}
                             <div className="pricing-plan-btn">
                                 <Link href="#">
-                                    <a
+                                    <span
                                         onClick={(e) => {
                                             e.preventDefault();
                                         }}
                                         className="btn btn-md btn-tra-grey rose-hover"
                                     >
                                         Get Started
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>
@@ -93,14 +93,14 @@ const Pricing1 = () => {
                             {/* Pricing Table Button */}
                             <div className="pricing-plan-btn">
                                 <Link href="#">
-                                    <a
+                                    <span
                                         onClick={(e) => {
                                             e.preventDefault();
                                         }}
                                         className="btn btn-md btn-rose black-hover"
                                     >
                                         Get Started
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>
@@ -130,14 +130,14 @@ const Pricing1 = () => {
                             {/* Pricing Table Button */}
                             <div className="pricing-plan-btn">
                                 <Link href="#">
-                                    <a
+                                    <span
                                         onClick={(e) => {
                                             e.preventDefault();
                                         }}
                                         className="btn btn-md btn-tra-grey rose-hover"
                                     >
                                         Get Started
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>

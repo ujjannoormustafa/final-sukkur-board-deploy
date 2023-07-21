@@ -39,7 +39,7 @@ const contacts = () => {
                     <p>Chairman</p>
                     {/* Button */}
                     <Link href="#">
-                      <a
+                      <span
                           onClick={(e) => {
                             e.preventDefault();
                           }}
@@ -47,7 +47,7 @@ const contacts = () => {
                           className="btn btn-tra-grey hoverbtn"
                       >
                         Email: chairman@bisesuksindh.edu.pk
-                      </a>
+                      </span>
                     </Link>
 
                   </div>
@@ -67,7 +67,7 @@ const contacts = () => {
                     <p>Secretary</p>
                     {/* Button */}
                     <Link href="#">
-                      <a
+                      <span
                         onClick={(e) => {
                           e.preventDefault();
                         }}
@@ -75,7 +75,7 @@ const contacts = () => {
                         className="btn btn-tra-grey hoverbtn"
                       >
                         Email: secretary@bisesuksindh.edu.pk
-                      </a>
+                      </span>
                     </Link>
                   </div>
                 </div>
@@ -96,7 +96,7 @@ const contacts = () => {
                     </p>
                     {/* Button */}
                     <Link href="#">
-                      <a
+                      <span
                         onClick={(e) => {
                           e.preventDefault();
                         }}
@@ -104,7 +104,7 @@ const contacts = () => {
                         className="btn btn-tra-grey hoverbtn"
                       >
                         Email: controller@bisesuksindh.edu.pk
-                      </a>
+                      </span>
                     </Link>
                   </div>
                 </div>

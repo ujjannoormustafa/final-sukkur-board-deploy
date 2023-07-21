@@ -97,12 +97,12 @@ const Demo1Hero1 = () => {
                         </p>
                         {/* Button */}
                         <Link href="#">
-                          <a
+                          <span
                             href="#courses-4"
                             className="btn btn-md btn-rose tra-black-hover"
                           >
                             View Popular Courses
-                          </a>
+                          </span>
                         </Link>
                       </div>
                     </div>

@@ -23,120 +23,120 @@ const Demo5Categories1 = () => {
             {/* CATEGORIE BOX #1 */}
             <div className="c1-box">
               <Link href="/category-details">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     <h5 className="h5-xs">Development</h5>
                     <p>36 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #1 */}
             {/* CATEGORIE BOX #2 */}
             <div className="c1-box">
               <Link href="/category-details">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     <h5 className="h5-xs">Finance &amp; Accounting</h5>
                     <p>28 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #2 */}
             {/* CATEGORIE BOX #3 */}
             <div className="c1-box">
               <Link href="/category-details">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     <h5 className="h5-xs">IT &amp; Software</h5>
                     <p>54 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #3 */}
             {/* CATEGORIE BOX #4 */}
             <div className="c1-box">
               <Link href="/category-details">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     <h5 className="h5-xs">Office Productivity</h5>
                     <p>68 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #4 */}
             {/* CATEGORIE BOX #5 */}
             <div className="c1-box">
               <Link href="/category-details">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     <h5 className="h5-xs">Photography</h5>
                     <p>159 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #5 */}
             {/* CATEGORIE BOX #6 */}
             <div className="c1-box">
               <Link href="/category-details">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     <h5 className="h5-xs">Design &amp; Arts</h5>
                     <p>78 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #6 */}
             {/* CATEGORIE BOX #7 */}
             <div className="c1-box">
               <Link href="/category-details">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     <h5 className="h5-xs">Languages</h5>
                     <p>103 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #7 */}
             {/* CATEGORIE BOX #8 */}
             <div className="c1-box">
               <Link href="/category-details">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     <h5 className="h5-xs">Sciences &amp; Math</h5>
                     <p>45 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #8 */}
             {/* CATEGORIE BOX #9 */}
             <div className="c1-box">
               <Link href="/category-details">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     <h5 className="h5-xs">Writing &amp; Journalism</h5>
                     <p>39 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #9 */}
             {/* CATEGORIE BOX #10 */}
             <div className="c1-box">
               <Link href="/category-details">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     <h5 className="h5-xs">Health and Fitness</h5>
                     <p>62 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #10 */}

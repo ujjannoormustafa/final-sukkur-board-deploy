@@ -21,31 +21,31 @@ const CategoryDetailsPageHero = () => {
                                     </li>
                                     <li>
                                         <Link href="#">
-                                            <a
+                                            <span
                                                 onClick={(e) => {
                                                     e.preventDefault();
                                                 }}
                                                 className="share-ico ico-facebook"
                                             >
                                                 <i className="fab fa-facebook-f" />
-                                            </a>
+                                            </span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="#">
-                                            <a
+                                            <span
                                                 onClick={(e) => {
                                                     e.preventDefault();
                                                 }}
                                                 className="share-ico ico-twitter"
                                             >
                                                 <i className="fab fa-twitter" />
-                                            </a>
+                                            </span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="#">
-                                            <a
+                                            <span
                                                 onClick={(e) => {
                                                     e.preventDefault();
                                                 }}
@@ -53,12 +53,12 @@ const CategoryDetailsPageHero = () => {
                                                 className="share-ico ico-mail"
                                             >
                                                 <i className="far fa-envelope" />
-                                            </a>
+                                            </span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="#">
-                                            <a
+                                            <span
                                                 onClick={(e) => {
                                                     e.preventDefault();
                                                 }}
@@ -66,7 +66,7 @@ const CategoryDetailsPageHero = () => {
                                             >
                                                 <i className="far fa-bookmark" />
                                                 19.7k
-                                            </a>
+                                            </span>
                                         </Link>
                                     </li>
                                 </ul>

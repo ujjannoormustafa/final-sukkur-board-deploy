@@ -37,9 +37,9 @@ const Demo7Hero7 = () => {
                         </p>
                         {/* Button */}
                         <Link href="/categories-list">
-                          <a className="btn btn-md btn-rose tra-white-hover">
+                          <span className="btn btn-md btn-rose tra-white-hover">
                             Discover More
-                          </a>
+                          </span>
                         </Link>
                       </div>
                     </div>
@@ -79,9 +79,9 @@ const Demo7Hero7 = () => {
                         </p>
                         {/* Button */}
                         <Link href="/categories-list">
-                          <a className="btn btn-md btn-rose tra-white-hover">
+                          <span className="btn btn-md btn-rose tra-white-hover">
                             View All Courses
-                          </a>
+                          </span>
                         </Link>
                       </div>
                     </div>
@@ -122,9 +122,9 @@ const Demo7Hero7 = () => {
                         </p>
                         {/* Button */}
                         <Link href="/experts-list">
-                          <a className="btn btn-md btn-rose tra-white-hover">
+                          <span className="btn btn-md btn-rose tra-white-hover">
                             Our Featured Experts
-                          </a>
+                          </span>
                         </Link>
                       </div>
                     </div>

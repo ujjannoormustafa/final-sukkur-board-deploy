@@ -20,9 +20,9 @@ const Demo8Courses3 = () => {
               {/* Button */}
               <div className="title-btn">
                 <Link href="/courses-list">
-                  <a className="btn btn-rose tra-black-hover">
+                  <span className="btn btn-rose tra-black-hover">
                     View All Courses
-                  </a>
+                  </span>
                 </Link>
               </div>
             </div>
@@ -34,7 +34,7 @@ const Demo8Courses3 = () => {
           <div className="col-md-6 col-lg-4 col-xl-3">
             <div className="cbox-1">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Image */}
                   <img
                     className="img-fluid"
@@ -67,7 +67,7 @@ const Demo8Courses3 = () => {
                       $138.99
                     </span>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -76,7 +76,7 @@ const Demo8Courses3 = () => {
           <div className="col-md-6 col-lg-4 col-xl-3">
             <div className="cbox-1">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Image */}
                   <img
                     className="img-fluid"
@@ -109,7 +109,7 @@ const Demo8Courses3 = () => {
                       $59.99
                     </span>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -118,7 +118,7 @@ const Demo8Courses3 = () => {
           <div className="col-md-6 col-lg-4 col-xl-3">
             <div className="cbox-1">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Image */}
                   <img
                     className="img-fluid"
@@ -150,7 +150,7 @@ const Demo8Courses3 = () => {
                       $34.99
                     </span>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -159,7 +159,7 @@ const Demo8Courses3 = () => {
           <div className="col-md-6 col-lg-4 col-xl-3">
             <div className="cbox-1">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Image */}
                   <img
                     className="img-fluid"
@@ -187,7 +187,7 @@ const Demo8Courses3 = () => {
                     {/* Course Price */}
                     <span className="course-price">Free Course</span>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -196,7 +196,7 @@ const Demo8Courses3 = () => {
           <div className="col-md-6 col-lg-4 col-xl-3">
             <div className="cbox-1">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Image */}
                   <img
                     className="img-fluid"
@@ -228,7 +228,7 @@ const Demo8Courses3 = () => {
                       $62.99
                     </span>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -237,7 +237,7 @@ const Demo8Courses3 = () => {
           <div className="col-md-6 col-lg-4 col-xl-3">
             <div className="cbox-1">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Image */}
                   <img
                     className="img-fluid"
@@ -270,7 +270,7 @@ const Demo8Courses3 = () => {
                       $45.99
                     </span>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -279,7 +279,7 @@ const Demo8Courses3 = () => {
           <div className="col-md-6 col-lg-4 col-xl-3">
             <div className="cbox-1">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Image */}
                   <img
                     className="img-fluid"
@@ -313,7 +313,7 @@ const Demo8Courses3 = () => {
                       $33.99
                     </span>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -322,7 +322,7 @@ const Demo8Courses3 = () => {
           <div className="col-md-6 col-lg-4 col-xl-3">
             <div className="cbox-1">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Image */}
                   <img
                     className="img-fluid"
@@ -355,7 +355,7 @@ const Demo8Courses3 = () => {
                       $41.99
                     </span>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -364,7 +364,7 @@ const Demo8Courses3 = () => {
           <div className="col-md-6 col-lg-4 col-xl-3">
             <div className="cbox-1">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Image */}
                   <img
                     className="img-fluid"
@@ -396,7 +396,7 @@ const Demo8Courses3 = () => {
                       $62.99
                     </span>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -405,7 +405,7 @@ const Demo8Courses3 = () => {
           <div className="col-md-6 col-lg-4 col-xl-3">
             <div className="cbox-1">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Image */}
                   <img
                     className="img-fluid"
@@ -438,7 +438,7 @@ const Demo8Courses3 = () => {
                       $24.99
                     </span>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -447,7 +447,7 @@ const Demo8Courses3 = () => {
           <div className="col-md-6 col-lg-4 col-xl-3">
             <div className="cbox-1">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Image */}
                   <img
                     className="img-fluid"
@@ -479,7 +479,7 @@ const Demo8Courses3 = () => {
                       $62.99
                     </span>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -488,7 +488,7 @@ const Demo8Courses3 = () => {
           <div className="col-md-6 col-lg-4 col-xl-3">
             <div className="cbox-1">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Image */}
                   <img
                     className="img-fluid"
@@ -520,7 +520,7 @@ const Demo8Courses3 = () => {
                       $23.99
                     </span>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>

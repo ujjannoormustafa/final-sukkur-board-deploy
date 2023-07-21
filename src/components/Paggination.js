@@ -9,7 +9,7 @@ const Paggination = ({ setActive, active, state }) => {
               <ul className="pagination justify-content-center">
                 <li className="page-item">
                   <Link href="#">
-                    <a
+                    <span
                       onClick={(e) => {
                         e.preventDefault();
                         setActive(active === 1 ? 1 : active - 1);
@@ -18,7 +18,7 @@ const Paggination = ({ setActive, active, state }) => {
                       tabIndex={-1}
                     >
                       <i className="fas fa-angle-left" />
-                    </a>
+                    </span>
                   </Link>
                 </li>
                 {state &&
@@ -28,7 +28,7 @@ const Paggination = ({ setActive, active, state }) => {
                       key={i}
                     >
                       <Link href="#">
-                        <a
+                        <span
                           onClick={(e) => {
                             e.preventDefault();
                             setActive(s);
@@ -37,13 +37,13 @@ const Paggination = ({ setActive, active, state }) => {
                         >
                           {s}
                           <span className="sr-only">(current)</span>
-                        </a>
+                        </span>
                       </Link>
                     </li>
                   ))}
                 <li className="page-item">
                   <Link href="#">
-                    <a
+                    <span
                       onClick={(e) => {
                         e.preventDefault();
                         setActive(
@@ -53,7 +53,7 @@ const Paggination = ({ setActive, active, state }) => {
                       className="page-link"
                     >
                       <i className="fas fa-angle-right" />
-                    </a>
+                    </span>
                   </Link>
                 </li>
               </ul>

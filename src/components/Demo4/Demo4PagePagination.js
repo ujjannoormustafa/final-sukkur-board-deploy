@@ -11,7 +11,7 @@ const Demo4PagePagination = () => {
                             <ul className="pagination justify-content-center">
                                 <li className="page-item disabled">
                                     <Link href="#">
-                                        <a
+                                        <span
                                             onClick={(e) => {
                                                 e.preventDefault();
                                             }}
@@ -19,12 +19,12 @@ const Demo4PagePagination = () => {
                                             tabIndex={-1}
                                         >
                                             <i className="fas fa-angle-left" />
-                                        </a>
+                                        </span>
                                     </Link>
                                 </li>
                                 <li className="page-item active">
                                     <Link href="#">
-                                        <a
+                                        <span
                                             onClick={(e) => {
                                                 e.preventDefault();
                                             }}
@@ -34,55 +34,55 @@ const Demo4PagePagination = () => {
                                             <span className="sr-only">
                                                 (current)
                                             </span>
-                                        </a>
+                                        </span>
                                     </Link>
                                 </li>
                                 <li className="page-item">
                                     <Link href="#">
-                                        <a
+                                        <span
                                             onClick={(e) => {
                                                 e.preventDefault();
                                             }}
                                             className="page-link"
                                         >
                                             2
-                                        </a>
+                                        </span>
                                     </Link>
                                 </li>
                                 <li className="page-item">
                                     <Link href="#">
-                                        <a
+                                        <span
                                             onClick={(e) => {
                                                 e.preventDefault();
                                             }}
                                             className="page-link"
                                         >
                                             3
-                                        </a>
+                                        </span>
                                     </Link>
                                 </li>
                                 <li className="page-item">
                                     <Link href="#">
-                                        <a
+                                        <span
                                             onClick={(e) => {
                                                 e.preventDefault();
                                             }}
                                             className="page-link"
                                         >
                                             4
-                                        </a>
+                                        </span>
                                     </Link>
                                 </li>
                                 <li className="page-item">
                                     <Link href="#">
-                                        <a
+                                        <span
                                             onClick={(e) => {
                                                 e.preventDefault();
                                             }}
                                             className="page-link"
                                         >
                                             <i className="fas fa-angle-right" />
-                                        </a>
+                                        </span>
                                     </Link>
                                 </li>
                             </ul>

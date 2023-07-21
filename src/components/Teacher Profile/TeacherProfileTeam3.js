@@ -23,50 +23,50 @@ const TeacherProfileTeam3 = () => {
                                 <ul className="text-center clearfix">
                                     <li>
                                         <Link href="#">
-                                            <a
+                                            <span
                                                 onClick={(e) => {
                                                     e.preventDefault();
                                                 }}
                                                 className="ico-facebook"
                                             >
                                                 <i className="fab fa-facebook-f" />
-                                            </a>
+                                            </span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="#">
-                                            <a
+                                            <span
                                                 onClick={(e) => {
                                                     e.preventDefault();
                                                 }}
                                                 className="ico-twitter"
                                             >
                                                 <i className="fab fa-twitter" />
-                                            </a>
+                                            </span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="#">
-                                            <a
+                                            <span
                                                 onClick={(e) => {
                                                     e.preventDefault();
                                                 }}
                                                 className="ico-google-plus"
                                             >
                                                 <i className="fab fa-google-plus-g" />
-                                            </a>
+                                            </span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="#">
-                                            <a
+                                            <span
                                                 onClick={(e) => {
                                                     e.preventDefault();
                                                 }}
                                                 className="ico-linkedin"
                                             >
                                                 <i className="fab fa-linkedin-in" />
-                                            </a>
+                                            </span>
                                         </Link>
                                     </li>
                                 </ul>
@@ -74,17 +74,17 @@ const TeacherProfileTeam3 = () => {
                             {/* Links */}
                             <div className="t-3-links">
                                 <Link href="#">
-                                    <a
+                                    <span
                                         onClick={(e) => {
                                             e.preventDefault();
                                         }}
                                         className="btn btn-md btn-tra-grey custom-button"
                                     >
                                         Website
-                                    </a>
+                                    </span>
                                 </Link>
                                 {/*<Link href="#">*/}
-                                {/*    <a*/}
+                                {/*    <span*/}
                                 {/*        onClick={(e) => {*/}
                                 {/*            e.preventDefault();*/}
                                 {/*        }}*/}
@@ -92,7 +92,7 @@ const TeacherProfileTeam3 = () => {
                                 {/*        className="btn btn-md btn-tra-grey rose-hover"*/}
                                 {/*    >*/}
                                 {/*        hello@yourdomain.com*/}
-                                {/*    </a>*/}
+                                {/*    </span>*/}
                                 {/*</Link>*/}
                             </div>
                         </div>

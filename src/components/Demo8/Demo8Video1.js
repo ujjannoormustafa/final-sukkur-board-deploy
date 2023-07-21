@@ -16,7 +16,7 @@ const Demo8Video1 = () => {
                                 {/* Change the link HERE!!! */}
                                 <div className="play-btn play-btn-rose text-center">
                                     <Link href="#">
-                                        <a
+                                        <span
                                             onClick={(e) => {
                                                 e.preventDefault();
                                             }}
@@ -24,7 +24,7 @@ const Demo8Video1 = () => {
                                             href="https://www.youtube.com/embed/0gv7OC9L2s8"
                                         >
                                             <span />
-                                        </a>
+                                        </span>
                                     </Link>
                                     {/* Preview Image */}
                                     <img
@@ -52,9 +52,9 @@ const Demo8Video1 = () => {
                                 </p>
                                 {/* Button */}
                                 <Link href="/courses-list">
-                                    <a className="btn btn-tra-rose rose-hover">
+                                    <span className="btn btn-tra-rose rose-hover">
                                         Find Out More
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>

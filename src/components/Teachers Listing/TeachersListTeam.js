@@ -36,7 +36,7 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>MR. RAFIQUE AHMED PALH</a>
+                      <span>MR. RAFIQUE AHMED PALH</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Chairman</span>
@@ -61,7 +61,7 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>MR. MUHAMMAD SALMAN KHAN</a>
+                      <span>MR. MUHAMMAD SALMAN KHAN</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Secretary</span>
@@ -86,8 +86,8 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>
-                        MR. SIKANDER ALI MIRJAT</a>
+                      <span>
+                        MR. SIKANDER ALI MIRJAT</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Controller of Examinations</span>
@@ -111,7 +111,7 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>MR. GHULAM QADIR DHAREJO</a>
+                      <span>MR. GHULAM QADIR DHAREJO</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Audit Officer</span>
@@ -136,8 +136,8 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>
-                        MR. NAZIR AHMED MALLAH</a>
+                      <span>
+                        MR. NAZIR AHMED MALLAH</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Deputy Controller of Examinations</span>
@@ -162,7 +162,7 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>MR. GHULAM QADIR CHANNA</a>
+                      <span>MR. GHULAM QADIR CHANNA</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Deputy Controller of Examinations</span>
@@ -187,7 +187,7 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>MR. NASEER AHMED LAGHARI</a>
+                      <span>MR. NASEER AHMED LAGHARI</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Assistant Secretary</span>
@@ -211,7 +211,7 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>MR. IMTIAZ ALI BHATTI</a>
+                      <span>MR. IMTIAZ ALI BHATTI</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Computer Programmer</span>
@@ -235,8 +235,8 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>
-                        MR. WAQAR HUSSAIN JOKHIO,</a>
+                      <span>
+                        MR. WAQAR HUSSAIN JOKHIO,</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Assistant Controller of Examination</span>
@@ -262,8 +262,8 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>
-                        MR. LUTUFULLAH KAMANGAR,</a>
+                      <span>
+                        MR. LUTUFULLAH KAMANGAR,</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Assistant Secretary</span>
@@ -287,7 +287,7 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>MR. MUHAMMAD HASSAN KHOSO</a>
+                      <span>MR. MUHAMMAD HASSAN KHOSO</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Assistant Secretary</span>
@@ -311,7 +311,7 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>MR. MUHAMMAD SALMAN KHAN</a>
+                      <span>MR. MUHAMMAD SALMAN KHAN</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Assistant Secretary (Budget & Accounts)</span>
@@ -335,8 +335,8 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>
-                        MR. MUHAMMAD RAMZAN BHUTTO</a>
+                      <span>
+                        MR. MUHAMMAD RAMZAN BHUTTO</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Assistant Secretary (Research)</span>
@@ -360,7 +360,7 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>MR. RIZWAN AHMED MEMON,</a>
+                      <span>MR. RIZWAN AHMED MEMON,</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Caretaker</span>
@@ -384,7 +384,7 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>SYED FIDA HUSSAIN SHAH</a>
+                      <span>SYED FIDA HUSSAIN SHAH</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Assistant Controller of Examinations (SSC/HSC-Conduct)</span>
@@ -408,7 +408,7 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>MR. MUHAMMAD HANIF JALBANI,</a>
+                      <span>MR. MUHAMMAD HANIF JALBANI,</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Librarian</span>
@@ -432,8 +432,8 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>
-                        MR. ZAHOOR AHMED MEMON</a>
+                      <span>
+                        MR. ZAHOOR AHMED MEMON</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Research Associate</span>
@@ -455,7 +455,7 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>MR. GHULAM ABBAS BHUTTO</a>
+                      <span>MR. GHULAM ABBAS BHUTTO</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Assistant Secretary (Bills)</span>
@@ -479,7 +479,7 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>MR. MUAMMAD SULTAN SHHAIKH,</a>
+                      <span>MR. MUAMMAD SULTAN SHHAIKH,</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>Assistant Controller of Examinations
@@ -505,7 +505,7 @@ const TeachersListTeam = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>MR. GHULAM SHABIR</a>
+                      <span>MR. GHULAM SHABIR</span>
                     </Link>
                   </h5>
                   <span className='text-primary font-weight-bold'>DPE</span>
@@ -537,38 +537,38 @@ const TeachersListTeam = () => {
             {/*        <ul className="text-center clearfix">*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-facebook"*/}
             {/*              >*/}
             {/*                <i className="fab fa-facebook-f" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-twitter"*/}
             {/*              >*/}
             {/*                <i className="fab fa-twitter" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-google-plus"*/}
             {/*              >*/}
             {/*                <i className="fab fa-google-plus-g" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*        </ul>*/}
@@ -578,7 +578,7 @@ const TeachersListTeam = () => {
             {/*    <div className="tm-meta">*/}
             {/*      <h5 className="h5-md">*/}
             {/*        <Link href="/teacher-profile">*/}
-            {/*          <a>Kally Brooks</a>*/}
+            {/*          <span>Kally Brooks</span>*/}
             {/*        </Link>*/}
             {/*      </h5>*/}
             {/*      <span>Business &amp; Management</span>*/}
@@ -611,38 +611,38 @@ const TeachersListTeam = () => {
             {/*        <ul className="text-center clearfix">*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-facebook"*/}
             {/*              >*/}
             {/*                <i className="fab fa-facebook-f" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-twitter"*/}
             {/*              >*/}
             {/*                <i className="fab fa-twitter" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-linkedin"*/}
             {/*              >*/}
             {/*                <i className="fab fa-linkedin-in" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*        </ul>*/}
@@ -652,7 +652,7 @@ const TeachersListTeam = () => {
             {/*    <div className="tm-meta">*/}
             {/*      <h5 className="h5-md">*/}
             {/*        <Link href="/teacher-profile">*/}
-            {/*          <a>Robert Coronado</a>*/}
+            {/*          <span>Robert Coronado</span>*/}
             {/*        </Link>*/}
             {/*      </h5>*/}
             {/*      <span>Engineering &amp; Technology</span>*/}
@@ -685,38 +685,38 @@ const TeachersListTeam = () => {
             {/*        <ul className="text-center clearfix">*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-facebook"*/}
             {/*              >*/}
             {/*                <i className="fab fa-facebook-f" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-twitter"*/}
             {/*              >*/}
             {/*                <i className="fab fa-twitter" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-youtube"*/}
             {/*              >*/}
             {/*                <i className="fab fa-youtube" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*        </ul>*/}
@@ -726,7 +726,7 @@ const TeachersListTeam = () => {
             {/*    <div className="tm-meta">*/}
             {/*      <h5 className="h5-md">*/}
             {/*        <Link href="/teacher-profile">*/}
-            {/*          <a>Becky Reed</a>*/}
+            {/*          <span>Becky Reed</span>*/}
             {/*        </Link>*/}
             {/*      </h5>*/}
             {/*      <span>Design &amp; Art</span>*/}
@@ -759,38 +759,38 @@ const TeachersListTeam = () => {
             {/*        <ul className="text-center clearfix">*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-facebook"*/}
             {/*              >*/}
             {/*                <i className="fab fa-facebook-f" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-twitter"*/}
             {/*              >*/}
             {/*                <i className="fab fa-twitter" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-youtube"*/}
             {/*              >*/}
             {/*                <i className="fab fa-youtube" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*        </ul>*/}
@@ -800,7 +800,7 @@ const TeachersListTeam = () => {
             {/*    <div className="tm-meta">*/}
             {/*      <h5 className="h5-md">*/}
             {/*        <Link href="/teacher-profile">*/}
-            {/*          <a>David Smith</a>*/}
+            {/*          <span>David Smith</span>*/}
             {/*        </Link>*/}
             {/*      </h5>*/}
             {/*      <span>IT &amp; Software</span>*/}
@@ -833,38 +833,38 @@ const TeachersListTeam = () => {
             {/*        <ul className="text-center clearfix">*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-facebook"*/}
             {/*              >*/}
             {/*                <i className="fab fa-facebook-f" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-twitter"*/}
             {/*              >*/}
             {/*                <i className="fab fa-twitter" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-youtube"*/}
             {/*              >*/}
             {/*                <i className="fab fa-youtube" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*        </ul>*/}
@@ -874,7 +874,7 @@ const TeachersListTeam = () => {
             {/*    <div className="tm-meta">*/}
             {/*      <h5 className="h5-md">*/}
             {/*        <Link href="/teacher-profile">*/}
-            {/*          <a>Linda J. Ross</a>*/}
+            {/*          <span>Linda J. Ross</span>*/}
             {/*        </Link>*/}
             {/*      </h5>*/}
             {/*      <span>Teacher of English</span>*/}
@@ -907,38 +907,38 @@ const TeachersListTeam = () => {
             {/*        <ul className="text-center clearfix">*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-facebook"*/}
             {/*              >*/}
             {/*                <i className="fab fa-facebook-f" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-twitter"*/}
             {/*              >*/}
             {/*                <i className="fab fa-twitter" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-youtube"*/}
             {/*              >*/}
             {/*                <i className="fab fa-youtube" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*        </ul>*/}
@@ -948,7 +948,7 @@ const TeachersListTeam = () => {
             {/*    <div className="tm-meta">*/}
             {/*      <h5 className="h5-md">*/}
             {/*        <Link href="/teacher-profile">*/}
-            {/*          <a>Sergio Arriero</a>*/}
+            {/*          <span>Sergio Arriero</span>*/}
             {/*        </Link>*/}
             {/*      </h5>*/}
             {/*      <span>Teacher of Spanish</span>*/}
@@ -980,38 +980,38 @@ const TeachersListTeam = () => {
             {/*        <ul className="text-center clearfix">*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-facebook"*/}
             {/*              >*/}
             {/*                <i className="fab fa-facebook-f" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-twitter"*/}
             {/*              >*/}
             {/*                <i className="fab fa-twitter" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-youtube"*/}
             {/*              >*/}
             {/*                <i className="fab fa-youtube" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*        </ul>*/}
@@ -1021,7 +1021,7 @@ const TeachersListTeam = () => {
             {/*    <div className="tm-meta">*/}
             {/*      <h5 className="h5-md">*/}
             {/*        <Link href="/teacher-profile">*/}
-            {/*          <a>Linda Ferell</a>*/}
+            {/*          <span>Linda Ferell</span>*/}
             {/*        </Link>*/}
             {/*      </h5>*/}
             {/*      <span>Healt &amp; Fitness</span>*/}
@@ -1054,38 +1054,38 @@ const TeachersListTeam = () => {
             {/*        <ul className="text-center clearfix">*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-facebook"*/}
             {/*              >*/}
             {/*                <i className="fab fa-facebook-f" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-twitter"*/}
             {/*              >*/}
             {/*                <i className="fab fa-twitter" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-youtube"*/}
             {/*              >*/}
             {/*                <i className="fab fa-youtube" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*        </ul>*/}
@@ -1095,7 +1095,7 @@ const TeachersListTeam = () => {
             {/*    <div className="tm-meta">*/}
             {/*      <h5 className="h5-md">*/}
             {/*        <Link href="/teacher-profile">*/}
-            {/*          <a>Lea Victoria</a>*/}
+            {/*          <span>Lea Victoria</span>*/}
             {/*        </Link>*/}
             {/*      </h5>*/}
             {/*      <span>Life Science</span>*/}
@@ -1128,38 +1128,38 @@ const TeachersListTeam = () => {
             {/*        <ul className="text-center clearfix">*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-facebook"*/}
             {/*              >*/}
             {/*                <i className="fab fa-facebook-f" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-twitter"*/}
             {/*              >*/}
             {/*                <i className="fab fa-twitter" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-youtube"*/}
             {/*              >*/}
             {/*                <i className="fab fa-youtube" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*        </ul>*/}
@@ -1169,7 +1169,7 @@ const TeachersListTeam = () => {
             {/*    <div className="tm-meta">*/}
             {/*      <h5 className="h5-md">*/}
             {/*        <Link href="/teacher-profile">*/}
-            {/*          <a>Anthony Backer</a>*/}
+            {/*          <span>Anthony Backer</span>*/}
             {/*        </Link>*/}
             {/*      </h5>*/}
             {/*      <span>Photography</span>*/}
@@ -1202,38 +1202,38 @@ const TeachersListTeam = () => {
             {/*        <ul className="text-center clearfix">*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-facebook"*/}
             {/*              >*/}
             {/*                <i className="fab fa-facebook-f" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-twitter"*/}
             {/*              >*/}
             {/*                <i className="fab fa-twitter" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-youtube"*/}
             {/*              >*/}
             {/*                <i className="fab fa-youtube" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*        </ul>*/}
@@ -1243,7 +1243,7 @@ const TeachersListTeam = () => {
             {/*    <div className="tm-meta">*/}
             {/*      <h5 className="h5-md">*/}
             {/*        <Link href="/teacher-profile">*/}
-            {/*          <a>Jorge Stucky</a>*/}
+            {/*          <span>Jorge Stucky</span>*/}
             {/*        </Link>*/}
             {/*      </h5>*/}
             {/*      <span>Science &amp; Math</span>*/}
@@ -1275,38 +1275,38 @@ const TeachersListTeam = () => {
             {/*        <ul className="text-center clearfix">*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-facebook"*/}
             {/*              >*/}
             {/*                <i className="fab fa-facebook-f" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-twitter"*/}
             {/*              >*/}
             {/*                <i className="fab fa-twitter" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*          <li>*/}
             {/*            <Link href="#">*/}
-            {/*              <a*/}
+            {/*              <span*/}
             {/*                onClick={(e) => {*/}
             {/*                  e.preventDefault();*/}
             {/*                }}*/}
             {/*                className="ico-youtube"*/}
             {/*              >*/}
             {/*                <i className="fab fa-youtube" />*/}
-            {/*              </a>*/}
+            {/*              </span>*/}
             {/*            </Link>*/}
             {/*          </li>*/}
             {/*        </ul>*/}
@@ -1316,7 +1316,7 @@ const TeachersListTeam = () => {
             {/*    <div className="tm-meta">*/}
             {/*      <h5 className="h5-md">*/}
             {/*        <Link href="/teacher-profile">*/}
-            {/*          <a>Jilly Buchanan</a>*/}
+            {/*          <span>Jilly Buchanan</span>*/}
             {/*        </Link>*/}
             {/*      </h5>*/}
             {/*      <span>Real Estate</span>*/}

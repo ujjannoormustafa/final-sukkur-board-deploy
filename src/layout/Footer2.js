@@ -26,17 +26,17 @@ const Footer2 = () => {
               <ul className="foo-links clearfix">
                 <li>
                   <Link href="/home">
-                    <a>Home</a>
+                    <span>Home</span>
                   </Link>
                 </li>
                 <li>
                   <Link href="/news">
-                    <a>News & Update</a>
+                    <span>News & Update</span>
                   </Link>
                 </li>
                 <li>
                   <Link href="/results">
-                    <a>Results</a>
+                    <span>Results</span>
                   </Link>
                 </li>
               </ul>
@@ -49,7 +49,7 @@ const Footer2 = () => {
               <ul className="clearfix">
                 <li>
                   <Link href="/categories-list">
-                    <a>Courses Catalog</a>
+                    <span>Courses Catalog</span>
                   </Link>
                 </li>
                 <li>
@@ -57,7 +57,7 @@ const Footer2 = () => {
                 </li>
                 <li>
                   <Link href="/pricing">
-                    <a>Premium Learning</a>
+                    <span>Premium Learning</span>
                   </Link>
                 </li>
               </ul>
@@ -70,24 +70,24 @@ const Footer2 = () => {
               <ul className="clearfix">
                 <li>
                   <Link href="#">
-                    <a
+                    <span
                       onClick={(e) => {
                         e.preventDefault();
                       }}
                     >
                       Terms &amp; Privacy
-                    </a>
+                    </span>
                   </Link>
                 </li>
                 <li>
                   <Link href="#">
-                    <a
+                    <span
                       onClick={(e) => {
                         e.preventDefault();
                       }}
                     >
                       Site Map
-                    </a>
+                    </span>
                   </Link>
                 </li>
               </ul>
@@ -106,9 +106,9 @@ const Footer2 = () => {
                 </li>
 
                 <li>
-                  <h6>Powered By <a target={"_blank"} href="https://www.fastechsystem.com">
+                  <h6>Powered By <span target={"_blank"} href="https://www.fastechsystem.com">
                     FasTech System
-                  </a></h6>
+                  </span></h6>
 
                 </li>
               </ul>
@@ -118,62 +118,62 @@ const Footer2 = () => {
               <ul className="foo-socials text-center clearfix">
                 <li>
                   <Link href="#">
-                    <a
+                    <span
                       onClick={(e) => {
                         e.preventDefault();
                       }}
                       className="ico-facebook"
                     >
                       <i className="fab fa-facebook-f" />
-                    </a>
+                    </span>
                   </Link>
                 </li>
                 <li>
                   <Link href="#">
-                    <a
+                    <span
                       onClick={(e) => {
                         e.preventDefault();
                       }}
                       className="ico-twitter"
                     >
                       <i className="fab fa-twitter" />
-                    </a>
+                    </span>
                   </Link>
                 </li>
                 <li>
                   <Link href="#">
-                    <a
+                    <span
                       onClick={(e) => {
                         e.preventDefault();
                       }}
                       className="ico-google-plus"
                     >
                       <i className="fab fa-google-plus-g" />
-                    </a>
+                    </span>
                   </Link>
                 </li>
                 <li>
                   <Link href="#">
-                    <a
+                    <span
                       onClick={(e) => {
                         e.preventDefault();
                       }}
                       className="ico-tumblr"
                     >
                       <i className="fab fa-tumblr" />
-                    </a>
+                    </span>
                   </Link>
                 </li>
                 {/*
-                                  <li><a href="#" class="ico-behance"><i class="fab fa-behance"></i></a></li>	
-                                  <li><a href="#" class="ico-dribbble"><i class="fab fa-dribbble"></i></a></li>									
-                                  <li><a href="#" class="ico-instagram"><i class="fab fa-instagram"></i></a></li>	
-                                  <li><a href="#" class="ico-linkedin"><i class="fab fa-linkedin-in"></i></a></li>
-                                  <li><a href="#" class="ico-pinterest"><i class="fab fa-pinterest-p"></i></a></li>								
-                                  <li><a href="#" class="ico-youtube"><i class="fab fa-youtube"></i></a></li>										
-                                  <li><a href="#" class="ico-vk"><i class="fab fa-vk"></i></a></li>
-                                  <li><a href="#" class="ico-yelp"><i class="fab fa-yelp"></i></a></li>
-                                  <li><a href="#" class="ico-yahoo"><i class="fab fa-yahoo"></i></a></li>
+                                  <li><span href="#" class="ico-behance"><i class="fab fa-behance"></i></span></li>
+                                  <li><span href="#" class="ico-dribbble"><i class="fab fa-dribbble"></i></span></li>
+                                  <li><span href="#" class="ico-instagram"><i class="fab fa-instagram"></i></span></li>
+                                  <li><span href="#" class="ico-linkedin"><i class="fab fa-linkedin-in"></i></span></li>
+                                  <li><span href="#" class="ico-pinterest"><i class="fab fa-pinterest-p"></i></span></li>
+                                  <li><span href="#" class="ico-youtube"><i class="fab fa-youtube"></i></span></li>
+                                  <li><span href="#" class="ico-vk"><i class="fab fa-vk"></i></span></li>
+                                  <li><span href="#" class="ico-yelp"><i class="fab fa-yelp"></i></span></li>
+                                  <li><span href="#" class="ico-yahoo"><i class="fab fa-yahoo"></i></span></li>
                                   */}
               </ul>
             </div>

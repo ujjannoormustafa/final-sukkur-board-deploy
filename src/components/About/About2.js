@@ -46,9 +46,9 @@ const About2 = () => {
                             </ul>
                             {/* Button */}
                             <Link href="/categories-list">
-                                <a className="btn btn-md btn-tra-grey rose-hover">
+                                <span className="btn btn-md btn-tra-grey rose-hover">
                                     Start Learning Now
-                                </a>
+                                </span>
                             </Link>
                         </div>
                     </div>

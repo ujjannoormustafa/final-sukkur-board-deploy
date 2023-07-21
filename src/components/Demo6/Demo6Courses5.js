@@ -22,9 +22,9 @@ const Demo6Courses5 = () => {
                             {/* Button */}
                             <div className="title-btn">
                                 <Link href="/courses-list">
-                                    <a className="btn btn-tra-grey rose-hover">
+                                    <span className="btn btn-tra-grey rose-hover">
                                         View All Courses
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>
@@ -36,7 +36,7 @@ const Demo6Courses5 = () => {
                         {/* COURSE #1 */}
                         <div className="cbox-5 b-bottom">
                             <Link href="/course-details">
-                                <a>
+                                <span>
                                     <div className="row">
                                         {/* Course Description */}
                                         <div className="col-sm-7 cbox-5-txt">
@@ -76,14 +76,14 @@ const Demo6Courses5 = () => {
                                             </span>
                                         </div>
                                     </div>
-                                </a>
+                                </span>
                             </Link>
                         </div>
                         {/* END COURSE #1 */}
                         {/* COURSE #2 */}
                         <div className="cbox-5 b-bottom">
                             <Link href="/course-details">
-                                <a>
+                                <span>
                                     <div className="row">
                                         {/* Course Description */}
                                         <div className="col-sm-7 cbox-5-txt">
@@ -123,14 +123,14 @@ const Demo6Courses5 = () => {
                                             </span>
                                         </div>
                                     </div>
-                                </a>
+                                </span>
                             </Link>
                         </div>
                         {/* END COURSE #2 */}
                         {/* COURSE #3 */}
                         <div className="cbox-5">
                             <Link href="/course-details">
-                                <a>
+                                <span>
                                     <div className="row">
                                         {/* Course Description */}
                                         <div className="col-sm-7 cbox-5-txt">
@@ -169,7 +169,7 @@ const Demo6Courses5 = () => {
                                             </span>
                                         </div>
                                     </div>
-                                </a>
+                                </span>
                             </Link>
                         </div>
                         {/* END COURSE #3 */}
@@ -180,7 +180,7 @@ const Demo6Courses5 = () => {
                         {/* COURSE #4 */}
                         <div className="cbox-5 b-bottom">
                             <Link href="/course-details">
-                                <a>
+                                <span>
                                     <div className="row">
                                         {/* Course Description */}
                                         <div className="col-sm-7 cbox-5-txt">
@@ -220,14 +220,14 @@ const Demo6Courses5 = () => {
                                             </span>
                                         </div>
                                     </div>
-                                </a>
+                                </span>
                             </Link>
                         </div>
                         {/* END COURSE #4 */}
                         {/* COURSE #5 */}
                         <div className="cbox-5 b-bottom">
                             <Link href="/course-details">
-                                <a>
+                                <span>
                                     <div className="row">
                                         {/* Course Description */}
                                         <div className="col-sm-7 cbox-5-txt">
@@ -267,14 +267,14 @@ const Demo6Courses5 = () => {
                                             </span>
                                         </div>
                                     </div>
-                                </a>
+                                </span>
                             </Link>
                         </div>
                         {/* END COURSE #5 */}
                         {/* COURSE #6 */}
                         <div className="cbox-5">
                             <Link href="/course-details">
-                                <a>
+                                <span>
                                     <div className="row">
                                         {/* Course Description */}
                                         <div className="col-sm-7 cbox-5-txt">
@@ -314,7 +314,7 @@ const Demo6Courses5 = () => {
                                             </span>
                                         </div>
                                     </div>
-                                </a>
+                                </span>
                             </Link>
                         </div>
                         {/* END COURSE #6 */}

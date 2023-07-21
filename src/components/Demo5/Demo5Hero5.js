@@ -34,9 +34,9 @@ const Demo5Hero5 = () => {
                         </p>
                         {/* Button */}
                         <Link href="/categories-list">
-                          <a className="btn btn-md btn-rose tra-white-hover">
+                          <span className="btn btn-md btn-rose tra-white-hover">
                             Discover More
-                          </a>
+                          </span>
                         </Link>
                       </div>
                     </div>
@@ -75,9 +75,9 @@ const Demo5Hero5 = () => {
                         </p>
                         {/* Button */}
                         <Link href="/pricing">
-                          <a className="btn btn-md btn-rose tra-white-hover">
+                          <span className="btn btn-md btn-rose tra-white-hover">
                             Discover More
-                          </a>
+                          </span>
                         </Link>
                       </div>
                     </div>
@@ -115,9 +115,9 @@ const Demo5Hero5 = () => {
                         </p>
                         {/* Button */}
                         <Link href="/courses-list">
-                          <a className="btn btn-md btn-rose tra-white-hover">
+                          <span className="btn btn-md btn-rose tra-white-hover">
                             View All Courses
-                          </a>
+                          </span>
                         </Link>
                       </div>
                     </div>

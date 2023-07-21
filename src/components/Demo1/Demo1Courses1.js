@@ -20,9 +20,9 @@ const Demo1Courses1 = () => {
               {/* Button */}
               <div className="title-btn">
                 <Link href="/courses-list">
-                  <a className="btn btn-tra-grey rose-hover">
+                  <span className="btn btn-tra-grey rose-hover">
                     View All Courses
-                  </a>
+                  </span>
                 </Link>
               </div>
             </div>

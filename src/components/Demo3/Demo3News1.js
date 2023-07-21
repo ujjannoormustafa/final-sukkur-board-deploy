@@ -21,9 +21,9 @@ const Demo3News1 = () => {
                             {/* Button */}
                             <div className="title-btn">
                                 <Link href="/results">
-                                    <a className="btn btn-tra-grey rose-hover">
+                                    <span className="btn btn-tra-grey rose-hover">
                                         Read More Stories
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>
@@ -37,7 +37,7 @@ const Demo3News1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 {/* Article Preview */}
                                 <div className="hover-overlay">
                                     <img
@@ -57,7 +57,7 @@ const Demo3News1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>
@@ -67,7 +67,7 @@ const Demo3News1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 {/* Article Preview */}
                                 <div className="hover-overlay">
                                     <img
@@ -86,7 +86,7 @@ const Demo3News1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>
@@ -96,7 +96,7 @@ const Demo3News1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 {/* Article Preview */}
                                 <div className="hover-overlay">
                                     <img
@@ -115,7 +115,7 @@ const Demo3News1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>
@@ -125,7 +125,7 @@ const Demo3News1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 {/* Article Preview */}
                                 <div className="hover-overlay">
                                     <img
@@ -144,7 +144,7 @@ const Demo3News1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>
@@ -154,7 +154,7 @@ const Demo3News1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 {/* Article Preview */}
                                 <div className="hover-overlay">
                                     <img
@@ -173,7 +173,7 @@ const Demo3News1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>
@@ -183,7 +183,7 @@ const Demo3News1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 {/* Article Preview */}
                                 <div className="hover-overlay">
                                     <img
@@ -203,7 +203,7 @@ const Demo3News1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>
@@ -213,7 +213,7 @@ const Demo3News1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 {/* Article Preview */}
                                 <div className="hover-overlay">
                                     <img
@@ -232,7 +232,7 @@ const Demo3News1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>
@@ -242,7 +242,7 @@ const Demo3News1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 {/* Article Preview */}
                                 <div className="hover-overlay">
                                     <img
@@ -261,7 +261,7 @@ const Demo3News1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>

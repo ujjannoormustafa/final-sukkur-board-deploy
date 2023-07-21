@@ -27,9 +27,9 @@ const etailsCourses5 = () => {
                 {/* Button */}
                 <div className="title-btn">
                   <Link href="/courses-list">
-                    <a className="btn btn-tra-grey rose-hover">
+                    <span className="btn btn-tra-grey rose-hover">
                       View All Courses
-                    </a>
+                    </span>
                   </Link>
                 </div>
               </div>
@@ -41,7 +41,7 @@ const etailsCourses5 = () => {
               {/* COURSE #1 */}
               <div id="" className="cbox-5 b-bottom">
                 <Link href="/course-details">
-                  <a>
+                  <span>
                     <div className="row">
                       {/* Course Description */}
                       <div className="col-sm-7 cbox-5-txt">
@@ -74,14 +74,14 @@ const etailsCourses5 = () => {
                         <span className="old-price">$119.99</span>
                       </div>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </div>
               {/* END COURSE #1 */}
               {/* COURSE #2 */}
               <div id="" className="cbox-5 b-bottom">
                 <Link href="/course-details">
-                  <a>
+                  <span>
                     <div className="row">
                       {/* Course Description */}
                       <div className="col-sm-7 cbox-5-txt">
@@ -114,14 +114,14 @@ const etailsCourses5 = () => {
                         <span className="old-price">$69.99</span>
                       </div>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </div>
               {/* END COURSE #2 */}
               {/* COURSE #3 */}
               <div id="" className="cbox-5">
                 <Link href="/course-details">
-                  <a>
+                  <span>
                     <div className="row">
                       {/* Course Description */}
                       <div className="col-sm-7 cbox-5-txt">
@@ -153,7 +153,7 @@ const etailsCourses5 = () => {
                         <span className="old-price">$74.99</span>
                       </div>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </div>
               {/* END COURSE #3 */}
@@ -164,7 +164,7 @@ const etailsCourses5 = () => {
               {/* COURSE #4 */}
               <div id="" className="cbox-5 b-bottom">
                 <Link href="/course-details">
-                  <a>
+                  <span>
                     <div className="row">
                       {/* Course Description */}
                       <div className="col-sm-7 cbox-5-txt">
@@ -198,14 +198,14 @@ const etailsCourses5 = () => {
                         <span className="old-price">$84.99</span>
                       </div>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </div>
               {/* END COURSE #4 */}
               {/* COURSE #5 */}
               <div id="" className="cbox-5 b-bottom">
                 <Link href="/course-details">
-                  <a>
+                  <span>
                     <div className="row">
                       {/* Course Description */}
                       <div className="col-sm-7 cbox-5-txt">
@@ -238,14 +238,14 @@ const etailsCourses5 = () => {
                         <span className="old-price">$99.99</span>
                       </div>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </div>
               {/* END COURSE #5 */}
               {/* COURSE #6 */}
               <div id="" className="cbox-5">
                 <Link href="/course-details">
-                  <a>
+                  <span>
                     <div className="row">
                       {/* Course Description */}
                       <div className="col-sm-7 cbox-5-txt">
@@ -278,7 +278,7 @@ const etailsCourses5 = () => {
                         <span className="old-price">$62.99</span>
                       </div>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </div>
               {/* END COURSE #6 */}

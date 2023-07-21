@@ -17,9 +17,9 @@ const Demo3Hboxes = () => {
                 {/* Button */}
                 {/*<div className="title-btn">*/}
                 {/*  <Link href="/courses-list">*/}
-                {/*    <a className="btn btn-sm btn-rose tra-grey-hover">*/}
+                {/*    <span className="btn btn-sm btn-rose tra-grey-hover">*/}
                 {/*      View All Courses*/}
-                {/*    </a>*/}
+                {/*    </span>*/}
                 {/*  </Link>*/}
                 {/*</div>*/}
               </div>
@@ -32,7 +32,7 @@ const Demo3Hboxes = () => {
                 {/* COURSE #1 */}
                 <SwiperSlide className="cbox-1">
                   <Link href="/course-details">
-                    <a>
+                    <span>
                       {/* Image */}
                       <img
                         className="img-fluid"
@@ -65,14 +65,14 @@ const Demo3Hboxes = () => {
                     {/*      $138.99*/}
                     {/*    </span>*/}
                     {/*  </div>*/}
-                    </a>
+                    </span>
                   </Link>
                 </SwiperSlide>
                 {/* END COURSE #1 */}
                 {/* COURSE #2 */}
                 <SwiperSlide className="cbox-1">
                   <Link href="/course-details">
-                    <a>
+                    <span>
                       {/* Image */}
                       <img
                         className="img-fluid"
@@ -105,14 +105,14 @@ const Demo3Hboxes = () => {
                       {/*    $59.99*/}
                       {/*  </span>*/}
                       {/*</div>*/}
-                    </a>
+                    </span>
                   </Link>
                 </SwiperSlide>
                 {/* END COURSE #2 */}
                 {/* COURSE #3 */}
                 <SwiperSlide className="cbox-1">
                   <Link href="/course-details">
-                    <a>
+                    <span>
                       {/* Image */}
                       <img
                         className="img-fluid"
@@ -145,14 +145,14 @@ const Demo3Hboxes = () => {
                       {/*    $34.99*/}
                       {/*  </span>*/}
                       {/*</div>*/}
-                    </a>
+                    </span>
                   </Link>
                 </SwiperSlide>
                 {/* END COURSE #3 */}
                 {/* COURSE #4 */}
                 <SwiperSlide className="cbox-1">
                   <Link href="/course-details">
-                    <a>
+                    <span>
                       {/* Image */}
                       <img
                         className="img-fluid"
@@ -182,14 +182,14 @@ const Demo3Hboxes = () => {
                       {/*  /!* Course Price *!/*/}
                       {/*  <span className="course-price">Free Course</span>*/}
                       {/*</div>*/}
-                    </a>
+                    </span>
                   </Link>
                 </SwiperSlide>
                 {/* END COURSE #4 */}
                 {/* COURSE #5 */}
                 <SwiperSlide className="cbox-1">
                   <Link href="/course-details">
-                    <a>
+                    <span>
                       {/* Image */}
                       <img
                         className="img-fluid"
@@ -221,14 +221,14 @@ const Demo3Hboxes = () => {
                       {/*    $62.99*/}
                       {/*  </span>*/}
                       {/*</div>*/}
-                    </a>
+                    </span>
                   </Link>
                 </SwiperSlide>
                 {/* END COURSE #5 */}
                 {/* COURSE #6 */}
                 <SwiperSlide className="cbox-1">
                   <Link href="/course-details">
-                    <a>
+                    <span>
                       {/* Image */}
                       <img
                         className="img-fluid"
@@ -262,14 +262,14 @@ const Demo3Hboxes = () => {
                       {/*    $45.99*/}
                       {/*  </span>*/}
                       {/*</div>*/}
-                    </a>
+                    </span>
                   </Link>
                 </SwiperSlide>
                 {/* END COURSE #6 */}
                 {/* COURSE #7 */}
                 <SwiperSlide className="cbox-1">
                   <Link href="/course-details">
-                    <a>
+                    <span>
                       {/* Image */}
                       <img
                         className="img-fluid"
@@ -303,14 +303,14 @@ const Demo3Hboxes = () => {
                       {/*    $23.99*/}
                       {/*  </span>*/}
                       {/*</div>*/}
-                    </a>
+                    </span>
                   </Link>
                 </SwiperSlide>
                 {/* END COURSE #7 */}
                 {/* COURSE #8 */}
                 <SwiperSlide className="cbox-1">
                   <Link href="/course-details">
-                    <a>
+                    <span>
                       {/* Image */}
                       <img
                         className="img-fluid"
@@ -344,7 +344,7 @@ const Demo3Hboxes = () => {
                       {/*    $33.99*/}
                       {/*  </span>*/}
                       {/*</div>*/}
-                    </a>
+                    </span>
                   </Link>
                 </SwiperSlide>
                 {/* END COURSE #8 */}

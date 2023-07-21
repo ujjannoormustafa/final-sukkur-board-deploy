@@ -22,9 +22,9 @@ const Demo9Hero9 = () => {
               </p>
               {/* Button */}
               <Link href="/categories-list">
-                <a className="btn btn-md btn-rose tra-white-hover">
+                <span className="btn btn-md btn-rose tra-white-hover">
                   View All Categories
-                </a>
+                </span>
               </Link>
             </div>
           </div>

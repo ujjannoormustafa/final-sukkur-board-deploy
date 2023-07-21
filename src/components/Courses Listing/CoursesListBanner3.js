@@ -31,7 +31,7 @@ const CoursesListBanner3 = () => {
         //                         </h4>
         //                         {/* Button */}
         //                         <Link href="#">
-        //                             <a
+        //                             <span
         //                                 onClick={(e) => {
         //                                     e.preventDefault();
         //                                 }}
@@ -39,7 +39,7 @@ const CoursesListBanner3 = () => {
         //                                 className="btn btn-rose tra-white-hover"
         //                             >
         //                                 Select Course
-        //                             </a>
+        //                             </span>
         //                         </Link>
         //                     </div>
         //                 </div>

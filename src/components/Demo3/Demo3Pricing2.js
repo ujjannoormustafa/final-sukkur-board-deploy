@@ -105,14 +105,14 @@ const Demo3Pricing2 = () => {
                             {/* Pricing Table Button */}
                             <div className="pricing-plan-btn text-center">
                                 <Link href="#">
-                                    <a
+                                    <span
                                         onClick={(e) => {
                                             e.preventDefault();
                                         }}
                                         className="btn btn-rose tra-black-hover"
                                     >
                                         Go Premium
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>

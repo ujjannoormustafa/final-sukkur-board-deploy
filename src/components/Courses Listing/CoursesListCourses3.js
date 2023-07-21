@@ -28,7 +28,7 @@ const CoursesListCourses3 = () => {
         //             <div className="col-md-6 col-lg-4 col-xl-3">
         //                 <div className="cbox-1">
         //                     <Link href="/course-details">
-        //                         <a>
+        //                         <span>
         //                             {/* Image */}
         //                             <img
         //                                 className="img-fluid"
@@ -63,7 +63,7 @@ const CoursesListCourses3 = () => {
         //                                     $138.99
         //                                 </span>
         //                             </div>
-        //                         </a>
+        //                         </span>
         //                     </Link>
         //                 </div>
         //             </div>
@@ -72,7 +72,7 @@ const CoursesListCourses3 = () => {
         //             <div className="col-md-6 col-lg-4 col-xl-3">
         //                 <div className="cbox-1">
         //                     <Link href="/course-details">
-        //                         <a>
+        //                         <span>
         //                             {/* Image */}
         //                             <img
         //                                 className="img-fluid"
@@ -108,7 +108,7 @@ const CoursesListCourses3 = () => {
         //                                     $59.99
         //                                 </span>
         //                             </div>
-        //                         </a>
+        //                         </span>
         //                     </Link>
         //                 </div>
         //             </div>
@@ -117,7 +117,7 @@ const CoursesListCourses3 = () => {
         //             <div className="col-md-6 col-lg-4 col-xl-3">
         //                 <div className="cbox-1">
         //                     <Link href="/course-details">
-        //                         <a>
+        //                         <span>
         //                             {/* Image */}
         //                             <img
         //                                 className="img-fluid"
@@ -153,7 +153,7 @@ const CoursesListCourses3 = () => {
         //                                     $34.99
         //                                 </span>
         //                             </div>
-        //                         </a>
+        //                         </span>
         //                     </Link>
         //                 </div>
         //             </div>
@@ -162,7 +162,7 @@ const CoursesListCourses3 = () => {
         //             <div className="col-md-6 col-lg-4 col-xl-3">
         //                 <div className="cbox-1">
         //                     <Link href="/course-details">
-        //                         <a>
+        //                         <span>
         //                             {/* Image */}
         //                             <img
         //                                 className="img-fluid"
@@ -198,7 +198,7 @@ const CoursesListCourses3 = () => {
         //                                     $64.99
         //                                 </span>
         //                             </div>
-        //                         </a>
+        //                         </span>
         //                     </Link>
         //                 </div>
         //             </div>
@@ -207,7 +207,7 @@ const CoursesListCourses3 = () => {
         //             <div className="col-md-6 col-lg-4 col-xl-3">
         //                 <div className="cbox-1">
         //                     <Link href="/course-details">
-        //                         <a>
+        //                         <span>
         //                             {/* Image */}
         //                             <img
         //                                 className="img-fluid"
@@ -242,7 +242,7 @@ const CoursesListCourses3 = () => {
         //                                     $62.99
         //                                 </span>
         //                             </div>
-        //                         </a>
+        //                         </span>
         //                     </Link>
         //                 </div>
         //             </div>
@@ -251,7 +251,7 @@ const CoursesListCourses3 = () => {
         //             <div className="col-md-6 col-lg-4 col-xl-3">
         //                 <div className="cbox-1">
         //                     <Link href="/course-details">
-        //                         <a>
+        //                         <span>
         //                             {/* Image */}
         //                             <img
         //                                 className="img-fluid"
@@ -287,7 +287,7 @@ const CoursesListCourses3 = () => {
         //                                     $45.99
         //                                 </span>
         //                             </div>
-        //                         </a>
+        //                         </span>
         //                     </Link>
         //                 </div>
         //             </div>
@@ -296,7 +296,7 @@ const CoursesListCourses3 = () => {
         //             <div className="col-md-6 col-lg-4 col-xl-3">
         //                 <div className="cbox-1">
         //                     <Link href="/course-details">
-        //                         <a>
+        //                         <span>
         //                             {/* Image */}
         //                             <img
         //                                 className="img-fluid"
@@ -332,7 +332,7 @@ const CoursesListCourses3 = () => {
         //                                     $23.99
         //                                 </span>
         //                             </div>
-        //                         </a>
+        //                         </span>
         //                     </Link>
         //                 </div>
         //             </div>
@@ -341,7 +341,7 @@ const CoursesListCourses3 = () => {
         //             <div className="col-md-6 col-lg-4 col-xl-3">
         //                 <div className="cbox-1">
         //                     <Link href="/course-details">
-        //                         <a>
+        //                         <span>
         //                             {/* Image */}
         //                             <img
         //                                 className="img-fluid"
@@ -377,7 +377,7 @@ const CoursesListCourses3 = () => {
         //                                     $33.99
         //                                 </span>
         //                             </div>
-        //                         </a>
+        //                         </span>
         //                     </Link>
         //                 </div>
         //             </div>

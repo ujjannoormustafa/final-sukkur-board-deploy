@@ -21,9 +21,9 @@ const Demo1Categories3 = () => {
               {/* Button */}
               <div className="title-btn">
                 <Link href="/categories-list">
-                  <a className="btn btn-tra-grey rose-hover">
+                  <span className="btn btn-tra-grey rose-hover">
                     View All Categorie
-                  </a>
+                  </span>
                 </Link>
               </div>
             </div>
@@ -36,7 +36,7 @@ const Demo1Categories3 = () => {
               {/* CATEGORIE BOX #1 */}
               <SwiperSlide className="bg-blue c3-box text-center icon-md white-color">
                 <Link href="/category-details">
-                  <a>
+                  <span>
                     {/* Icon */}
                     <div className="c3-box-icon">
                       <img
@@ -49,14 +49,14 @@ const Demo1Categories3 = () => {
                       <h5 className="h5-md">Development</h5>
                       <p>36 Courses</p>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </SwiperSlide>
               {/* END CATEGORIE BOX #1 */}
               {/* CATEGORIE BOX #2 */}
               <SwiperSlide className="bg-green c3-box text-center icon-md white-color">
                 <Link href="/category-details">
-                  <a>
+                  <span>
                     {/* Icon */}
                     <div className="c3-box-icon">
                       <img
@@ -69,14 +69,14 @@ const Demo1Categories3 = () => {
                       <h5 className="h5-md">Finance</h5>
                       <p>28 Courses</p>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </SwiperSlide>
               {/* END CATEGORIE BOX #2 */}
               {/* CATEGORIE BOX #3 */}
               <SwiperSlide className="bg-red c3-box text-center icon-md white-color">
                 <Link href="/category-details">
-                  <a>
+                  <span>
                     {/* Icon */}
                     <div className="c3-box-icon">
                       <img
@@ -89,14 +89,14 @@ const Demo1Categories3 = () => {
                       <h5 className="h5-md">IT &amp; Software</h5>
                       <p>54 Courses</p>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </SwiperSlide>
               {/* END CATEGORIE BOX #3 */}
               {/* CATEGORIE BOX #4 */}
               <SwiperSlide className="bg-teal c3-box text-center white-color">
                 <Link href="/category-details">
-                  <a>
+                  <span>
                     {/* Icon */}
                     <div className="c3-box-icon">
                       <img
@@ -109,14 +109,14 @@ const Demo1Categories3 = () => {
                       <h5 className="h5-md">Engineering</h5>
                       <p>68 Courses</p>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </SwiperSlide>
               {/* END CATEGORIE BOX #4 */}
               {/* CATEGORIE BOX #5 */}
               <SwiperSlide className="bg-yellow c3-box text-center icon-md white-color">
                 <Link href="/category-details">
-                  <a>
+                  <span>
                     {/* Icon */}
                     <div className="c3-box-icon">
                       <img
@@ -129,14 +129,14 @@ const Demo1Categories3 = () => {
                       <h5 className="h5-md">Science</h5>
                       <p>59 Courses</p>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </SwiperSlide>
               {/* END CATEGORIE BOX #5 */}
               {/* CATEGORIE BOX #6 */}
               <SwiperSlide className="bg-violet c3-box text-center icon-md white-color">
                 <Link href="/category-details">
-                  <a>
+                  <span>
                     {/* Icon */}
                     <div className="c3-box-icon">
                       <img
@@ -149,14 +149,14 @@ const Demo1Categories3 = () => {
                       <h5 className="h5-md">Marketing</h5>
                       <p>28 Courses</p>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </SwiperSlide>
               {/* END CATEGORIE BOX #6 */}
               {/* CATEGORIE BOX #7 */}
               <SwiperSlide className="bg-orange c3-box text-center icon-md white-color">
                 <Link href="/category-details">
-                  <a>
+                  <span>
                     {/* Icon */}
                     <div className="c3-box-icon">
                       <img
@@ -169,14 +169,14 @@ const Demo1Categories3 = () => {
                       <h5 className="h5-md">Languages</h5>
                       <p>137 Courses</p>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </SwiperSlide>
               {/* END CATEGORIE BOX #7 */}
               {/* CATEGORIE BOX #8 */}
               <SwiperSlide className="bg-lightgreen c3-box text-center icon-md white-color">
                 <Link href="/category-details">
-                  <a>
+                  <span>
                     {/* Icon */}
                     <div className="c3-box-icon">
                       <img
@@ -189,14 +189,14 @@ const Demo1Categories3 = () => {
                       <h5 className="h5-md">Health &amp; Fitness</h5>
                       <p>94 Courses</p>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </SwiperSlide>
               {/* END CATEGORIE BOX #8 */}
               {/* CATEGORIE BOX #9 */}
               <SwiperSlide className="bg-skyblue c3-box text-center icon-md white-color">
                 <Link href="/category-details">
-                  <a>
+                  <span>
                     {/* Icon */}
                     <div className="c3-box-icon">
                       <img
@@ -209,14 +209,14 @@ const Demo1Categories3 = () => {
                       <h5 className="h5-md">Design &amp; Arts</h5>
                       <p>72 Courses</p>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </SwiperSlide>
               {/* END CATEGORIE BOX #9 */}
               {/* CATEGORIE BOX #10 */}
               <SwiperSlide className="bg-yellow c3-box text-center icon-md white-color">
                 <Link href="/category-details">
-                  <a>
+                  <span>
                     {/* Icon */}
                     <div className="c3-box-icon">
                       <img
@@ -229,14 +229,14 @@ const Demo1Categories3 = () => {
                       <h5 className="h5-md">Life Science</h5>
                       <p>72 Courses</p>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </SwiperSlide>
               {/* END CATEGORIE BOX #10 */}
               {/* CATEGORIE BOX #11 */}
               <SwiperSlide className="bg-red c3-box text-center icon-md white-color">
                 <Link href="/category-details">
-                  <a>
+                  <span>
                     {/* Icon */}
                     <div className="c3-box-icon">
                       <img
@@ -250,14 +250,14 @@ const Demo1Categories3 = () => {
                       <h5 className="h5-md">Mathematics</h5>
                       <p>63 Courses</p>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </SwiperSlide>
               {/* END CATEGORIE BOX #11 */}
               {/* CATEGORIE BOX #12 */}
               <SwiperSlide className="bg-olive c3-box text-center icon-md white-color">
                 <Link href="/category-details">
-                  <a>
+                  <span>
                     {/* Icon */}
                     <div className="c3-box-icon">
                       <img
@@ -270,7 +270,7 @@ const Demo1Categories3 = () => {
                       <h5 className="h5-md">Photography</h5>
                       <p>106 Courses</p>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </SwiperSlide>
               {/* END CATEGORIE BOX #13 */}

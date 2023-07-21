@@ -180,7 +180,7 @@ const CourseDetails = () => {
                     Level Beginner • 13 Lectures • 03:06:14 Total Hours
                   </p>
                   {/* ACCORDION */}
-                  <Accordion
+                  <spanccordion
                     defaultActiveKey="collapseOne"
                     id="accordion"
                     role="tablist"
@@ -191,7 +191,7 @@ const CourseDetails = () => {
                       <div className="card-header" role="tab" id="headingOne">
                         {/* Header Title */}
                         <h5 className="h5-xs">
-                          <Accordion.Toggle
+                          <spanccordion.Toggle
                             data-toggle="collapse"
                             as="a"
                             href="#collapseOne"
@@ -206,7 +206,7 @@ const CourseDetails = () => {
                         </div>
                       </div>
                       {/* Card Body */}
-                      <Accordion.Collapse eventKey="collapseOne">
+                      <spanccordion.Collapse eventKey="collapseOne">
                         <div className="card-body">
                           {/* List */}
                           <ul className="txt-list mb-10">
@@ -222,14 +222,14 @@ const CourseDetails = () => {
                           {/* Video link */}
                           <p className="cb-video">
                             <Link href="#">
-                              <a
+                              <span
                                 className="video-popup2"
                                 onClick={() => showVideo("7e90gBu4pas")}
                                 href="#"
                               >
                                 <i className="fas fa-play-circle" />
                                 Mauris donec ociis magnis sapien
-                              </a>
+                              </span>
                             </Link>
                           </p>
                         </div>
@@ -241,7 +241,7 @@ const CourseDetails = () => {
                       {/* Card Header */}
                       <div className="card-header" role="tab" id="headingTwo">
                         <h5 className="h5-xs">
-                          <Accordion.Toggle
+                          <spanccordion.Toggle
                             as="a"
                             href="#collapseTwo"
                             data-toggle="collapse"
@@ -256,7 +256,7 @@ const CourseDetails = () => {
                         </div>
                       </div>
                       {/* Card Body */}
-                      <Accordion.Collapse eventKey="collapseTwo">
+                      <spanccordion.Collapse eventKey="collapseTwo">
                         <div className="card-body">
                           {/* Text */}
                           <p>
@@ -287,12 +287,12 @@ const CourseDetails = () => {
                           <p className="download-file">
                             <i className="fas fa-file-archive" />
                             <Link href="#">
-                              <a
+                              <span
                                 href="sources/your-file.zip"
                                 download="your-file"
                               >
                                 Download File
-                              </a>
+                              </span>
                             </Link>
                           </p>
                         </div>
@@ -304,7 +304,7 @@ const CourseDetails = () => {
                       {/* Card Header */}
                       <div className="card-header" role="tab" id="headingThree">
                         <h5 className="h5-xs">
-                          <Accordion.Toggle
+                          <spanccordion.Toggle
                             as="a"
                             data-toggle="collapse"
                             href="#collapseThree"
@@ -319,44 +319,44 @@ const CourseDetails = () => {
                         </div>
                       </div>
                       {/* Card Body */}
-                      <Accordion.Collapse eventKey="collapseThree">
+                      <spanccordion.Collapse eventKey="collapseThree">
                         <div className="card-body">
                           {/* Video link */}
                           <p className="cb-video">
                             <Link href="#">
-                              <a
+                              <span
                                 className="video-popup2"
                                 onClick={() => showVideo("7e90gBu4pas")}
                               >
                                 <i className="fas fa-play-circle" />
                                 Mauris donec ociis magnis sapien
-                              </a>
+                              </span>
                             </Link>
                           </p>
                           {/* Video link */}
                           <p className="cb-video">
                             <Link href="#">
-                              <a
+                              <span
                                 className="video-popup1"
                                 onClick={() => showVideo("SZEflIVnhH8")}
                                 href="#"
                               >
                                 <i className="fas fa-play-circle" />
                                 Congue and impedit magna viverra dolor vitae
-                              </a>
+                              </span>
                             </Link>
                           </p>
                           {/* Video link */}
                           <p className="cb-video">
                             <Link href="#">
-                              <a
+                              <span
                                 className="video-popup3"
                                 onClick={() => showVideo("0gv7OC9L2s8")}
                                 href="#"
                               >
                                 <i className="fas fa-play-circle" />
                                 Efficitur ipsum ligula undo cubilia laoreet
-                              </a>
+                              </span>
                             </Link>
                           </p>
                         </div>
@@ -368,7 +368,7 @@ const CourseDetails = () => {
                       {/* Card Header */}
                       <div className="card-header" role="tab" id="headingFour">
                         <h5 className="h5-xs">
-                          <Accordion.Toggle
+                          <spanccordion.Toggle
                             as="a"
                             data-toggle="collapse"
                             href="#collapseFour"
@@ -383,7 +383,7 @@ const CourseDetails = () => {
                         </div>
                       </div>
                       {/* Card Body */}
-                      <Accordion.Collapse eventKey="collapseFour">
+                      <spanccordion.Collapse eventKey="collapseFour">
                         <div className="card-body">
                           {/* Text */}
                           <p>
@@ -398,38 +398,38 @@ const CourseDetails = () => {
                           <p className="download-file">
                             <i className="fas fa-file-archive" />
                             <Link href="#">
-                              <a
+                              <span
                                 href="sources/your-file.zip"
                                 download="your-file"
                               >
                                 Download File
-                              </a>
+                              </span>
                             </Link>
                           </p>
                           {/* Video link */}
                           <p className="cb-video">
                             <Link href="#">
-                              <a
+                              <span
                                 className="video-popup1"
                                 onClick={() => showVideo("SZEflIVnhH8")}
                                 href="#"
                               >
                                 <i className="fas fa-play-circle" />
                                 Congue and impedit magna viverra dolor vitae
-                              </a>
+                              </span>
                             </Link>
                           </p>
                           {/* Video link */}
                           <p className="cb-video">
                             <Link href="#">
-                              <a
+                              <span
                                 className="video-popup3"
                                 onClick={() => showVideo("0gv7OC9L2s8")}
                                 href="#"
                               >
                                 <i className="fas fa-play-circle" />
                                 Efficitur ipsum ligula undo cubilia laoreet
-                              </a>
+                              </span>
                             </Link>
                           </p>
                         </div>
@@ -767,14 +767,14 @@ const CourseDetails = () => {
                 {/* Links */}
                 <div className="course-data-links">
                   <Link href="#">
-                    <a className="btn btn-md btn-rose tra-grey-hover">
+                    <span className="btn btn-md btn-rose tra-grey-hover">
                       Start Course Now
-                    </a>
+                    </span>
                   </Link>
                   <Link href="#">
-                    <a className="btn btn-md btn-tra-grey rose-hover">
+                    <span className="btn btn-md btn-tra-grey rose-hover">
                       Add To List
-                    </a>
+                    </span>
                   </Link>
                 </div>
                 {/* List */}

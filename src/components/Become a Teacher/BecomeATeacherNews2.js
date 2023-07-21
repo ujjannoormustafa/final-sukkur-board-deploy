@@ -22,9 +22,9 @@ const BecomeATeacherNews2 = () => {
                             {/* Button */}
                             <div className="title-btn">
                                 <Link href="/results">
-                                    <a className="btn btn-tra-grey rose-hover">
+                                    <span className="btn btn-tra-grey rose-hover">
                                         Read More Stories
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>
@@ -40,10 +40,10 @@ const BecomeATeacherNews2 = () => {
                             {/* Title */}
                             <h5 className="h5-sm">
                                 <Link href="/single-post">
-                                    <a>
+                                    <span>
                                         Integer congue magna at pretium purus
                                         pretium
-                                    </a>
+                                    </span>
                                 </Link>
                             </h5>
                             {/* Text */}
@@ -65,10 +65,10 @@ const BecomeATeacherNews2 = () => {
                             {/* Title */}
                             <h5 className="h5-sm">
                                 <Link href="/single-post">
-                                    <a>
+                                    <span>
                                         Congue magna eTreeks purus pretium
                                         magnis
-                                    </a>
+                                    </span>
                                 </Link>
                             </h5>
                             {/* Text */}
@@ -90,10 +90,10 @@ const BecomeATeacherNews2 = () => {
                             {/* Title */}
                             <h5 className="h5-sm">
                                 <Link href="/single-post">
-                                    <a>
+                                    <span>
                                         8 neque dolor primis a libero tempus
                                         blandit
-                                    </a>
+                                    </span>
                                 </Link>
                             </h5>
                             {/* Text */}
@@ -115,10 +115,10 @@ const BecomeATeacherNews2 = () => {
                             {/* Title */}
                             <h5 className="h5-sm">
                                 <Link href="/single-post">
-                                    <a>
+                                    <span>
                                         Ligula varius magna and porta a laoreet
                                         pretium
-                                    </a>
+                                    </span>
                                 </Link>
                             </h5>
                             {/* Text */}

@@ -31,9 +31,9 @@ const Demo4Banner3 = () => {
                                 </h4>
                                 {/* Button */}
                                 <Link href="/courses-list">
-                                    <a className="btn btn-rose tra-black-hover">
+                                    <span className="btn btn-rose tra-black-hover">
                                         Find Out More
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>

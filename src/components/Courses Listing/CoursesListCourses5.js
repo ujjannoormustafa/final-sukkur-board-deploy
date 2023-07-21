@@ -35,7 +35,7 @@ const CoursesListCourses5 = () => {
       {/*      /!* COURSES LIST *!/*/}
       {/*      <div className="cbox-5 b-bottom col-lg-6">*/}
       {/*        <Link href="/course-details">*/}
-      {/*          <a>*/}
+      {/*          <span>*/}
       {/*            <div className="row">*/}
       {/*              /!* Course Description *!/*/}
       {/*              <div className="col-sm-7 cbox-5-txt">*/}
@@ -68,14 +68,14 @@ const CoursesListCourses5 = () => {
       {/*                <span className="old-price">$59.99</span>*/}
       {/*              </div>*/}
       {/*            </div>*/}
-      {/*          </a>*/}
+      {/*          </span>*/}
       {/*        </Link>*/}
       {/*      </div>*/}
       {/*      /!* END COURSE #1 *!/*/}
       {/*      /!* COURSE #2 *!/*/}
       {/*      <div className="cbox-5 b-bottom col-lg-6">*/}
       {/*        <Link href="/course-details">*/}
-      {/*          <a>*/}
+      {/*          <span>*/}
       {/*            <div className="row">*/}
       {/*              /!* Course Description *!/*/}
       {/*              <div className="col-sm-7 cbox-5-txt">*/}
@@ -108,14 +108,14 @@ const CoursesListCourses5 = () => {
       {/*                <span className="old-price">$72.99</span>*/}
       {/*              </div>*/}
       {/*            </div>*/}
-      {/*          </a>*/}
+      {/*          </span>*/}
       {/*        </Link>*/}
       {/*      </div>*/}
       {/*      /!* END COURSE #2 *!/*/}
       {/*      /!* COURSE #3 *!/*/}
       {/*      <div className="cbox-5 col-lg-6">*/}
       {/*        <Link href="/course-details">*/}
-      {/*          <a>*/}
+      {/*          <span>*/}
       {/*            <div className="row">*/}
       {/*              /!* Course Description *!/*/}
       {/*              <div className="col-sm-7 cbox-5-txt">*/}
@@ -147,14 +147,14 @@ const CoursesListCourses5 = () => {
       {/*                <span className="old-price">$74.99</span>*/}
       {/*              </div>*/}
       {/*            </div>*/}
-      {/*          </a>*/}
+      {/*          </span>*/}
       {/*        </Link>*/}
       {/*      </div>*/}
       {/*      /!* END COURSE #3 *!/*/}
       {/*      /!* COURSE #4 *!/*/}
       {/*      <div className="cbox-5 col-lg-6">*/}
       {/*        <Link href="/course-details">*/}
-      {/*          <a>*/}
+      {/*          <span>*/}
       {/*            <div className="row">*/}
       {/*              /!* Course Description *!/*/}
       {/*              <div className="col-sm-7 cbox-5-txt">*/}
@@ -187,14 +187,14 @@ const CoursesListCourses5 = () => {
       {/*                <span className="old-price">$92.99</span>*/}
       {/*              </div>*/}
       {/*            </div>*/}
-      {/*          </a>*/}
+      {/*          </span>*/}
       {/*        </Link>*/}
       {/*      </div>*/}
       {/*      /!* END COURSE #4 *!/*/}
       {/*      /!* COURSE #5 *!/*/}
       {/*      <div className="cbox-5 col-lg-6">*/}
       {/*        <Link href="/course-details">*/}
-      {/*          <a>*/}
+      {/*          <span>*/}
       {/*            <div className="row">*/}
       {/*              /!* Course Description *!/*/}
       {/*              <div className="col-sm-7 cbox-5-txt">*/}
@@ -227,7 +227,7 @@ const CoursesListCourses5 = () => {
       {/*                <span className="old-price">$74.99</span>*/}
       {/*              </div>*/}
       {/*            </div>*/}
-      {/*          </a>*/}
+      {/*          </span>*/}
       {/*        </Link>*/}
       {/*      </div>*/}
       {/*      /!* END COURSE #5 *!/*/}
@@ -236,7 +236,7 @@ const CoursesListCourses5 = () => {
       {/*      /!* COURSES LIST *!/*/}
       {/*      <div className="cbox-5 b-bottom col-lg-6">*/}
       {/*        <Link href="/course-details">*/}
-      {/*          <a>*/}
+      {/*          <span>*/}
       {/*            <div className="row">*/}
       {/*              /!* Course Description *!/*/}
       {/*              <div className="col-sm-7 cbox-5-txt">*/}
@@ -270,14 +270,14 @@ const CoursesListCourses5 = () => {
       {/*                <span className="old-price">$44.99</span>*/}
       {/*              </div>*/}
       {/*            </div>*/}
-      {/*          </a>*/}
+      {/*          </span>*/}
       {/*        </Link>*/}
       {/*      </div>*/}
       {/*      /!* END COURSE #6 *!/*/}
       {/*      /!* COURSE #7 *!/*/}
       {/*      <div className="cbox-5 b-bottom col-lg-6">*/}
       {/*        <Link href="/course-details">*/}
-      {/*          <a>*/}
+      {/*          <span>*/}
       {/*            <div className="row">*/}
       {/*              /!* Course Description *!/*/}
       {/*              <div className="col-sm-7 cbox-5-txt">*/}
@@ -310,14 +310,14 @@ const CoursesListCourses5 = () => {
       {/*                <span className="old-price">$69.99</span>*/}
       {/*              </div>*/}
       {/*            </div>*/}
-      {/*          </a>*/}
+      {/*          </span>*/}
       {/*        </Link>*/}
       {/*      </div>*/}
       {/*      /!* END COURSE #7 *!/*/}
       {/*      /!* COURSE #8 *!/*/}
       {/*      <div className="cbox-5 col-lg-6">*/}
       {/*        <Link href="/course-details">*/}
-      {/*          <a>*/}
+      {/*          <span>*/}
       {/*            <div className="row">*/}
       {/*              /!* Course Description *!/*/}
       {/*              <div className="col-sm-7 cbox-5-txt">*/}
@@ -350,14 +350,14 @@ const CoursesListCourses5 = () => {
       {/*                <span className="old-price">$62.99</span>*/}
       {/*              </div>*/}
       {/*            </div>*/}
-      {/*          </a>*/}
+      {/*          </span>*/}
       {/*        </Link>*/}
       {/*      </div>*/}
       {/*      /!* END COURSE #8 *!/*/}
       {/*      /!* COURSE #9 *!/*/}
       {/*      <div className="cbox-5 col-lg-6">*/}
       {/*        <Link href="/course-details">*/}
-      {/*          <a>*/}
+      {/*          <span>*/}
       {/*            <div className="row">*/}
       {/*              /!* Course Description *!/*/}
       {/*              <div className="col-sm-7 cbox-5-txt">*/}
@@ -390,14 +390,14 @@ const CoursesListCourses5 = () => {
       {/*                <span className="old-price">$59.99</span>*/}
       {/*              </div>*/}
       {/*            </div>*/}
-      {/*          </a>*/}
+      {/*          </span>*/}
       {/*        </Link>*/}
       {/*      </div>*/}
       {/*      /!* END COURSE #9 *!/*/}
       {/*      /!* COURSE #10 *!/*/}
       {/*      <div className="cbox-5 col-lg-6">*/}
       {/*        <Link href="/course-details">*/}
-      {/*          <a>*/}
+      {/*          <span>*/}
       {/*            <div className="row">*/}
       {/*              /!* Course Description *!/*/}
       {/*              <div className="col-sm-7 cbox-5-txt">*/}
@@ -430,7 +430,7 @@ const CoursesListCourses5 = () => {
       {/*                <span className="old-price">$54.99</span>*/}
       {/*              </div>*/}
       {/*            </div>*/}
-      {/*          </a>*/}
+      {/*          </span>*/}
       {/*        </Link>*/}
       {/*      </div>*/}
       {/*      /!* END COURSE #10 *!/*/}

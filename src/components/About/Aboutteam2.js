@@ -45,19 +45,19 @@ const Aboutteam2 = () => {
                   <div className="tm-social clearfix">
                     <ul className="text-center clearfix">
                       <li>
-                        <a href="#" className="ico-facebook">
+                        <span href="#" className="ico-facebook">
                           <i className="fab fa-facebook-f" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-twitter">
+                        <span href="#" className="ico-twitter">
                           <i className="fab fa-twitter" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-youtube">
+                        <span href="#" className="ico-youtube">
                           <i className="fab fa-youtube" />
-                        </a>
+                        </span>
                       </li>
                     </ul>
                   </div>
@@ -66,7 +66,7 @@ const Aboutteam2 = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>Sam Richardson</a>
+                      <span>Sam Richardson</span>
                     </Link>
                   </h5>
                   <span>Head Of Department</span>
@@ -96,19 +96,19 @@ const Aboutteam2 = () => {
                   <div className="tm-social clearfix">
                     <ul className="text-center clearfix">
                       <li>
-                        <a href="#" className="ico-facebook">
+                        <span href="#" className="ico-facebook">
                           <i className="fab fa-facebook-f" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-twitter">
+                        <span href="#" className="ico-twitter">
                           <i className="fab fa-twitter" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-youtube">
+                        <span href="#" className="ico-youtube">
                           <i className="fab fa-youtube" />
-                        </a>
+                        </span>
                       </li>
                     </ul>
                   </div>
@@ -117,7 +117,7 @@ const Aboutteam2 = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>Kally Brooks</a>
+                      <span>Kally Brooks</span>
                     </Link>
                   </h5>
                   <span>Business &amp; Management</span>
@@ -147,19 +147,19 @@ const Aboutteam2 = () => {
                   <div className="tm-social clearfix">
                     <ul className="text-center clearfix">
                       <li>
-                        <a href="#" className="ico-facebook">
+                        <span href="#" className="ico-facebook">
                           <i className="fab fa-facebook-f" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-twitter">
+                        <span href="#" className="ico-twitter">
                           <i className="fab fa-twitter" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-youtube">
+                        <span href="#" className="ico-youtube">
                           <i className="fab fa-youtube" />
-                        </a>
+                        </span>
                       </li>
                     </ul>
                   </div>
@@ -168,7 +168,7 @@ const Aboutteam2 = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>Robert Coronado</a>
+                      <span>Robert Coronado</span>
                     </Link>
                   </h5>
                   <span>Engineering &amp; Technology</span>
@@ -198,19 +198,19 @@ const Aboutteam2 = () => {
                   <div className="tm-social clearfix">
                     <ul className="text-center clearfix">
                       <li>
-                        <a href="#" className="ico-facebook">
+                        <span href="#" className="ico-facebook">
                           <i className="fab fa-facebook-f" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-twitter">
+                        <span href="#" className="ico-twitter">
                           <i className="fab fa-twitter" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-youtube">
+                        <span href="#" className="ico-youtube">
                           <i className="fab fa-youtube" />
-                        </a>
+                        </span>
                       </li>
                     </ul>
                   </div>
@@ -219,7 +219,7 @@ const Aboutteam2 = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>Becky Reed</a>
+                      <span>Becky Reed</span>
                     </Link>
                   </h5>
                   <span>Design &amp; Art</span>
@@ -249,19 +249,19 @@ const Aboutteam2 = () => {
                   <div className="tm-social clearfix">
                     <ul className="text-center clearfix">
                       <li>
-                        <a href="#" className="ico-facebook">
+                        <span href="#" className="ico-facebook">
                           <i className="fab fa-facebook-f" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-twitter">
+                        <span href="#" className="ico-twitter">
                           <i className="fab fa-twitter" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-youtube">
+                        <span href="#" className="ico-youtube">
                           <i className="fab fa-youtube" />
-                        </a>
+                        </span>
                       </li>
                     </ul>
                   </div>
@@ -270,7 +270,7 @@ const Aboutteam2 = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>David Smith</a>
+                      <span>David Smith</span>
                     </Link>
                   </h5>
                   <span>IT &amp; Software</span>
@@ -300,19 +300,19 @@ const Aboutteam2 = () => {
                   <div className="tm-social clearfix">
                     <ul className="text-center clearfix">
                       <li>
-                        <a href="#" className="ico-facebook">
+                        <span href="#" className="ico-facebook">
                           <i className="fab fa-facebook-f" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-twitter">
+                        <span href="#" className="ico-twitter">
                           <i className="fab fa-twitter" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-youtube">
+                        <span href="#" className="ico-youtube">
                           <i className="fab fa-youtube" />
-                        </a>
+                        </span>
                       </li>
                     </ul>
                   </div>
@@ -321,7 +321,7 @@ const Aboutteam2 = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>Linda J. Ross</a>
+                      <span>Linda J. Ross</span>
                     </Link>
                   </h5>
                   <span>Teacher of English</span>
@@ -351,19 +351,19 @@ const Aboutteam2 = () => {
                   <div className="tm-social clearfix">
                     <ul className="text-center clearfix">
                       <li>
-                        <a href="#" className="ico-facebook">
+                        <span href="#" className="ico-facebook">
                           <i className="fab fa-facebook-f" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-twitter">
+                        <span href="#" className="ico-twitter">
                           <i className="fab fa-twitter" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-youtube">
+                        <span href="#" className="ico-youtube">
                           <i className="fab fa-youtube" />
-                        </a>
+                        </span>
                       </li>
                     </ul>
                   </div>
@@ -372,7 +372,7 @@ const Aboutteam2 = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>Sergio Arriero</a>
+                      <span>Sergio Arriero</span>
                     </Link>
                   </h5>
                   <span>Teacher of Spanish</span>
@@ -401,19 +401,19 @@ const Aboutteam2 = () => {
                   <div className="tm-social clearfix">
                     <ul className="text-center clearfix">
                       <li>
-                        <a href="#" className="ico-facebook">
+                        <span href="#" className="ico-facebook">
                           <i className="fab fa-facebook-f" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-twitter">
+                        <span href="#" className="ico-twitter">
                           <i className="fab fa-twitter" />
-                        </a>
+                        </span>
                       </li>
                       <li>
-                        <a href="#" className="ico-youtube">
+                        <span href="#" className="ico-youtube">
                           <i className="fab fa-youtube" />
-                        </a>
+                        </span>
                       </li>
                     </ul>
                   </div>
@@ -422,7 +422,7 @@ const Aboutteam2 = () => {
                 <div className="tm-meta">
                   <h5 className="h5-md">
                     <Link href="/controlling-authority">
-                      <a>Linda Ferell</a>
+                      <span>Linda Ferell</span>
                     </Link>
                   </h5>
                   <span>Healt &amp; Fitness</span>

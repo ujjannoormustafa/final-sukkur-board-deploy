@@ -15,12 +15,12 @@ const Demo9Video2 = () => {
             {/* Change the link HERE!!! */}
             <div className="play-btn play-btn-rose text-center">
               <Link href="#">
-                <a
+                <span
                   className="video-popup2 video-play-button"
                   onClick={() => showVideo()}
                 >
                   <span />
-                </a>
+                </span>
               </Link>
             </div>
             {/* Text */}

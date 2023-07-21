@@ -19,13 +19,13 @@ const Demo4Statistic1 = () => {
               <div className="statistic-block-txt">
                 <h5 className="h5-lg">Online Courses</h5>
                 <Link href="#">
-                  <a
+                  <span
                     onClick={(e) => {
                       e.preventDefault();
                     }}
                   >
                     Learn More &gt;
-                  </a>
+                  </span>
                 </Link>
               </div>
             </div>
@@ -41,13 +41,13 @@ const Demo4Statistic1 = () => {
               <div className="statistic-block-txt">
                 <h5 className="h5-lg">Free Online Tutorials</h5>
                 <Link href="#">
-                  <a
+                  <span
                     onClick={(e) => {
                       e.preventDefault();
                     }}
                   >
                     Discover More &gt;
-                  </a>
+                  </span>
                 </Link>
               </div>
             </div>
@@ -63,13 +63,13 @@ const Demo4Statistic1 = () => {
               <div className="statistic-block-txt">
                 <h5 className="h5-lg">eBooks Available</h5>
                 <Link href="#">
-                  <a
+                  <span
                     onClick={(e) => {
                       e.preventDefault();
                     }}
                   >
                     Discover More &gt;
-                  </a>
+                  </span>
                 </Link>
               </div>
             </div>

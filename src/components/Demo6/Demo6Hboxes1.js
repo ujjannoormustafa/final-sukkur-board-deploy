@@ -21,9 +21,9 @@ const Demo6Hboxes1 = () => {
                                 {/* Button */}
                                 <div className="title-btn">
                                     <Link href="/categories-list">
-                                        <a className="btn btn-sm btn-rose tra-black-hover">
+                                        <span className="btn btn-sm btn-rose tra-black-hover">
                                             View All Categories
-                                        </a>
+                                        </span>
                                     </Link>
                                 </div>
                             </div>
@@ -34,7 +34,7 @@ const Demo6Hboxes1 = () => {
                         {/* CATEGORIE BOX #1 */}
                         <div className="col-md-4 col-lg-2">
                             <Link href="/category-details">
-                                <a>
+                                <span>
                                     <div className="c2-box-txt text-center">
                                         {/* Icon */}
                                         <img
@@ -46,14 +46,14 @@ const Demo6Hboxes1 = () => {
                                         <h5 className="h5-sm">Development</h5>
                                         <p>36 Courses</p>
                                     </div>
-                                </a>
+                                </span>
                             </Link>
                         </div>
                         {/* END CATEGORIE BOX #1 */}
                         {/* CATEGORIE BOX #2 */}
                         <div className="col-md-4 col-lg-2">
                             <Link href="/category-details">
-                                <a>
+                                <span>
                                     <div className="c2-box-txt text-center">
                                         {/* Icon */}
                                         <img
@@ -65,14 +65,14 @@ const Demo6Hboxes1 = () => {
                                         <h5 className="h5-sm">Finance</h5>
                                         <p>28 Courses</p>
                                     </div>
-                                </a>
+                                </span>
                             </Link>
                         </div>
                         {/* END CATEGORIE BOX #2 */}
                         {/* CATEGORIE BOX #3 */}
                         <div className="col-md-4 col-lg-2">
                             <Link href="/category-details">
-                                <a>
+                                <span>
                                     <div className="c2-box-txt text-center">
                                         {/* Icon */}
                                         <img
@@ -86,14 +86,14 @@ const Demo6Hboxes1 = () => {
                                         </h5>
                                         <p>54 Courses</p>
                                     </div>
-                                </a>
+                                </span>
                             </Link>
                         </div>
                         {/* END CATEGORIE BOX #3 */}
                         {/* CATEGORIE BOX #4 */}
                         <div className="col-md-4 col-lg-2">
                             <Link href="/category-details">
-                                <a>
+                                <span>
                                     <div className="c2-box-txt text-center">
                                         {/* Icon */}
                                         <img
@@ -105,14 +105,14 @@ const Demo6Hboxes1 = () => {
                                         <h5 className="h5-sm">Marketing</h5>
                                         <p>68 Courses</p>
                                     </div>
-                                </a>
+                                </span>
                             </Link>
                         </div>
                         {/* END CATEGORIE BOX #4 */}
                         {/* CATEGORIE BOX #5 */}
                         <div className="col-md-4 col-lg-2">
                             <Link href="/category-details">
-                                <a>
+                                <span>
                                     <div className="c2-box-txt text-center">
                                         {/* Icon */}
                                         <img
@@ -124,14 +124,14 @@ const Demo6Hboxes1 = () => {
                                         <h5 className="h5-sm">Sciences</h5>
                                         <p>78 Courses</p>
                                     </div>
-                                </a>
+                                </span>
                             </Link>
                         </div>
                         {/* END CATEGORIE BOX #5 */}
                         {/* CATEGORIE BOX #6 */}
                         <div className="col-md-4 col-lg-2">
                             <Link href="/category-details">
-                                <a>
+                                <span>
                                     <div className="c2-box-txt text-center">
                                         {/* Icon */}
                                         <img
@@ -143,7 +143,7 @@ const Demo6Hboxes1 = () => {
                                         <h5 className="h5-sm">Languages</h5>
                                         <p>103 Courses</p>
                                     </div>
-                                </a>
+                                </span>
                             </Link>
                         </div>
                         {/* END CATEGORIE BOX #6 */}

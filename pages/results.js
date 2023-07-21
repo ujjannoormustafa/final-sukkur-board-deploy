@@ -21,10 +21,10 @@ const results = () => {
                             <th scope="col">#</th>
                             <th scope="col"></th>
                             <th scope="col"></th>
-                            <th scope="col"><a href='#' className='text-white'>Statistics P.E</a></th>
-                            <th scope="col"><a href='#' className='text-white'>Statistics P.M</a></th>
-                            <th scope="col"><a href='#' className='text-white'>Statistics Humanities</a></th>
-                            <th scope="col"><a href='#' className='text-white'>Statistics Commerce</a></th>
+                            <th scope="col"><span href='#' className='text-white'>Statistics P.E</span></th>
+                            <th scope="col"><span href='#' className='text-white'>Statistics P.M</span></th>
+                            <th scope="col"><span href='#' className='text-white'>Statistics Humanities</span></th>
+                            <th scope="col"><span href='#' className='text-white'>Statistics Commerce</span></th>
 
                         </tr>
                         </thead>
@@ -36,10 +36,10 @@ const results = () => {
                             <td>HSC-II</td>
 
 
-                            <td><a href="#" className='link-primary'>Pre-Engineering</a></td>
-                            <td><a href="#" className='link-primary'>Pre-Medical</a></td>
-                            <td><a href="#" className='link-primary'> Humanities</a></td>
-                            <td><a href="#" className='link-primary'>Commerce</a></td>
+                            <td><span href="#" className='link-primary'>Pre-Engineering</span></td>
+                            <td><span href="#" className='link-primary'>Pre-Medical</span></td>
+                            <td><span href="#" className='link-primary'> Humanities</span></td>
+                            <td><span href="#" className='link-primary'>Commerce</span></td>
 
                         </tr>
                         <tr>
@@ -47,10 +47,10 @@ const results = () => {
                             <th scope="row">2</th>
                             <td>Khairpur</td>
                             <td>HSC-II</td>
-                            <td><a href="#" className="link-primary">Pre-Engineering</a></td>
-                            <td><a href="#" className="link-primary">Pre-Medical</a></td>
-                            <td><a href="#" className="link-primary">Humanities</a></td>
-                            <td><a href="#" className="link-primary">Commerce</a></td>
+                            <td><span href="#" className="link-primary">Pre-Engineering</span></td>
+                            <td><span href="#" className="link-primary">Pre-Medical</span></td>
+                            <td><span href="#" className="link-primary">Humanities</span></td>
+                            <td><span href="#" className="link-primary">Commerce</span></td>
 
 
                         </tr>
@@ -58,10 +58,10 @@ const results = () => {
                             <th scope="row">3</th>
                             <td>Ghotki</td>
                             <td>HSC-II</td>
-                            <td><a href="#" className="link-primary">Pre-Engineering</a></td>
-                            <td><a href="#" className="link-primary">Pre-Medical</a></td>
-                            <td><a href="#" className="link-primary">Humanities</a></td>
-                            <td><a href="#" className="link-primary">Commerce</a></td>
+                            <td><span href="#" className="link-primary">Pre-Engineering</span></td>
+                            <td><span href="#" className="link-primary">Pre-Medical</span></td>
+                            <td><span href="#" className="link-primary">Humanities</span></td>
+                            <td><span href="#" className="link-primary">Commerce</span></td>
                         </tr>
                         </tbody>
                     </table>
@@ -75,8 +75,8 @@ const results = () => {
                             <th scope="col">#</th>
                             <th scope="col"></th>
                             <th scope="col"></th>
-                            <th scope="col"><a href='#' className='text-white'> Statistics Science</a></th>
-                            <th scope="col"><a href='#' className='text-white'> Statistics General</a></th>
+                            <th scope="col"><span href='#' className='text-white'> Statistics Science</span></th>
+                            <th scope="col"><span href='#' className='text-white'> Statistics General</span></th>
 
 
                         </tr>
@@ -88,8 +88,8 @@ const results = () => {
                             <td>SSC-I</td>
 
 
-                            <td><a href="#" className='link-primary'>Science</a></td>
-                            <td><a href="#" className='link-primary'>General</a></td>
+                            <td><span href="#" className='link-primary'>Science</span></td>
+                            <td><span href="#" className='link-primary'>General</span></td>
 
 
                         </tr>
@@ -98,8 +98,8 @@ const results = () => {
                             <th scope="row">2</th>
                             <td>Khairpur</td>
                             <td>SSC-I</td>
-                            <td><a href="#" className='link-primary'>Science</a></td>
-                            <td><a href="#" className='link-primary'>General</a></td>
+                            <td><span href="#" className='link-primary'>Science</span></td>
+                            <td><span href="#" className='link-primary'>General</span></td>
 
 
                         </tr>
@@ -107,8 +107,8 @@ const results = () => {
                             <th scope="row">3</th>
                             <td>Ghotki</td>
                             <td>SSC-I</td>
-                            <td><a href="#" className='link-primary'>Science</a></td>
-                            <td><a href="#" className='link-primary'>General</a></td>
+                            <td><span href="#" className='link-primary'>Science</span></td>
+                            <td><span href="#" className='link-primary'>General</span></td>
                         </tr>
                         </tbody>
                     </table>
@@ -128,10 +128,10 @@ const results = () => {
                             <th scope="col">#</th>
                             <th scope="col"></th>
                             <th scope="col"></th>
-                            <th scope="col"><a href='#' className='text-white'>Statistics P.E</a></th>
-                            <th scope="col"><a href='#' className='text-white'>Statistics P.M</a></th>
-                            <th scope="col"><a href='#' className='text-white'>Statistics Humanities</a></th>
-                            <th scope="col"><a href='#' className='text-white'>Statistics Commerce</a></th>
+                            <th scope="col"><span href='#' className='text-white'>Statistics P.E</span></th>
+                            <th scope="col"><span href='#' className='text-white'>Statistics P.M</span></th>
+                            <th scope="col"><span href='#' className='text-white'>Statistics Humanities</span></th>
+                            <th scope="col"><span href='#' className='text-white'>Statistics Commerce</span></th>
 
                         </tr>
                         </thead>
@@ -142,10 +142,10 @@ const results = () => {
                             <td></td>
 
 
-                            <td><a href="#" className='link-primary'>	Positions P.E</a></td>
-                            <td><a href="#" className='link-primary'>	Positions P.M</a></td>
-                            <td><a href="#" className='link-primary'> </a></td>
-                            <td><a href="#" className='link-primary'>	Positions</a></td>
+                            <td><span href="#" className='link-primary'>	Positions P.E</span></td>
+                            <td><span href="#" className='link-primary'>	Positions P.M</span></td>
+                            <td><span href="#" className='link-primary'> </span></td>
+                            <td><span href="#" className='link-primary'>	Positions</span></td>
 
                         </tr>
                         <tr>
@@ -154,10 +154,10 @@ const results = () => {
                             <td>HSC-II</td>
 
 
-                            <td><a href="#" className='link-primary'>Pre-Engineering</a></td>
-                            <td><a href="#" className='link-primary'>Pre-Medical</a></td>
-                            <td><a href="#" className='link-primary'> Humanities</a></td>
-                            <td><a href="#" className='link-primary'>Commerce</a></td>
+                            <td><span href="#" className='link-primary'>Pre-Engineering</span></td>
+                            <td><span href="#" className='link-primary'>Pre-Medical</span></td>
+                            <td><span href="#" className='link-primary'> Humanities</span></td>
+                            <td><span href="#" className='link-primary'>Commerce</span></td>
 
                         </tr>
                         <tr>
@@ -165,10 +165,10 @@ const results = () => {
                             <th scope="row">2</th>
                             <td>Khairpur</td>
                             <td>HSC-II</td>
-                            <td><a href="#" className="link-primary">Pre-Engineering</a></td>
-                            <td><a href="#" className="link-primary">Pre-Medical</a></td>
-                            <td><a href="#" className="link-primary">Humanities</a></td>
-                            <td><a href="#" className="link-primary">Commerce</a></td>
+                            <td><span href="#" className="link-primary">Pre-Engineering</span></td>
+                            <td><span href="#" className="link-primary">Pre-Medical</span></td>
+                            <td><span href="#" className="link-primary">Humanities</span></td>
+                            <td><span href="#" className="link-primary">Commerce</span></td>
 
 
                         </tr>
@@ -176,10 +176,10 @@ const results = () => {
                             <th scope="row">3</th>
                             <td>Ghotki</td>
                             <td>HSC-II</td>
-                            <td><a href="#" className="link-primary">Pre-Engineering</a></td>
-                            <td><a href="#" className="link-primary">Pre-Medical</a></td>
-                            <td><a href="#" className="link-primary">Humanities</a></td>
-                            <td><a href="#" className="link-primary">Commerce</a></td>
+                            <td><span href="#" className="link-primary">Pre-Engineering</span></td>
+                            <td><span href="#" className="link-primary">Pre-Medical</span></td>
+                            <td><span href="#" className="link-primary">Humanities</span></td>
+                            <td><span href="#" className="link-primary">Commerce</span></td>
                         </tr>
                         </tbody>
                     </table>
@@ -194,8 +194,8 @@ const results = () => {
                             <th scope="col">#</th>
                             <th scope="col"></th>
                             <th scope="col"> </th>
-                            <th scope="col"><a href='#' className='text-white'> Statistics Science</a></th>
-                            <th scope="col"><a href='#' className='text-white'> Statistics General</a></th>
+                            <th scope="col"><span href='#' className='text-white'> Statistics Science</span></th>
+                            <th scope="col"><span href='#' className='text-white'> Statistics General</span></th>
 
 
                         </tr>
@@ -204,11 +204,11 @@ const results = () => {
                         <tr>
                             <th scope="row"></th>
                             <td></td>
-                            <td><a href="#" className='link-primary'>Position</a></td>
+                            <td><span href="#" className='link-primary'>Position</span></td>
 
 
-                            <td><a href="#" className='link-primary'></a></td>
-                            <td><a href="#" className='link-primary'></a></td>
+                            <td><span href="#" className='link-primary'></span></td>
+                            <td><span href="#" className='link-primary'></span></td>
 
 
                         </tr>
@@ -218,8 +218,8 @@ const results = () => {
                             <td>SSC-I</td>
 
 
-                            <td><a href="#" className='link-primary'>Science</a></td>
-                            <td><a href="#" className='link-primary'>General</a></td>
+                            <td><span href="#" className='link-primary'>Science</span></td>
+                            <td><span href="#" className='link-primary'>General</span></td>
 
 
                         </tr>
@@ -228,8 +228,8 @@ const results = () => {
                             <th scope="row">2</th>
                             <td>Khairpur</td>
                             <td>SSC-I</td>
-                            <td><a href="#" className='link-primary'>Science</a></td>
-                            <td><a href="#" className='link-primary'>General</a></td>
+                            <td><span href="#" className='link-primary'>Science</span></td>
+                            <td><span href="#" className='link-primary'>General</span></td>
 
 
                         </tr>
@@ -237,8 +237,8 @@ const results = () => {
                             <th scope="row">3</th>
                             <td>Ghotki</td>
                             <td>SSC-I</td>
-                            <td><a href="#" className='link-primary'>Science</a></td>
-                            <td><a href="#" className='link-primary'>General</a></td>
+                            <td><span href="#" className='link-primary'>Science</span></td>
+                            <td><span href="#" className='link-primary'>General</span></td>
                         </tr>
                         </tbody>
                     </table>

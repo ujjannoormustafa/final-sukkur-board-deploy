@@ -21,7 +21,7 @@ const BecomeATeacherContacts1 = () => {
                                 </p>
                                 {/* Button */}
                                 <Link href="#">
-                                    <a
+                                    <span
                                         onClick={(e) => {
                                             e.preventDefault();
                                         }}
@@ -29,7 +29,7 @@ const BecomeATeacherContacts1 = () => {
                                         href="mailto:yourdomain@mail.com"
                                     >
                                         hello@yourdomain.com
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>

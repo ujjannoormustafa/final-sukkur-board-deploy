@@ -21,7 +21,7 @@ const Aboutnews1 = () => {
                             </p>
                             {/* Button 
 									<div class="title-btn">
-										<Link href='/blog-listing'><a  className='btn btn-tra-grey rose-hover'>Read More Stories</a></Link>
+										<Link href='/blog-listing'><span  className='btn btn-tra-grey rose-hover'>Read More Stories</span></Link>
 									</div> */}
                         </div>
                     </div>
@@ -34,7 +34,7 @@ const Aboutnews1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 <div className="hover-overlay">
                                     <img
                                         className="img-fluid"
@@ -52,7 +52,7 @@ const Aboutnews1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>
@@ -62,7 +62,7 @@ const Aboutnews1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 <div className="hover-overlay">
                                     <img
                                         className="img-fluid"
@@ -79,7 +79,7 @@ const Aboutnews1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>
@@ -89,7 +89,7 @@ const Aboutnews1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 <div className="hover-overlay">
                                     <img
                                         className="img-fluid"
@@ -106,7 +106,7 @@ const Aboutnews1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>
@@ -116,7 +116,7 @@ const Aboutnews1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 <div className="hover-overlay">
                                     <img
                                         className="img-fluid"
@@ -133,7 +133,7 @@ const Aboutnews1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>
@@ -143,7 +143,7 @@ const Aboutnews1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 <div className="hover-overlay">
                                     <img
                                         className="img-fluid"
@@ -160,7 +160,7 @@ const Aboutnews1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>
@@ -170,7 +170,7 @@ const Aboutnews1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 <div className="hover-overlay">
                                     <img
                                         className="img-fluid"
@@ -188,7 +188,7 @@ const Aboutnews1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>
@@ -198,7 +198,7 @@ const Aboutnews1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 <div className="hover-overlay">
                                     <img
                                         className="img-fluid"
@@ -215,7 +215,7 @@ const Aboutnews1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>
@@ -225,7 +225,7 @@ const Aboutnews1 = () => {
                     <div className="article-1">
                         {/* Link */}
                         <Link href="/single-post">
-                            <a>
+                            <span>
                                 <div className="hover-overlay">
                                     <img
                                         className="img-fluid"
@@ -242,7 +242,7 @@ const Aboutnews1 = () => {
                                         </span>
                                     </h5>
                                 </div>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                 </div>

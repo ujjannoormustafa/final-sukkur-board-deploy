@@ -7,7 +7,7 @@ const Header2 = () => {
                 {/* MOBILE HEADER */}
                 <div className="wsmobileheader clearfix">
                     <Link href="#">
-                        <a
+                        <span
                             onClick={(e) => {
                                 e.preventDefault();
                             }}
@@ -15,7 +15,7 @@ const Header2 = () => {
                             className="wsanimated-arrow"
                         >
                             <span />
-                        </a>
+                        </span>
                     </Link>
                     <span className="smllogo smllogo-black">
                         <img
@@ -41,26 +41,26 @@ const Header2 = () => {
                         {/* For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 344 x 80 pixels) */}
                         <div className="desktoplogo">
                             <Link href="/demo-1">
-                                <a className="logo-black">
+                                <span className="logo-black">
                                     <img
                                         src="images/logo.png"
                                         width={172}
                                         height={40}
                                         alt="header-logo"
                                     />
-                                </a>
+                                </span>
                             </Link>
                         </div>
                         <div className="desktoplogo">
                             <Link href="/demo-1">
-                                <a className="logo-white">
+                                <span className="logo-white">
                                     <img
                                         src="images/logo-white.png"
                                         width={172}
                                         height={40}
                                         alt="header-logo"
                                     />
-                                </a>
+                                </span>
                             </Link>
                         </div>
                         {/* MAIN MENU */}
@@ -69,25 +69,25 @@ const Header2 = () => {
                                 {/* SIMPLE NAVIGATION LINK */}
                                 <li className="nl-simple" aria-haspopup="true">
                                     <Link href="#">
-                                        <a
+                                        <span
                                             onClick={(e) => {
                                                 e.preventDefault();
                                             }}
                                         >
                                             About
-                                        </a>
+                                        </span>
                                     </Link>
                                 </li>
                                 {/* DROPDOWN MENU */}
                                 <li aria-haspopup="true">
                                     <Link href="#">
-                                        <a
+                                        <span
                                             onClick={(e) => {
                                                 e.preventDefault();
                                             }}
                                         >
                                             Pages <span className="wsarrow" />
-                                        </a>
+                                        </span>
                                     </Link>
                                     <div className="wsmegamenu clearfix halfmenu">
                                         <div className="container-fluid">
@@ -96,50 +96,50 @@ const Header2 = () => {
                                                 <ul className="col-lg-6 col-md-12 col-xs-12 link-list left-link-list">
                                                     <li>
                                                         <Link href="/about">
-                                                            <a>About Us Page</a>
+                                                            <span>About Us Page</span>
                                                         </Link>
                                                     </li>
                                                     <li>
                                                         <Link href="/categories-list">
-                                                            <a>
+                                                            <span>
                                                                 Categories
                                                                 Listing
-                                                            </a>
+                                                            </span>
                                                         </Link>
                                                     </li>
                                                     <li>
                                                         <Link href="/category-details">
-                                                            <a>
+                                                            <span>
                                                                 Category Details
-                                                            </a>
+                                                            </span>
                                                         </Link>
                                                     </li>
                                                     <li>
                                                         <Link href="/courses-list">
-                                                            <a>
+                                                            <span>
                                                                 Courses Listing
-                                                            </a>
+                                                            </span>
                                                         </Link>
                                                     </li>
                                                     <li>
                                                         <Link href="/course-details">
-                                                            <a>
+                                                            <span>
                                                                 Course Details
-                                                            </a>
+                                                            </span>
                                                         </Link>
                                                     </li>
                                                     <li>
                                                         <Link href="/officers">
-                                                            <a>
+                                                            <span>
                                                                 Teachers Listing
-                                                            </a>
+                                                            </span>
                                                         </Link>
                                                     </li>
                                                     <li>
                                                         <Link href="/controlling-authority">
-                                                            <a>
+                                                            <span>
                                                                 Teacher Profile
-                                                            </a>
+                                                            </span>
                                                         </Link>
                                                     </li>
                                                 </ul>
@@ -147,42 +147,42 @@ const Header2 = () => {
                                                 <ul className="col-lg-6 col-md-12 col-xs-12 link-list">
                                                     <li>
                                                         <Link href="/become-a-teacher">
-                                                            <a>
+                                                            <span>
                                                                 Become A Teacher
-                                                            </a>
+                                                            </span>
                                                         </Link>
                                                     </li>
                                                     <li>
                                                         <Link href="/pricing">
-                                                            <a>
+                                                            <span>
                                                                 Pricing Plans
                                                                 Page
-                                                            </a>
+                                                            </span>
                                                         </Link>
                                                     </li>
                                                     <li>
                                                         <Link href="/reviews">
-                                                            <a>Reviews Page</a>
+                                                            <span>Reviews Page</span>
                                                         </Link>
                                                     </li>
                                                     <li>
                                                         <Link href="/faqs">
-                                                            <a>FAQs Page</a>
+                                                            <span>FAQs Page</span>
                                                         </Link>
                                                     </li>
                                                     <li>
                                                         <Link href="/results">
-                                                            <a>Blog Listing</a>
+                                                            <span>Blog Listing</span>
                                                         </Link>
                                                     </li>
                                                     <li>
                                                         <Link href="/single-post">
-                                                            <a>Single Post</a>
+                                                            <span>Single Post</span>
                                                         </Link>
                                                     </li>
                                                     <li>
                                                         <Link href="/contacts">
-                                                            <a>Contacts Page</a>
+                                                            <span>Contacts Page</span>
                                                         </Link>
                                                     </li>
                                                 </ul>
@@ -194,59 +194,59 @@ const Header2 = () => {
                                 {/* DROPDOWN MENU */}
                                 <li aria-haspopup="true">
                                     <Link href="#">
-                                        <a
+                                        <span
                                             onClick={(e) => {
                                                 e.preventDefault();
                                             }}
                                         >
                                             Categories
                                             <span className="wsarrow" />
-                                        </a>
+                                        </span>
                                     </Link>
                                     <ul className="sub-menu">
                                         <li aria-haspopup="true">
                                             <Link href="/courses-list">
-                                                <a>Development</a>
+                                                <span>Development</span>
                                             </Link>
                                         </li>
                                         <li aria-haspopup="true">
                                             <Link href="/courses-list">
-                                                <a>Finance &amp; Accounting</a>
+                                                <span>Finance &amp; Accounting</span>
                                             </Link>
                                         </li>
                                         <li aria-haspopup="true">
                                             <Link href="/courses-list">
-                                                <a>IT &amp; Software</a>
+                                                <span>IT &amp; Software</span>
                                             </Link>
                                         </li>
                                         <li aria-haspopup="true">
                                             <Link href="/courses-list">
-                                                <a>Office Productivity</a>
+                                                <span>Office Productivity</span>
                                             </Link>
                                         </li>
                                         <li aria-haspopup="true">
                                             <Link href="/courses-list">
-                                                <a>Photography</a>
+                                                <span>Photography</span>
                                             </Link>
                                         </li>
                                         <li aria-haspopup="true">
                                             <Link href="/courses-list">
-                                                <a>Math &amp; Science</a>
+                                                <span>Math &amp; Science</span>
                                             </Link>
                                         </li>
                                         <li aria-haspopup="true">
                                             <Link href="/courses-list">
-                                                <a>Languages</a>
+                                                <span>Languages</span>
                                             </Link>
                                         </li>
                                         <li aria-haspopup="true">
                                             <Link href="/courses-list">
-                                                <a>Marketing</a>
+                                                <span>Marketing</span>
                                             </Link>
                                         </li>
                                         <li aria-haspopup="true">
                                             <Link href="/courses-list">
-                                                <a>Health &amp; Fitness</a>
+                                                <span>Health &amp; Fitness</span>
                                             </Link>
                                         </li>
                                     </ul>
@@ -255,14 +255,14 @@ const Header2 = () => {
                                 {/* MEGAMENU */}
                                 <li aria-haspopup="true">
                                     <Link href="#">
-                                        <a
+                                        <span
                                             onClick={(e) => {
                                                 e.preventDefault();
                                             }}
                                         >
                                             Mega Menu
                                             <span className="wsarrow" />
-                                        </a>
+                                        </span>
                                     </Link>
                                     <div className="wsmegamenu clearfix">
                                         <div className="container">
@@ -276,7 +276,7 @@ const Header2 = () => {
                                                     <ul className="link-list clearfix">
                                                         <li>
                                                             <Link href="#">
-                                                                <a
+                                                                <span
                                                                     onClick={(
                                                                         e
                                                                     ) => {
@@ -285,12 +285,12 @@ const Header2 = () => {
                                                                 >
                                                                     English for
                                                                     Tourism
-                                                                </a>
+                                                                </span>
                                                             </Link>
                                                         </li>
                                                         <li>
                                                             <Link href="#">
-                                                                <a
+                                                                <span
                                                                     onClick={(
                                                                         e
                                                                     ) => {
@@ -302,12 +302,12 @@ const Header2 = () => {
                                                                     - Working
                                                                     with Lists
                                                                     and Files
-                                                                </a>
+                                                                </span>
                                                             </Link>
                                                         </li>
                                                         <li>
                                                             <Link href="#">
-                                                                <a
+                                                                <span
                                                                     onClick={(
                                                                         e
                                                                     ) => {
@@ -319,12 +319,12 @@ const Header2 = () => {
                                                                     Wired and
                                                                     Wireless
                                                                     Networks
-                                                                </a>
+                                                                </span>
                                                             </Link>
                                                         </li>
                                                         <li>
                                                             <Link href="#">
-                                                                <a
+                                                                <span
                                                                     onClick={(
                                                                         e
                                                                     ) => {
@@ -336,12 +336,12 @@ const Header2 = () => {
                                                                     Capturing
                                                                     Marketing
                                                                     Insights
-                                                                </a>
+                                                                </span>
                                                             </Link>
                                                         </li>
                                                         <li>
                                                             <Link href="#">
-                                                                <a
+                                                                <span
                                                                     onClick={(
                                                                         e
                                                                     ) => {
@@ -354,7 +354,7 @@ const Header2 = () => {
                                                                     Persistence
                                                                     with Core
                                                                     Data
-                                                                </a>
+                                                                </span>
                                                             </Link>
                                                         </li>
                                                     </ul>
@@ -376,11 +376,11 @@ const Header2 = () => {
                                                     {/* Text */}
                                                     <h5 className="h5-md">
                                                         <Link href="/single-post">
-                                                            <a>
+                                                            <span>
                                                                 Study smart and
                                                                 save time with
                                                                 these 5 tips
-                                                            </a>
+                                                            </span>
                                                         </Link>
                                                     </h5>
                                                     <p className="wsmwnutxt">
@@ -411,7 +411,7 @@ const Header2 = () => {
                                                             {/* Text */}
                                                             <div className="post-summary">
                                                                 <Link href="/single-post">
-                                                                    <a>
+                                                                    <span>
                                                                         Etiam
                                                                         sapien
                                                                         risus
@@ -420,7 +420,7 @@ const Header2 = () => {
                                                                         tempus
                                                                         an
                                                                         accumsan...
-                                                                    </a>
+                                                                    </span>
                                                                 </Link>
                                                                 <p>
                                                                     18 hours ago
@@ -438,7 +438,7 @@ const Header2 = () => {
                                                             {/* Text */}
                                                             <div className="post-summary">
                                                                 <Link href="/single-post">
-                                                                    <a>
+                                                                    <span>
                                                                         Blandit
                                                                         tempor
                                                                         sapien
@@ -447,7 +447,7 @@ const Header2 = () => {
                                                                         risus
                                                                         auctor
                                                                         justo...
-                                                                    </a>
+                                                                    </span>
                                                                 </Link>
                                                                 <p>
                                                                     Feb 17, 2020
@@ -465,7 +465,7 @@ const Header2 = () => {
                                                             {/* Text */}
                                                             <div className="post-summary">
                                                                 <Link href="/single-post">
-                                                                    <a>
+                                                                    <span>
                                                                         Cursus
                                                                         risus an
                                                                         auctor
@@ -474,7 +474,7 @@ const Header2 = () => {
                                                                         undo
                                                                         auctor
                                                                         varius...
-                                                                    </a>
+                                                                    </span>
                                                                 </Link>
                                                                 <p>
                                                                     Feb 07, 2020
@@ -495,35 +495,35 @@ const Header2 = () => {
                                 {/* SIMPLE NAVIGATION LINK */}
                                 <li className="nl-simple" aria-haspopup="true">
                                     <Link href="/results">
-                                        <a>Blog</a>
+                                        <span>Blog</span>
                                     </Link>
                                 </li>
                                 {/* SIMPLE NAVIGATION LINK */}
                                 <li className="nl-simple" aria-haspopup="true">
                                     <Link href="/contacts">
-                                        <a>Contacts</a>
+                                        <span>Contacts</span>
                                     </Link>
                                 </li>
                                 {/* DROPDOWN MENU 
 						          	<li aria-haspopup="true">
-						          		<a href="#" class="lang-select">
+						          		<span href="#" class="lang-select">
 							          		<img src="images/icons/flags/uk.png" alt="flag-icon" /> En <span class="wsarrow"></span>
-							          	</a>
+							          	</span>
 	            						<ul class="sub-menu last-sub-menu">
-						           			<li aria-haspopup="true"><a href="#"><img src="images/icons/flags/germany.png" alt="flag-icon" /> Deutch</a></li>
-						           			<li aria-haspopup="true"><a href="#"><img src="images/icons/flags/spain.png" alt="flag-icon" /> Español</a></li>
-						           			<li aria-haspopup="true"><a href="#"><img src="images/icons/flags/france.png" alt="flag-icon" /> Français</a></li>
-						              		<li aria-haspopup="true"><a href="#"><img src="images/icons/flags/italy.png" alt="flag-icon" /> Italiano</a></li>
-						              		<li aria-haspopup="true"><a href="#"><img src="images/icons/flags/russia.png" alt="flag-icon" /> Русский</a></li>
-						              		<li aria-haspopup="true"><a href="#"><img src="images/icons/flags/china.png" alt="flag-icon" /> 简体中文</a></li>
+						           			<li aria-haspopup="true"><span href="#"><img src="images/icons/flags/germany.png" alt="flag-icon" /> Deutch</span></li>
+						           			<li aria-haspopup="true"><span href="#"><img src="images/icons/flags/spain.png" alt="flag-icon" /> Español</span></li>
+						           			<li aria-haspopup="true"><span href="#"><img src="images/icons/flags/france.png" alt="flag-icon" /> Français</span></li>
+						              		<li aria-haspopup="true"><span href="#"><img src="images/icons/flags/italy.png" alt="flag-icon" /> Italiano</span></li>
+						              		<li aria-haspopup="true"><span href="#"><img src="images/icons/flags/russia.png" alt="flag-icon" /> Русский</span></li>
+						              		<li aria-haspopup="true"><span href="#"><img src="images/icons/flags/china.png" alt="flag-icon" /> 简体中文</span></li>
 						           		</ul>
 								    </li> */}
                                 {/* HEADER BUTTON */}
                                 <li className="nl-simple" aria-haspopup="true">
                                     <Link href="/pricing">
-                                        <a className="btn btn-rose tra-black-hover last-link">
+                                        <span className="btn btn-rose tra-black-hover last-link">
                                             Get Started
-                                        </a>
+                                        </span>
                                     </Link>
                                 </li>
                             </ul>

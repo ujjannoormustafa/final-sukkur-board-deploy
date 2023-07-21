@@ -21,9 +21,9 @@ const Demo7Reviews1 = () => {
               {/* Button */}
               <div className="title-btn">
                 <Link href="/reviews">
-                  <a className="btn btn-tra-grey rose-hover">
+                  <span className="btn btn-tra-grey rose-hover">
                     Read All Reviews
-                  </a>
+                  </span>
                 </Link>
               </div>
             </div>

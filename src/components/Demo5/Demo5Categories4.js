@@ -45,62 +45,62 @@ const Demo5Categories4 = () => {
                                 <ul className="c4-box-list">
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Artificial Intelligence,</a>
+                                            <span>Artificial Intelligence,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Internet of Things,</a>
+                                            <span>Internet of Things,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>
+                                            <span>
                                                 Algorithms &amp; Data
                                                 Structures,
-                                            </a>
+                                            </span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Information,</a>
+                                            <span>Information,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Technology,</a>
+                                            <span>Technology,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>
+                                            <span>
                                                 Blockchain &amp; Cryptocurrency,
-                                            </a>
+                                            </span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Quantum Computing</a>
+                                            <span>Quantum Computing</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Machine Learning,</a>
+                                            <span>Machine Learning,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>DevOps,</a>
+                                            <span>DevOps,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Network &amp; Security,</a>
+                                            <span>Network &amp; Security,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Core IT Skills</a>
+                                            <span>Core IT Skills</span>
                                         </Link>
                                     </li>
                                 </ul>
@@ -127,52 +127,52 @@ const Demo5Categories4 = () => {
                                 <ul className="c4-box-list">
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Human Resources,</a>
+                                            <span>Human Resources,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Project Management,</a>
+                                            <span>Project Management,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Entrepreneurship,</a>
+                                            <span>Entrepreneurship,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Tourism &amp; Hospitality,</a>
+                                            <span>Tourism &amp; Hospitality,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Finance,</a>
+                                            <span>Finance,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Sales,</a>
+                                            <span>Sales,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Communications,</a>
+                                            <span>Communications,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>E-Commerce,</a>
+                                            <span>E-Commerce,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Leadership &amp; Management,</a>
+                                            <span>Leadership &amp; Management,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Business Strategy</a>
+                                            <span>Business Strategy</span>
                                         </Link>
                                     </li>
                                 </ul>
@@ -199,47 +199,47 @@ const Demo5Categories4 = () => {
                                 <ul className="c4-box-list">
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Arts &amp; Crafts,</a>
+                                            <span>Arts &amp; Crafts,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Food &amp; Beverage,</a>
+                                            <span>Food &amp; Beverage,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Beauty &amp; Makeup,</a>
+                                            <span>Beauty &amp; Makeup,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Home Improvement,</a>
+                                            <span>Home Improvement,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Travel,</a>
+                                            <span>Travel,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Pet Care &amp; Training,</a>
+                                            <span>Pet Care &amp; Training,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Gaming,</a>
+                                            <span>Gaming,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Photography,</a>
+                                            <span>Photography,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Skilled Trades</a>
+                                            <span>Skilled Trades</span>
                                         </Link>
                                     </li>
                                 </ul>
@@ -266,57 +266,57 @@ const Demo5Categories4 = () => {
                                 <ul className="c4-box-list">
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>History,</a>
+                                            <span>History,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Literature,</a>
+                                            <span>Literature,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Foreign Language,</a>
+                                            <span>Foreign Language,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Grammar &amp; Writing,</a>
+                                            <span>Grammar &amp; Writing,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Philosophy,</a>
+                                            <span>Philosophy,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Religion,</a>
+                                            <span>Religion,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>ESL,</a>
+                                            <span>ESL,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Culture,</a>
+                                            <span>Culture,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Sports,</a>
+                                            <span>Sports,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Journalism,</a>
+                                            <span>Journalism,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Ethics</a>
+                                            <span>Ethics</span>
                                         </Link>
                                     </li>
                                 </ul>
@@ -343,47 +343,47 @@ const Demo5Categories4 = () => {
                                 <ul className="c4-box-list">
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Mobile Development,</a>
+                                            <span>Mobile Development,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Web Development,</a>
+                                            <span>Web Development,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Game Development,</a>
+                                            <span>Game Development,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Software Testing,</a>
+                                            <span>Software Testing,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Programming Languages,</a>
+                                            <span>Programming Languages,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Databases,</a>
+                                            <span>Databases,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Cloud Computing,</a>
+                                            <span>Cloud Computing,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Software Development,</a>
+                                            <span>Software Development,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Development Tools</a>
+                                            <span>Development Tools</span>
                                         </Link>
                                     </li>
                                 </ul>
@@ -410,57 +410,57 @@ const Demo5Categories4 = () => {
                                 <ul className="c4-box-list">
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Anatomy,</a>
+                                            <span>Anatomy,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Veterinary Science,</a>
+                                            <span>Veterinary Science,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Care Nursing</a>
+                                            <span>Care Nursing</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Nutrition &amp; Wellness,</a>
+                                            <span>Nutrition &amp; Wellness,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Disease &amp; Disorders,</a>
+                                            <span>Disease &amp; Disorders,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Public Health,</a>
+                                            <span>Public Health,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Mental Health,</a>
+                                            <span>Mental Health,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Fitness,</a>
+                                            <span>Fitness,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Yoga,</a>
+                                            <span>Yoga,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Meditation,</a>
+                                            <span>Meditation,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Safety &amp; First Aid,</a>
+                                            <span>Safety &amp; First Aid,</span>
                                         </Link>
                                     </li>
                                 </ul>
@@ -487,42 +487,42 @@ const Demo5Categories4 = () => {
                                 <ul className="c4-box-list">
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Discrete Math,</a>
+                                            <span>Discrete Math,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Statistics &amp; Probability,</a>
+                                            <span>Statistics &amp; Probability,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Spatial Analysis,</a>
+                                            <span>Spatial Analysis,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Algebra &amp; Geometry,</a>
+                                            <span>Algebra &amp; Geometry,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Foundations of Mathematics,</a>
+                                            <span>Foundations of Mathematics,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Calculus,</a>
+                                            <span>Calculus,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Trigonometry,</a>
+                                            <span>Trigonometry,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Probability</a>
+                                            <span>Probability</span>
                                         </Link>
                                     </li>
                                 </ul>
@@ -549,47 +549,47 @@ const Demo5Categories4 = () => {
                                 <ul className="c4-box-list">
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Chemical Engineering,</a>
+                                            <span>Chemical Engineering,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Civil Engineering,</a>
+                                            <span>Civil Engineering,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Electrical Engineering,</a>
+                                            <span>Electrical Engineering,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Mechanical Engineering,</a>
+                                            <span>Mechanical Engineering,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Robotics,</a>
+                                            <span>Robotics,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Nanotechnology,</a>
+                                            <span>Nanotechnology,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Manufacturing,</a>
+                                            <span>Manufacturing,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Textiles,</a>
+                                            <span>Textiles,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Structural Engineering</a>
+                                            <span>Structural Engineering</span>
                                         </Link>
                                     </li>
                                 </ul>
@@ -616,52 +616,52 @@ const Demo5Categories4 = () => {
                                 <ul className="c4-box-list">
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Sociology,</a>
+                                            <span>Sociology,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Economics,</a>
+                                            <span>Economics,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Psychology,</a>
+                                            <span>Psychology,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Anthropology,</a>
+                                            <span>Anthropology,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Political Science,</a>
+                                            <span>Political Science,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Urban Planning,</a>
+                                            <span>Urban Planning,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Human Rights,</a>
+                                            <span>Human Rights,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Law,</a>
+                                            <span>Law,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Sustainability,</a>
+                                            <span>Sustainability,</span>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/courses-list">
-                                            <a>Public Policy</a>
+                                            <span>Public Policy</span>
                                         </Link>
                                     </li>
                                 </ul>
@@ -676,9 +676,9 @@ const Demo5Categories4 = () => {
                     <div className="col-md-12">
                         <div className="all-courses-btn">
                             <Link href="/categories-list">
-                                <a className="btn btn-md btn-tra-grey rose-hover">
+                                <span className="btn btn-md btn-tra-grey rose-hover">
                                     Browse All Courses
-                                </a>
+                                </span>
                             </Link>
                         </div>
                     </div>

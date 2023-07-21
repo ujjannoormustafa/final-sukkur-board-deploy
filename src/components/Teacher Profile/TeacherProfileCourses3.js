@@ -30,7 +30,7 @@ const TeacherProfileCourses3 = () => {
             <div className="col-md-6 col-lg-4 col-xl-3">
               <div className="cbox-1">
                 <Link href="/course-details">
-                  <a>
+                  <span>
                     {/* Image */}
                     <img
                       className="img-fluid"
@@ -63,7 +63,7 @@ const TeacherProfileCourses3 = () => {
                         $138.99
                       </span>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </div>
             </div>
@@ -72,7 +72,7 @@ const TeacherProfileCourses3 = () => {
             <div className="col-md-6 col-lg-4 col-xl-3">
               <div className="cbox-1">
                 <Link href="/course-details">
-                  <a>
+                  <span>
                     {/* Image */}
                     <img
                       className="img-fluid"
@@ -105,7 +105,7 @@ const TeacherProfileCourses3 = () => {
                         $59.99
                       </span>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </div>
             </div>
@@ -114,7 +114,7 @@ const TeacherProfileCourses3 = () => {
             <div className="col-md-6 col-lg-4 col-xl-3">
               <div className="cbox-1">
                 <Link href="/course-details">
-                  <a>
+                  <span>
                     {/* Image */}
                     <img
                       className="img-fluid"
@@ -147,7 +147,7 @@ const TeacherProfileCourses3 = () => {
                         $34.99
                       </span>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </div>
             </div>
@@ -156,7 +156,7 @@ const TeacherProfileCourses3 = () => {
             <div className="col-md-6 col-lg-4 col-xl-3">
               <div className="cbox-1">
                 <Link href="/course-details">
-                  <a>
+                  <span>
                     {/* Image */}
                     <img
                       className="img-fluid"
@@ -186,14 +186,14 @@ const TeacherProfileCourses3 = () => {
                       {/* Course Price */}
                       <span className="course-price">Free Course</span>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </div>
             </div>
             <div className="col-md-6 col-lg-4 col-xl-3">
               <div className="cbox-1">
                 <Link href="/course-details">
-                  <a>
+                  <span>
                     {/* Image */}
                     <img
                       className="img-fluid"
@@ -226,7 +226,7 @@ const TeacherProfileCourses3 = () => {
                         $34.99
                       </span>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </div>
             </div>
@@ -235,7 +235,7 @@ const TeacherProfileCourses3 = () => {
             <div className="col-md-6 col-lg-4 col-xl-3">
               <div className="cbox-1">
                 <Link href="/course-details">
-                  <a>
+                  <span>
                     {/* Image */}
                     <img
                       className="img-fluid"
@@ -265,7 +265,7 @@ const TeacherProfileCourses3 = () => {
                       {/* Course Price */}
                       <span className="course-price">Free Course</span>
                     </div>
-                  </a>
+                  </span>
                 </Link>
               </div>
             </div>

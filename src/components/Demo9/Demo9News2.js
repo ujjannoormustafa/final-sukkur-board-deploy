@@ -30,7 +30,7 @@ const Demo9News2 = () => {
               {/* Title */}
               <h5 className="h5-sm">
                 <Link href="/single-post">
-                  <a>Integer congue magna at pretium purus pretium</a>
+                  <span>Integer congue magna at pretium purus pretium</span>
                 </Link>
               </h5>
               {/* Text */}
@@ -51,7 +51,7 @@ const Demo9News2 = () => {
               {/* Title */}
               <h5 className="h5-sm">
                 <Link href="/single-post">
-                  <a>Congue magna eTreeks purus pretium magnis</a>
+                  <span>Congue magna eTreeks purus pretium magnis</span>
                 </Link>
               </h5>
               {/* Text */}
@@ -72,7 +72,7 @@ const Demo9News2 = () => {
               {/* Title */}
               <h5 className="h5-sm">
                 <Link href="/single-post">
-                  <a>8 neque dolor primis a libero tempus blandit</a>
+                  <span>8 neque dolor primis a libero tempus blandit</span>
                 </Link>
               </h5>
               {/* Text */}
@@ -93,7 +93,7 @@ const Demo9News2 = () => {
               {/* Title */}
               <h5 className="h5-sm">
                 <Link href="/single-post">
-                  <a>Ligula varius magna and porta a laoreet pretium</a>
+                  <span>Ligula varius magna and porta a laoreet pretium</span>
                 </Link>
               </h5>
               {/* Text */}

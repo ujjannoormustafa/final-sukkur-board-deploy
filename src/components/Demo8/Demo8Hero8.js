@@ -17,12 +17,12 @@ const Demo8Hero8 = () => {
                                 experts
                             </h2>
                             {/* Button */}
-                            <a
+                            <span
                                 href="#categories-3"
                                 className="btn btn-md btn-rose tra-white-hover"
                             >
                                 Start Learning Now
-                            </a>
+                            </span>
                         </div>
                     </div>
                     {/* END HERO TEXT */}

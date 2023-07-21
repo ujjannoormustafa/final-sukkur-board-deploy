@@ -38,9 +38,9 @@ const BecomeATeacherAbout3 = () => {
                             </ul>
                             {/* Button */}
                             <Link href="/contacts">
-                                <a className="btn btn-md btn-rose tra-black-hover">
+                                <span className="btn btn-md btn-rose tra-black-hover">
                                     Become A Teacher
-                                </a>
+                                </span>
                             </Link>
                         </div>
                     </div>

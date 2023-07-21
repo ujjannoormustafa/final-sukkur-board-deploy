@@ -35,12 +35,12 @@ const Demo1Video3 = () => {
               {/* Change the link HERE!!! */}
               <div className="play-btn play-btn-rose text-center">
                 <Link href="#">
-                  <a
+                  <span
                     onClick={() => showVideo()}
                     className="video-popup3 video-play-button"
                   >
                     <span />
-                  </a>
+                  </span>
                 </Link>
                 {/* Preview Image */}
                 <img

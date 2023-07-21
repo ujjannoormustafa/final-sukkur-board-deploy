@@ -30,9 +30,9 @@ const Aboutbanner3 = () => {
                                 </h4>
                                 {/* Button */}
                                 <Link href="/courses-list">
-                                    <a className="btn btn-rose tra-white-hover">
+                                    <span className="btn btn-rose tra-white-hover">
                                         Find Out More
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>

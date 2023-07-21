@@ -31,7 +31,7 @@ const CategoryDetailsBanner3 = () => {
                 </h4>
                 {/* Button */}
                 <Link href="/courses-list">
-                  <a className="btn btn-rose tra-white-hover">Find Out More</a>
+                  <span className="btn btn-rose tra-white-hover">Find Out More</span>
                 </Link>
               </div>
             </div>

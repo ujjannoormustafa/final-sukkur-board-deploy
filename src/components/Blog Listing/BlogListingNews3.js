@@ -36,7 +36,7 @@ const BlogListingNews3 = () => {
                       {/* Title */}
                       <h4 className="h4-sm">
                         <Link href="/single-post">
-                          <a>Ligula varius magna porta a pretium</a>
+                          <span>Ligula varius magna porta a pretium</span>
                         </Link>
                       </h4>
                       {/* Post Author */}
@@ -52,17 +52,17 @@ const BlogListingNews3 = () => {
                       <div className="tags-cloud">
                         <span className="badge">
                           <Link href="#">
-                            <a>Ideas &amp; Opinions</a>
+                            <span>Ideas &amp; Opinions</span>
                           </Link>
                         </span>
                         <span className="badge">
                           <Link href="#">
-                            <a>Students</a>
+                            <span>Students</span>
                           </Link>
                         </span>
                         <span className="badge">
                           <Link href="#">
-                            <a>eTreeks News</a>
+                            <span>eTreeks News</span>
                           </Link>
                         </span>
                       </div>
@@ -87,7 +87,7 @@ const BlogListingNews3 = () => {
                       {/* Title */}
                       <h4 className="h4-sm">
                         <Link href="/single-post">
-                          <a>20 magna undo at purus pretium</a>
+                          <span>20 magna undo at purus pretium</span>
                         </Link>
                       </h4>
                       {/* Post Author */}
@@ -103,12 +103,12 @@ const BlogListingNews3 = () => {
                       <div className="tags-cloud">
                         <span className="badge">
                           <Link href="#">
-                            <a>eTreeks News</a>
+                            <span>eTreeks News</span>
                           </Link>
                         </span>
                         <span className="badge">
                           <Link href="#">
-                            <a>eTreeks for Business</a>
+                            <span>eTreeks for Business</span>
                           </Link>
                         </span>
                       </div>
@@ -133,10 +133,10 @@ const BlogListingNews3 = () => {
                       {/* Title */}
                       <h4 className="h4-sm">
                         <Link href="/single-post">
-                          <a>
+                          <span>
                             12 dolor primis libero tempus ligula at varius magna
                             porta a pretium
-                          </a>
+                          </span>
                         </Link>
                       </h4>
                       {/* Post Author */}
@@ -151,12 +151,12 @@ const BlogListingNews3 = () => {
                       <div className="tags-cloud">
                         <span className="badge">
                           <Link href="#">
-                            <a>Education Process</a>
+                            <span>Education Process</span>
                           </Link>
                         </span>
                         <span className="badge">
                           <Link href="#">
-                            <a>Students</a>
+                            <span>Students</span>
                           </Link>
                         </span>
                       </div>
@@ -181,10 +181,10 @@ const BlogListingNews3 = () => {
                       {/* Title */}
                       <h4 className="h4-sm">
                         <Link href="/single-post">
-                          <a>
+                          <span>
                             Ultrice eTreeks justo purus ipsum igula varius magna
                             porta a pretium
-                          </a>
+                          </span>
                         </Link>
                       </h4>
                       {/* Post Author */}
@@ -199,12 +199,12 @@ const BlogListingNews3 = () => {
                       <div className="tags-cloud">
                         <span className="badge">
                           <Link href="#">
-                            <a>eTreeks News</a>
+                            <span>eTreeks News</span>
                           </Link>
                         </span>
                         <span className="badge">
                           <Link href="#">
-                            <a>Education Process</a>
+                            <span>Education Process</span>
                           </Link>
                         </span>
                       </div>
@@ -216,7 +216,7 @@ const BlogListingNews3 = () => {
             </div>
             {/* END BLOG POSTS HOLDER */}
             {/* SIDEBAR */}
-            <aside id="sidebar" className="col-lg-3">
+            <spanside id="sidebar" className="col-lg-3">
               {/* SEARCH FIELD */}
               <div id="search-field" className="sidebar-div mb-50">
                 <div className="input-group mb-3">
@@ -239,43 +239,43 @@ const BlogListingNews3 = () => {
                 <ul className="blog-category-list clearfix">
                   <li>
                     <Link href="#">
-                      <a>eTreeks News</a>
+                      <span>eTreeks News</span>
                     </Link>
                     <span>(36)</span>
                   </li>
                   <li>
                     <Link href="#">
-                      <a>Students &amp; Instructors</a>
+                      <span>Students &amp; Instructors</span>
                     </Link>
                     <span>(81)</span>
                   </li>
                   <li>
                     <Link href="#">
-                      <a>Ideas &amp; Opinions</a>
+                      <span>Ideas &amp; Opinions</span>
                     </Link>
                     <span>(76)</span>
                   </li>
                   <li>
                     <Link href="#">
-                      <a>Education Process</a>
+                      <span>Education Process</span>
                     </Link>
                     <span>(143)</span>
                   </li>
                   <li>
                     <Link href="#">
-                      <a>eTreeks for Business</a>
+                      <span>eTreeks for Business</span>
                     </Link>
                     <span>(24)</span>
                   </li>
                   <li>
                     <Link href="#">
-                      <a>Uncategorized</a>
+                      <span>Uncategorized</span>
                     </Link>
                     <span>(42)</span>
                   </li>
                 </ul>
               </div>
-            </aside>
+            </spanside>
             {/* END SIDEBAR */}
           </div>
           {/* End row */}

@@ -39,9 +39,9 @@ const Demo5About3 = () => {
                             </ul>
                             {/* Button */}
                             <Link href="/categories-list">
-                                <a className="btn btn-md btn-rose tra-black-hover">
+                                <span className="btn btn-md btn-rose tra-black-hover">
                                     Start Learning Now
-                                </a>
+                                </span>
                             </Link>
                         </div>
                     </div>

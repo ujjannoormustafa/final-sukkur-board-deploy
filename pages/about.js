@@ -18,15 +18,15 @@ const about = () => {
     <Layout>
       <div className="inner-page-wrapper">
         <PageTitle pageTitle="About eTreeks" />
-        <About2 />
+        <spanbout2 />
         {/* End ABOUT-2 */}
         {/* STATISTIC-1
 				============================================= */}
-        <AboutStatistic1 />
+        <spanboutStatistic1 />
         {/* END STATISTIC-1 */}
         {/* COURSES-3
 				============================================= */}
-        <Aboutcourses3 />
+        <spanboutcourses3 />
         {/* END COURSES-3 */}
         {/* VIDEO-1
 				============================================= */}
@@ -34,31 +34,31 @@ const about = () => {
         {/* END VIDEO-1 */}
         {/* CATEGORIES-4
 				============================================= */}
-        <Aboutcategories4 />
+        <spanboutcategories4 />
         {/* END CATEGORIES-4 */}
         {/* BANNER-2
 				============================================= */}
-        <Aboutbanner2 />
+        <spanboutbanner2 />
         {/* END BANNER-2 */}
         {/* SERVICES-5
 				============================================= */}
-        <Aboutservices5 />
+        <spanboutservices5 />
         {/* End SERVICES-5 */}
         {/* TEAM-2
 				============================================= */}
-        <Aboutteam2 />
+        <spanboutteam2 />
         {/* END TEAM-2 */}
         {/* NEWS-1
 				============================================= */}
-        <Aboutnews1 />
+        <spanboutnews1 />
         {/* End NEWS-1 */}
         {/* TESTIMONIALS-1
 				============================================= */}
-        <Aboutreviews1 />
+        <spanboutreviews1 />
         {/* END TESTIMONIALS-1 */}
         {/* BANNER-3
 				============================================= */}
-        <Aboutbanner3 />
+        <spanboutbanner3 />
       </div>
     </Layout>
   );

@@ -21,9 +21,9 @@ const Demo3Services6 = () => {
               </p>
               {/* Button */}
               <Link href="#">
-                <a className="btn btn-md btn-rose tra-white-hover">
+                <span className="btn btn-md btn-rose tra-white-hover">
                   Start Learning Now!
-                </a>
+                </span>
               </Link>
             </div>
           </div>

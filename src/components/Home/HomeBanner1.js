@@ -17,9 +17,9 @@ const HomeBanner1 = () => {
                 in minutes. You are free to move the blocks between demos
               </p>
               <Link href="/demo-1">
-                <a className="btn btn-tra-rose" target="_blank">
+                <span className="btn btn-tra-rose" target="_blank">
                   Launch Main Demo
-                </a>
+                </span>
               </Link>
             </div>
           </div>

@@ -22,14 +22,14 @@ const Demo9Services6 = () => {
               </p>
               {/* Button */}
               <Link href="#">
-                <a
+                <span
                   onClick={(e) => {
                     e.preventDefault();
                   }}
                   className="btn btn-md btn-rose tra-white-hover"
                 >
                   Start Learning Now!
-                </a>
+                </span>
               </Link>
             </div>
           </div>

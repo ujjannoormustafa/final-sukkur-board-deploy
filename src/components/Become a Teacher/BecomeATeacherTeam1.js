@@ -22,9 +22,9 @@ const BecomeATeacherTeam1 = () => {
                             {/* Button */}
                             <div className="title-btn">
                                 <Link href="/officers">
-                                    <a className="btn btn-tra-grey rose-hover">
+                                    <span className="btn btn-tra-grey rose-hover">
                                         Meet All Teachers
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>
@@ -46,38 +46,38 @@ const BecomeATeacherTeam1 = () => {
                                     <ul className="text-center clearfix">
                                         <li>
                                             <Link href="#">
-                                                <a
+                                                <span
                                                     onClick={(e) => {
                                                         e.preventDefault();
                                                     }}
                                                     className="ico-facebook"
                                                 >
                                                     <i className="fab fa-facebook-f" />
-                                                </a>
+                                                </span>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="#">
-                                                <a
+                                                <span
                                                     onClick={(e) => {
                                                         e.preventDefault();
                                                     }}
                                                     className="ico-twitter"
                                                 >
                                                     <i className="fab fa-twitter" />
-                                                </a>
+                                                </span>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="#">
-                                                <a
+                                                <span
                                                     onClick={(e) => {
                                                         e.preventDefault();
                                                     }}
                                                     className="ico-linkedin"
                                                 >
                                                     <i className="fab fa-linkedin-in" />
-                                                </a>
+                                                </span>
                                             </Link>
                                         </li>
                                     </ul>
@@ -87,7 +87,7 @@ const BecomeATeacherTeam1 = () => {
                             <div className="tm-meta">
                                 <h5 className="h5-md">
                                     <Link href="/controlling-authority">
-                                        <a>Sam Richardson</a>
+                                        <span>Sam Richardson</span>
                                     </Link>
                                 </h5>
                                 <span>Head Of Department</span>
@@ -120,38 +120,38 @@ const BecomeATeacherTeam1 = () => {
                                     <ul className="text-center clearfix">
                                         <li>
                                             <Link href="#">
-                                                <a
+                                                <span
                                                     onClick={(e) => {
                                                         e.preventDefault();
                                                     }}
                                                     className="ico-facebook"
                                                 >
                                                     <i className="fab fa-facebook-f" />
-                                                </a>
+                                                </span>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="#">
-                                                <a
+                                                <span
                                                     onClick={(e) => {
                                                         e.preventDefault();
                                                     }}
                                                     className="ico-twitter"
                                                 >
                                                     <i className="fab fa-twitter" />
-                                                </a>
+                                                </span>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="#">
-                                                <a
+                                                <span
                                                     onClick={(e) => {
                                                         e.preventDefault();
                                                     }}
                                                     className="ico-google-plus"
                                                 >
                                                     <i className="fab fa-google-plus-g" />
-                                                </a>
+                                                </span>
                                             </Link>
                                         </li>
                                     </ul>
@@ -161,7 +161,7 @@ const BecomeATeacherTeam1 = () => {
                             <div className="tm-meta">
                                 <h5 className="h5-md">
                                     <Link href="/controlling-authority">
-                                        <a>Kally Brooks</a>
+                                        <span>Kally Brooks</span>
                                     </Link>
                                 </h5>
                                 <span>Business &amp; Management</span>
@@ -194,38 +194,38 @@ const BecomeATeacherTeam1 = () => {
                                     <ul className="text-center clearfix">
                                         <li>
                                             <Link href="#">
-                                                <a
+                                                <span
                                                     onClick={(e) => {
                                                         e.preventDefault();
                                                     }}
                                                     className="ico-facebook"
                                                 >
                                                     <i className="fab fa-facebook-f" />
-                                                </a>
+                                                </span>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="#">
-                                                <a
+                                                <span
                                                     onClick={(e) => {
                                                         e.preventDefault();
                                                     }}
                                                     className="ico-twitter"
                                                 >
                                                     <i className="fab fa-twitter" />
-                                                </a>
+                                                </span>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="#">
-                                                <a
+                                                <span
                                                     onClick={(e) => {
                                                         e.preventDefault();
                                                     }}
                                                     className="ico-linkedin"
                                                 >
                                                     <i className="fab fa-linkedin-in" />
-                                                </a>
+                                                </span>
                                             </Link>
                                         </li>
                                     </ul>
@@ -235,7 +235,7 @@ const BecomeATeacherTeam1 = () => {
                             <div className="tm-meta">
                                 <h5 className="h5-md">
                                     <Link href="/controlling-authority">
-                                        <a>Robert Coronado</a>
+                                        <span>Robert Coronado</span>
                                     </Link>
                                 </h5>
                                 <span>Engineering &amp; Technology</span>
@@ -268,38 +268,38 @@ const BecomeATeacherTeam1 = () => {
                                     <ul className="text-center clearfix">
                                         <li>
                                             <Link href="#">
-                                                <a
+                                                <span
                                                     onClick={(e) => {
                                                         e.preventDefault();
                                                     }}
                                                     className="ico-facebook"
                                                 >
                                                     <i className="fab fa-facebook-f" />
-                                                </a>
+                                                </span>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="#">
-                                                <a
+                                                <span
                                                     onClick={(e) => {
                                                         e.preventDefault();
                                                     }}
                                                     className="ico-twitter"
                                                 >
                                                     <i className="fab fa-twitter" />
-                                                </a>
+                                                </span>
                                             </Link>
                                         </li>
                                         <li>
                                             <Link href="#">
-                                                <a
+                                                <span
                                                     onClick={(e) => {
                                                         e.preventDefault();
                                                     }}
                                                     className="ico-youtube"
                                                 >
                                                     <i className="fab fa-youtube" />
-                                                </a>
+                                                </span>
                                             </Link>
                                         </li>
                                     </ul>
@@ -309,19 +309,19 @@ const BecomeATeacherTeam1 = () => {
                             <div className="tm-meta">
                                 <h5 className="h5-md">
                                     <Link href="/contacts">
-                                        <a>Grow with eTreeks</a>
+                                        <span>Grow with eTreeks</span>
                                     </Link>
                                 </h5>
                                 <span>
                                     <Link href="#">
-                                        <a
+                                        <span
                                             onClick={(e) => {
                                                 e.preventDefault();
                                             }}
                                             href="mailto:youremail@mail.com"
                                         >
                                             hireme@domain.com
-                                        </a>
+                                        </span>
                                     </Link>
                                 </span>
                                 {/* Rating */}

@@ -20,9 +20,9 @@ const Demo9Courses2 = () => {
               {/* Button */}
               <div className="title-btn">
                 <Link href="/courses-list">
-                  <a className="btn btn-tra-grey rose-hover">
+                  <span className="btn btn-tra-grey rose-hover">
                     View All Courses
-                  </a>
+                  </span>
                 </Link>
               </div>
             </div>
@@ -34,7 +34,7 @@ const Demo9Courses2 = () => {
           <div className="col-md-6 col-lg-4">
             <div className="cbox-2">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Course Data */}
                   <div className="course-data">
                     {/* Image */}
@@ -75,7 +75,7 @@ const Demo9Courses2 = () => {
                       <span>4.5 (26 Ratings)</span>
                     </div>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -84,7 +84,7 @@ const Demo9Courses2 = () => {
           <div className="col-md-6 col-lg-4">
             <div className="cbox-2">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Course Data */}
                   <div className="course-data">
                     {/* Image */}
@@ -125,7 +125,7 @@ const Demo9Courses2 = () => {
                       <span>5 (118 Ratings)</span>
                     </div>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -134,7 +134,7 @@ const Demo9Courses2 = () => {
           <div className="col-md-6 col-lg-4">
             <div className="cbox-2">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Course Data */}
                   <div className="course-data">
                     {/* Image */}
@@ -174,7 +174,7 @@ const Demo9Courses2 = () => {
                       <span>4.5 (72 Ratings)</span>
                     </div>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -183,7 +183,7 @@ const Demo9Courses2 = () => {
           <div className="col-md-6 col-lg-4">
             <div className="cbox-2">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Course Data */}
                   <div className="course-data">
                     {/* Image */}
@@ -222,7 +222,7 @@ const Demo9Courses2 = () => {
                       <span>5 (281 Ratings)</span>
                     </div>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -231,7 +231,7 @@ const Demo9Courses2 = () => {
           <div className="col-md-6 col-lg-4">
             <div className="cbox-2">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Course Data */}
                   <div className="course-data">
                     {/* Image */}
@@ -271,7 +271,7 @@ const Demo9Courses2 = () => {
                       <span>4.15 (58 Ratings)</span>
                     </div>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>
@@ -280,7 +280,7 @@ const Demo9Courses2 = () => {
           <div className="col-md-6 col-lg-4">
             <div className="cbox-2">
               <Link href="/course-details">
-                <a>
+                <span>
                   {/* Course Data */}
                   <div className="course-data">
                     {/* Image */}
@@ -322,7 +322,7 @@ const Demo9Courses2 = () => {
                       <span>5 (31 Ratings)</span>
                     </div>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
           </div>

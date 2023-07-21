@@ -6,7 +6,7 @@ const VideoImage = ({ id, img, extraClass }) => {
   const { showVideo } = videoContext;
   return (
     <Fragment>
-      <a
+      <span
         className="video-popup1"
         href="#"
         onClick={() => showVideo(id ? id : "SZEflIVnhH8")}
@@ -22,7 +22,7 @@ const VideoImage = ({ id, img, extraClass }) => {
             <span className="flaticon-play-button"></span>
           </div>
         </div>
-      </a>
+      </span>
       <img
         className="img-fluid"
         src={img ? img : "images/dashboard-07.png"}
@@ -37,7 +37,7 @@ const VideoImage2 = ({ id, img, extraClass }) => {
   const { showVideo } = videoContext;
   return (
     <Fragment>
-      <a
+      <span
         className="video-popup1"
         href="#"
         onClick={() => showVideo(id ? id : "SZEflIVnhH8")}
@@ -47,7 +47,7 @@ const VideoImage2 = ({ id, img, extraClass }) => {
             <span className="flaticon-play-button"></span>
           </div>
         </div>
-      </a>
+      </span>
       <img
         className="img-fluid"
         src="/images/img-01.png"
@@ -61,7 +61,7 @@ const VideoWithBtn = ({ id, extraClass, defText }) => {
   const videoContext = useContext(VideoContext);
   const { showVideo } = videoContext;
   return (
-    <a
+    <span
       href="#"
       className={
         extraClass
@@ -72,7 +72,7 @@ const VideoWithBtn = ({ id, extraClass, defText }) => {
     >
       <span className="flaticon-play"></span>{" "}
       {defText ? defText : "See OLMO in Action"}
-    </a>
+    </span>
   );
 };
 

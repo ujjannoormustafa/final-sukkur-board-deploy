@@ -13,28 +13,28 @@ const CoursesListPageHero = () => {
                 <div className="row mx-auto px-5 mb-2 bg-lightdark rounded-3 box box zoom-effect">
                     <div className='d-flex justify-content-between align-items-center  text-white p-3'>
                         <h4 className='text-white'>Application form for Duplicate Pacca Certificate</h4>
-                        <div><a href="#" className='text-white display-4 '> < HiFolderDownload/></a></div>
+                        <div><span href="#" className='text-white display-4 '> < HiFolderDownload/></span></div>
 
                     </div>
                 </div>
                 <div className="row mx-auto px-5 mb-2 bg-lightdark rounded-3 box box zoom-effect">
                     <div className='d-flex justify-content-between align-items-center  text-white p-3'>
                         <h4 className='text-white'> Application form for Certificate of Eligibility</h4>
-                        <div><a href="#" className='text-white display-4 '> < HiFolderDownload/></a></div>
+                        <div><span href="#" className='text-white display-4 '> < HiFolderDownload/></span></div>
 
                     </div>
                 </div>
                 <div className="row mx-auto px-5 mb-2 bg-lightdark rounded-3 box box zoom-effect">
                     <div className='d-flex justify-content-between align-items-center  text-white p-3'>
                         <h4 className='text-white'>Application form for Certificate of Migration</h4>
-                        <div><a href="#" className='text-white display-4 '> < HiFolderDownload/></a></div>
+                        <div><span href="#" className='text-white display-4 '> < HiFolderDownload/></span></div>
 
                     </div>
                 </div>
                 <div className="row mx-auto px-5 mb-2 bg-lightdark rounded-3 box box zoom-effect">
                     <div className='d-flex justify-content-between align-items-center  text-white p-3'>
                         <h4 className='text-white'>Application form for Enrollment</h4>
-                        <div><a href="#" className='text-white display-4 '> < HiFolderDownload/></a></div>
+                        <div><span href="#" className='text-white display-4 '> < HiFolderDownload/></span></div>
 
                     </div>
                 </div>
@@ -63,31 +63,31 @@ const CoursesListPageHero = () => {
         //                             </li>
         //                             <li>
         //                                 <Link href="#">
-        //                                     <a
+        //                                     <span
         //                                         onClick={(e) => {
         //                                             e.preventDefault();
         //                                         }}
         //                                         className="share-ico ico-facebook"
         //                                     >
         //                                         <i className="fab fa-facebook-f" />
-        //                                     </a>
+        //                                     </span>
         //                                 </Link>
         //                             </li>
         //                             <li>
         //                                 <Link href="#">
-        //                                     <a
+        //                                     <span
         //                                         onClick={(e) => {
         //                                             e.preventDefault();
         //                                         }}
         //                                         className="share-ico ico-twitter"
         //                                     >
         //                                         <i className="fab fa-twitter" />
-        //                                     </a>
+        //                                     </span>
         //                                 </Link>
         //                             </li>
         //                             <li>
         //                                 <Link href="#">
-        //                                     <a
+        //                                     <span
         //                                         onClick={(e) => {
         //                                             e.preventDefault();
         //                                         }}
@@ -95,12 +95,12 @@ const CoursesListPageHero = () => {
         //                                         className="share-ico ico-mail"
         //                                     >
         //                                         <i className="far fa-envelope" />
-        //                                     </a>
+        //                                     </span>
         //                                 </Link>
         //                             </li>
         //                             <li>
         //                                 <Link href="#">
-        //                                     <a
+        //                                     <span
         //                                         onClick={(e) => {
         //                                             e.preventDefault();
         //                                         }}
@@ -108,7 +108,7 @@ const CoursesListPageHero = () => {
         //                                     >
         //                                         <i className="far fa-bookmark" />
         //                                         8.4k
-        //                                     </a>
+        //                                     </span>
         //                                 </Link>
         //                             </li>
         //                         </ul>

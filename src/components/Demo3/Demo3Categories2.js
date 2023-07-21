@@ -39,7 +39,7 @@ const Demo3Categories2 = () => {
                     {/* CATEGORIE BOX #1 */}
                     {/*<div className="col-sm-6 col-lg-3 col-xl-2">*/}
                     {/*    <Link href="/category-details">*/}
-                    {/*        <a>*/}
+                    {/*        <span>*/}
                     {/*            <div className="c2-box text-center">*/}
                     {/*                /!* Icon *!/*/}
                     {/*                <img*/}
@@ -51,14 +51,14 @@ const Demo3Categories2 = () => {
                     {/*                <h5 className="h5-sm">Development</h5>*/}
                     {/*                <p>36 Courses</p>*/}
                     {/*            </div>*/}
-                    {/*        </a>*/}
+                    {/*        </span>*/}
                     {/*    </Link>*/}
                     {/*</div>*/}
                     {/* END CATEGORIE BOX #1 */}
                     {/* CATEGORIE BOX #2 */}
                     {/*<div className="col-sm-6 col-lg-3 col-xl-2">*/}
                     {/*    <Link href="/category-details">*/}
-                    {/*        <a>*/}
+                    {/*        <span>*/}
                     {/*            <div className="c2-box text-center">*/}
                     {/*                /!* Icon *!/*/}
                     {/*                <img*/}
@@ -70,14 +70,14 @@ const Demo3Categories2 = () => {
                     {/*                <h5 className="h5-sm">Finance</h5>*/}
                     {/*                <p>28 Courses</p>*/}
                     {/*            </div>*/}
-                    {/*        </a>*/}
+                    {/*        </span>*/}
                     {/*    </Link>*/}
                     {/*</div>*/}
                     {/*/!* END CATEGORIE BOX #2 *!/*/}
                     {/*/!* CATEGORIE BOX #3 *!/*/}
                     {/*<div className="col-sm-6 col-lg-3 col-xl-2">*/}
                     {/*    <Link href="/category-details">*/}
-                    {/*        <a>*/}
+                    {/*        <span>*/}
                     {/*            <div className="c2-box text-center">*/}
                     {/*                /!* Icon *!/*/}
                     {/*                <img*/}
@@ -89,14 +89,14 @@ const Demo3Categories2 = () => {
                     {/*                <h5 className="h5-sm">IT &amp; Software</h5>*/}
                     {/*                <p>54 Courses</p>*/}
                     {/*            </div>*/}
-                    {/*        </a>*/}
+                    {/*        </span>*/}
                     {/*    </Link>*/}
                     {/*</div>*/}
                     {/*/!* END CATEGORIE BOX #3 *!/*/}
                     {/*/!* CATEGORIE BOX #4 *!/*/}
                     {/*<div className="col-sm-6 col-lg-3 col-xl-2">*/}
                     {/*    <Link href="/category-details">*/}
-                    {/*        <a>*/}
+                    {/*        <span>*/}
                     {/*            <div className="c2-box text-center">*/}
                     {/*                /!* Icon *!/*/}
                     {/*                <img*/}
@@ -108,14 +108,14 @@ const Demo3Categories2 = () => {
                     {/*                <h5 className="h5-sm">Networking</h5>*/}
                     {/*                <p>59 Courses</p>*/}
                     {/*            </div>*/}
-                    {/*        </a>*/}
+                    {/*        </span>*/}
                     {/*    </Link>*/}
                     {/*</div>*/}
                     {/* END CATEGORIE BOX #4 */}
                     {/* CATEGORIE BOX #5 */}
                     {/*<div className="col-sm-6 col-lg-3 col-xl-2">*/}
                     {/*    <Link href="/category-details">*/}
-                    {/*        <a>*/}
+                    {/*        <span>*/}
                     {/*            <div className="c2-box text-center">*/}
                     {/*                /!* Icon *!/*/}
                     {/*                <img*/}
@@ -127,14 +127,14 @@ const Demo3Categories2 = () => {
                     {/*                <h5 className="h5-sm">Sciences</h5>*/}
                     {/*                <p>78 Courses</p>*/}
                     {/*            </div>*/}
-                    {/*        </a>*/}
+                    {/*        </span>*/}
                     {/*    </Link>*/}
                     {/*</div>*/}
                     {/*/!* END CATEGORIE BOX #5 *!/*/}
                     {/*/!* CATEGORIE BOX #6 *!/*/}
                     {/*<div className="col-sm-6 col-lg-3 col-xl-2">*/}
                     {/*    <Link href="/category-details">*/}
-                    {/*        <a>*/}
+                    {/*        <span>*/}
                     {/*            <div className="c2-box text-center">*/}
                     {/*                /!* Icon *!/*/}
                     {/*                <img*/}
@@ -146,14 +146,14 @@ const Demo3Categories2 = () => {
                     {/*                <h5 className="h5-sm">Marketing</h5>*/}
                     {/*                <p>68 Courses</p>*/}
                     {/*            </div>*/}
-                    {/*        </a>*/}
+                    {/*        </span>*/}
                     {/*    </Link>*/}
                     {/*</div>*/}
                     {/*/!* END CATEGORIE BOX #6 *!/*/}
                     {/*/!* CATEGORIE BOX #7 *!/*/}
                     {/*<div className="col-sm-6 col-lg-3 col-xl-2">*/}
                     {/*    <Link href="/category-details">*/}
-                    {/*        <a>*/}
+                    {/*        <span>*/}
                     {/*            <div className="c2-box text-center">*/}
                     {/*                /!* Icon *!/*/}
                     {/*                <img*/}
@@ -165,14 +165,14 @@ const Demo3Categories2 = () => {
                     {/*                <h5 className="h5-sm">Languages</h5>*/}
                     {/*                <p>103 Courses</p>*/}
                     {/*            </div>*/}
-                    {/*        </a>*/}
+                    {/*        </span>*/}
                     {/*    </Link>*/}
                     {/*</div>*/}
                     {/*/!* END CATEGORIE BOX #7 *!/*/}
                     {/*/!* CATEGORIE BOX #8 *!/*/}
                     {/*<div className="col-sm-6 col-lg-3 col-xl-2">*/}
                     {/*    <Link href="/category-details">*/}
-                    {/*        <a>*/}
+                    {/*        <span>*/}
                     {/*            <div className="c2-box text-center">*/}
                     {/*                /!* Icon *!/*/}
                     {/*                <img*/}
@@ -186,14 +186,14 @@ const Demo3Categories2 = () => {
                     {/*                </h5>*/}
                     {/*                <p>62 Courses</p>*/}
                     {/*            </div>*/}
-                    {/*        </a>*/}
+                    {/*        </span>*/}
                     {/*    </Link>*/}
                     {/*</div>*/}
                     {/*/!* END CATEGORIE BOX #8 *!/*/}
                     {/*/!* CATEGORIE BOX #9 *!/*/}
                     {/*<div className="col-sm-6 col-lg-3 col-xl-2">*/}
                     {/*    <Link href="/category-details">*/}
-                    {/*        <a>*/}
+                    {/*        <span>*/}
                     {/*            <div className="c2-box text-center">*/}
                     {/*                /!* Icon *!/*/}
                     {/*                <img*/}
@@ -205,14 +205,14 @@ const Demo3Categories2 = () => {
                     {/*                <h5 className="h5-sm">Design &amp; Arts</h5>*/}
                     {/*                <p>78 Courses</p>*/}
                     {/*            </div>*/}
-                    {/*        </a>*/}
+                    {/*        </span>*/}
                     {/*    </Link>*/}
                     {/*</div>*/}
                     {/*/!* END CATEGORIE BOX #9 *!/*/}
                     {/*/!* CATEGORIE BOX #10 *!/*/}
                     {/*<div className="col-sm-6 col-lg-3 col-xl-2">*/}
                     {/*    <Link href="/category-details">*/}
-                    {/*        <a>*/}
+                    {/*        <span>*/}
                     {/*            <div className="c2-box text-center">*/}
                     {/*                /!* Icon *!/*/}
                     {/*                <img*/}
@@ -224,14 +224,14 @@ const Demo3Categories2 = () => {
                     {/*                <h5 className="h5-sm">Engineering</h5>*/}
                     {/*                <p>39 Courses</p>*/}
                     {/*            </div>*/}
-                    {/*        </a>*/}
+                    {/*        </span>*/}
                     {/*    </Link>*/}
                     {/*</div>*/}
                     {/*/!* END CATEGORIE BOX #10 *!/*/}
                     {/*/!* CATEGORIE BOX #11 *!/*/}
                     {/*<div className="col-sm-6 col-lg-3 col-xl-2">*/}
                     {/*    <Link href="/category-details">*/}
-                    {/*        <a>*/}
+                    {/*        <span>*/}
                     {/*            <div className="c2-box text-center">*/}
                     {/*                /!* Icon *!/*/}
                     {/*                <img*/}
@@ -243,14 +243,14 @@ const Demo3Categories2 = () => {
                     {/*                <h5 className="h5-sm">Photography</h5>*/}
                     {/*                <p>35 Courses</p>*/}
                     {/*            </div>*/}
-                    {/*        </a>*/}
+                    {/*        </span>*/}
                     {/*    </Link>*/}
                     {/*</div>*/}
                     {/*/!* END CATEGORIE BOX #11 *!/*/}
                     {/*/!* CATEGORIE BOX #12 *!/*/}
                     {/*<div className="col-sm-6 col-lg-3 col-xl-2">*/}
                     {/*    <Link href="/category-details">*/}
-                    {/*        <a>*/}
+                    {/*        <span>*/}
                     {/*            <div className="c2-box text-center">*/}
                     {/*                /!* Icon *!/*/}
                     {/*                <img*/}
@@ -262,7 +262,7 @@ const Demo3Categories2 = () => {
                     {/*                <h5 className="h5-sm">Life Science</h5>*/}
                     {/*                <p>37 Courses</p>*/}
                     {/*            </div>*/}
-                    {/*        </a>*/}
+                    {/*        </span>*/}
                     {/*    </Link>*/}
                     {/*</div>*/}
                     {/* END CATEGORIE BOX #12 */}

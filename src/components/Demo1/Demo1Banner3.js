@@ -30,7 +30,7 @@ const Demo1Banner3 = () => {
                 </h4>
                 {/* Button */}
                 <Link href="/courses-list">
-                  <a className="btn btn-rose tra-black-hover">Find Out More</a>
+                  <span className="btn btn-rose tra-black-hover">Find Out More</span>
                 </Link>
               </div>
             </div>

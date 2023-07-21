@@ -17,13 +17,13 @@ const Header = ({ headerBtn }) => {
         {/* MOBILE HEADER */}
         <div className="wsmobileheader clearfix">
           <Link href="#">
-            <a
+            <span
               onClick={() => onClick()}
               id="wsnavtoggle"
               className="wsanimated-arrow"
             >
               <span />
-            </a>
+            </span>
           </Link>
           <span className="smllogo smllogo-black">
             <img
@@ -49,26 +49,26 @@ const Header = ({ headerBtn }) => {
             {/* For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 344 x 80 pixels) */}
             <div className="desktoplogo">
               <Link href="/demo-1">
-                <a href="#hero-3" className="logo-black">
+                <span href="#hero-3" className="logo-black">
                   <img
                     src="images/logo.jpg"
                     width={65}
                     height={65}
                     alt="header-logo"
                   />
-                </a>
+                </span>
               </Link>
             </div>
             <div className="desktoplogo">
               <Link href="#">
-                <a href="d#hero-3" className="logo-white">
+                <span href="d#hero-3" className="logo-white">
                   <img
                     src="images/logo-white.png"
                     width={172}
                     height={40}
                     alt="header-logo"
                   />
-                </a>
+                </span>
               </Link>
             </div>
             {/* MAIN MENU */}
@@ -84,9 +84,9 @@ const Header = ({ headerBtn }) => {
                   <span className={`wsmenu-click ${iconChange("Categories")}`}>
                     <i className="wsmenu-arrow" />
                   </span>
-                  <a href="/news">
+                  <Link href="/news">
                     News & Updates <span className="wsarrow" />
-                  </a>
+                  </Link>
                   <ul className={`sub-menu ${activeLi("Categories")}`}>
                     <li>
                       <Link href="form">Forms</Link>
@@ -127,9 +127,9 @@ const Header = ({ headerBtn }) => {
                   <span className={`wsmenu-click ${iconChange("Categories")}`}>
                     <i className="wsmenu-arrow" />
                   </span>
-                  <a href="controlling-authority">
+                  <Link href="controlling-authority">
                     Controlling Authority <span className="wsarrow" />
-                  </a>
+                  </Link>
                   <ul className={`sub-menu ${activeLi("Categories")}`}>
                     <li>
                       <Link href="officers">Officers of the Board</Link>
@@ -167,9 +167,9 @@ const Header = ({ headerBtn }) => {
                 {/*  <span className={`wsmenu-click ${iconChange("Mega")}`}>*/}
                 {/*    <i className="wsmenu-arrow" />*/}
                 {/*  </span>*/}
-                {/*  <a href="#">*/}
+                {/*  <span href="#">*/}
                 {/*    Controlling Authority <span className="wsarrow" />*/}
-                {/*  </a>*/}
+                {/*  </span>*/}
                 {/*  <div className={`wsmegamenu clearfix ${activeLi("Mega")}`}>*/}
                 {/*    <div className="container">*/}
                 {/*      <div className="row">*/}
@@ -316,9 +316,9 @@ const Header = ({ headerBtn }) => {
                 {/*{headerBtn ? (*/}
                 {/*  <li className="nl-simple" aria-haspopup="true">*/}
                 {/*    <Link href="/pricing">*/}
-                {/*      <a className="btn btn-rose tra-black-hover last-link">*/}
+                {/*      <span className="btn btn-rose tra-black-hover last-link">*/}
                 {/*        Get Started*/}
-                {/*      </a>*/}
+                {/*      </span>*/}
                 {/*    </Link>*/}
                 {/*  </li>*/}
                 {/*) : (*/}
@@ -326,64 +326,64 @@ const Header = ({ headerBtn }) => {
                 {/*    <span className={`wsmenu-click ${iconChange("En")}`}>*/}
                 {/*      <i className="wsmenu-arrow" />*/}
                 {/*    </span>*/}
-                {/*    <a href="#" className="lang-select">*/}
+                {/*    <span href="#" className="lang-select">*/}
                 {/*      <img src="images/icons/flags/uk.png" alt="flag-icon" /> En{" "}*/}
                 {/*      <span className="wsarrow" />*/}
-                {/*    </a>*/}
+                {/*    </span>*/}
                 {/*    <ul className={`sub-menu last-sub-menu ${activeLi("En")}`}>*/}
                 {/*      <li>*/}
-                {/*        <a href="#">*/}
+                {/*        <span href="#">*/}
                 {/*          <img*/}
                 {/*            src="images/icons/flags/germany.png"*/}
                 {/*            alt="flag-icon"*/}
                 {/*          />{" "}*/}
                 {/*          Deutch*/}
-                {/*        </a>*/}
+                {/*        </span>*/}
                 {/*      </li>*/}
                 {/*      <li>*/}
-                {/*        <a href="#">*/}
+                {/*        <span href="#">*/}
                 {/*          <img*/}
                 {/*            src="images/icons/flags/spain.png"*/}
                 {/*            alt="flag-icon"*/}
                 {/*          />{" "}*/}
                 {/*          Español*/}
-                {/*        </a>*/}
+                {/*        </span>*/}
                 {/*      </li>*/}
                 {/*      <li>*/}
-                {/*        <a href="#">*/}
+                {/*        <span href="#">*/}
                 {/*          <img*/}
                 {/*            src="images/icons/flags/france.png"*/}
                 {/*            alt="flag-icon"*/}
                 {/*          />{" "}*/}
                 {/*          Français*/}
-                {/*        </a>*/}
+                {/*        </span>*/}
                 {/*      </li>*/}
                 {/*      <li>*/}
-                {/*        <a href="#">*/}
+                {/*        <span href="#">*/}
                 {/*          <img*/}
                 {/*            src="images/icons/flags/italy.png"*/}
                 {/*            alt="flag-icon"*/}
                 {/*          />{" "}*/}
                 {/*          Italiano*/}
-                {/*        </a>*/}
+                {/*        </span>*/}
                 {/*      </li>*/}
                 {/*      <li>*/}
-                {/*        <a href="#">*/}
+                {/*        <span href="#">*/}
                 {/*          <img*/}
                 {/*            src="images/icons/flags/russia.png"*/}
                 {/*            alt="flag-icon"*/}
                 {/*          />{" "}*/}
                 {/*          Русский*/}
-                {/*        </a>*/}
+                {/*        </span>*/}
                 {/*      </li>*/}
                 {/*      <li>*/}
-                {/*        <a href="#">*/}
+                {/*        <span href="#">*/}
                 {/*          <img*/}
                 {/*            src="images/icons/flags/china.png"*/}
                 {/*            alt="flag-icon"*/}
                 {/*          />{" "}*/}
                 {/*          简体中文*/}
-                {/*        </a>*/}
+                {/*        </span>*/}
                 {/*      </li>*/}
                 {/*    </ul>*/}
                 {/*  </li>*/}
@@ -391,7 +391,7 @@ const Header = ({ headerBtn }) => {
                 {/* END DROPDOWN MENU */}
                 {/* HEADER BUTTON 
 								    <li class="nl-simple" >
-								    	<a href="#" class="btn btn-rose tra-black-hover last-link">Get Started</a>
+								    	<span href="#" class="btn btn-rose tra-black-hover last-link">Get Started</span>
 								    </li> */}
               </ul>
             </nav>

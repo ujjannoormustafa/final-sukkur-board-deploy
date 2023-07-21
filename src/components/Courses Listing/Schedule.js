@@ -14,13 +14,13 @@ const Schedule = () => {
                 <div className="row mx-auto px-5 mb-2 bg-lightdark rounded-3 box zoom-effect">
                     <div className='d-flex justify-content-between align-items-center text-white p-3'>
                         <h4 className='text-white'>SCHEDULE OF SSC PART-I&II ANNUAL EXAMINATION 2023</h4>
-                        <div><a href="#" className='text-white display-4 '> < HiFolderDownload/></a></div>
+                        <div><span href="#" className='text-white display-4 '> < HiFolderDownload/></span></div>
                     </div>
                 </div>
                 <div className="row mx-auto px-5 mb-2 bg-lightdark rounded-3 box zoom-effect">
                     <div className='d-flex justify-content-between align-items-center text-white p-3'>
                         <h4 className='text-white'>SCHEDULE OF HSC PART-I&II ANNUAL EXAMINATION 2023</h4>
-                        <div><a href="#" className='text-white display-4 '> < HiFolderDownload/></a></div>
+                        <div><span href="#" className='text-white display-4 '> < HiFolderDownload/></span></div>
                     </div>
                 </div>
 
@@ -42,7 +42,7 @@ const Schedule = () => {
         //                 <div
         //                     className="box  rounded-20 border d-flex justify-content-between rounded align-content-center bg-lightdark border-gray p-4 text-center zoom-effect">
         //                     <p className="mb-0 font-20 text-white mt-25 ">SCHEDULE OF HSC PART-I&II ANNUAL EXAMINATION 2023</p>
-        //                     <div><a href="#" className='text-white display-4 hovereffect'> < HiFolderDownload/></a></div>
+        //                     <div><span href="#" className='text-white display-4 hovereffect'> < HiFolderDownload/></span></div>
         //                 </div>
         //             </div>
         //             <div className="col-md-6 my-3">
@@ -51,7 +51,7 @@ const Schedule = () => {
         //
         //                 >
         //                     <p className="mb-0 font-20 text-white mt-25 ">Application SCHEDULE OF HSC PART-I&II ANNUAL EXAMINATION 2023</p>
-        //                     <div><a href="#" className='text-white display-4 '> <HiFolderDownload/></a></div>
+        //                     <div><span href="#" className='text-white display-4 '> <HiFolderDownload/></span></div>
         //                 </div>
         //             </div>
         //

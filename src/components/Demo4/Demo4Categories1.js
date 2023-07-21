@@ -26,7 +26,7 @@ const Demo4Categories1 = () => {
             {/* CATEGORIE BOX #1 */}
             <div className="c1-box">
               <Link href="/courses-list">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     {/* Icon */}
                     <img src="images/icons/flags/uk.png" alt="flag-icon" />
@@ -34,14 +34,14 @@ const Demo4Categories1 = () => {
                     <h5 className="h5-xs">English</h5>
                     <p>84 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #1 */}
             {/* CATEGORIE BOX #2 */}
             <div className="c1-box">
               <Link href="/courses-list">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     {/* Icon */}
                     <img
@@ -53,14 +53,14 @@ const Demo4Categories1 = () => {
                     <h5 className="h5-xs">Deutch</h5>
                     <p>75 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #2 */}
             {/* CATEGORIE BOX #3 */}
             <div className="c1-box">
               <Link href="/courses-list">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     {/* Icon */}
                     <img
@@ -72,14 +72,14 @@ const Demo4Categories1 = () => {
                     <h5 className="h5-xs">Español</h5>
                     <p>54 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #3 */}
             {/* CATEGORIE BOX #4 */}
             <div className="c1-box">
               <Link href="/courses-list">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     {/* Icon */}
                     <img
@@ -91,14 +91,14 @@ const Demo4Categories1 = () => {
                     <h5 className="h5-xs">Français</h5>
                     <p>68 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #4 */}
             {/* CATEGORIE BOX #5 */}
             <div className="c1-box">
               <Link href="/courses-list">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     {/* Icon */}
                     <img
@@ -110,14 +110,14 @@ const Demo4Categories1 = () => {
                     <h5 className="h5-xs">Italiano</h5>
                     <p>61 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #5 */}
             {/* CATEGORIE BOX #6 */}
             <div className="c1-box">
               <Link href="/courses-list">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     {/* Icon */}
                     <img
@@ -129,14 +129,14 @@ const Demo4Categories1 = () => {
                     <h5 className="h5-xs">Português</h5>
                     <p>78 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #6 */}
             {/* CATEGORIE BOX #7 */}
             <div className="c1-box">
               <Link href="/courses-list">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     {/* Icon */}
                     <img
@@ -148,14 +148,14 @@ const Demo4Categories1 = () => {
                     <h5 className="h5-xs">Русский</h5>
                     <p>57 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #7 */}
             {/* CATEGORIE BOX #8 */}
             <div className="c1-box">
               <Link href="/courses-list">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     {/* Icon */}
                     <img
@@ -167,14 +167,14 @@ const Demo4Categories1 = () => {
                     <h5 className="h5-xs">繁體中文</h5>
                     <p>45 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #8 */}
             {/* CATEGORIE BOX #9 */}
             <div className="c1-box">
               <Link href="/courses-list">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     {/* Icon */}
                     <img
@@ -186,14 +186,14 @@ const Demo4Categories1 = () => {
                     <h5 className="h5-xs">हिन्दी</h5>
                     <p>43 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #9 */}
             {/* CATEGORIE BOX #10 */}
             <div className="c1-box">
               <Link href="/courses-list">
-                <a>
+                <span>
                   <div className="c1-box-txt">
                     {/* Icon */}
                     <img
@@ -205,7 +205,7 @@ const Demo4Categories1 = () => {
                     <h5 className="h5-xs">日本語</h5>
                     <p>21 Courses</p>
                   </div>
-                </a>
+                </span>
               </Link>
             </div>
             {/* END CATEGORIE BOX #10 */}
