@@ -8,11 +8,6 @@ import Demo3Courses3 from "../src/components/Demo3/Demo3Courses3";
 import Demo3Courses5 from "../src/components/Demo3/Demo3Courses5";
 import Demo3Hboxes from "../src/components/Demo3/Demo3Hboxes";
 import Demo3Hero3 from "../src/components/Demo3/Demo3Hero3";
-import Demo3News1 from "../src/components/Demo3/Demo3News1";
-import Demo3Pricing2 from "../src/components/Demo3/Demo3Pricing2";
-import Demo3Reviews1 from "../src/components/Demo3/Demo3Reviews1";
-import Demo3Services6 from "../src/components/Demo3/Demo3Services6";
-import Video1 from "../src/components/Video1";
 import Layout from "../src/layout/Layout";
 const home = () => {
   return (

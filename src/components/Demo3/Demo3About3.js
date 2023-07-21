@@ -1,13 +1,5 @@
-import AOS from 'aos';
-import 'aos/dist/aos.css'; // Import AOS CSS styles
-
-import React, {useEffect} from "react";
-
-
+import React from "react";
 const Demo3About3 = () => {
-    useEffect(() => {
-        AOS.init();
-    }, []);
     return (
         <section id="about-3" className="pt-80 about-section division">
             <div className="container">
