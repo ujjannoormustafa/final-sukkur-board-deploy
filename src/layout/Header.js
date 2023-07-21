@@ -48,7 +48,7 @@ const Header = ({ headerBtn }) => {
             {/* LOGO IMAGE */}
             {/* For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 344 x 80 pixels) */}
             <div className="desktoplogo">
-              <Link href="/home">
+              <Link href="/index">
                 <span href="#hero-3" className="logo-black">
                   <img
                     src="images/logo.jpg"
@@ -77,7 +77,7 @@ const Header = ({ headerBtn }) => {
               <ul className="wsmenu-list">
                 {/* SIMPLE NAVIGATION LINK */}
                 <li className="nl-simple">
-                  <Link href="home">Home</Link>
+                  <Link href="/">Home</Link>
                 </li>
 
                 <li onClick={() => activeFun("Categories")}>

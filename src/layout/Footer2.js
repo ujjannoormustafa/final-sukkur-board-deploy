@@ -25,7 +25,7 @@ const Footer2 = () => {
               {/* Footer Links */}
               <ul className="foo-links clearfix">
                 <li>
-                  <Link href="/home">
+                  <Link href="/index">
                     <span>Home</span>
                   </Link>
                 </li>
