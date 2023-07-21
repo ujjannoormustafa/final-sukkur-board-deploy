@@ -8,7 +8,7 @@ const results = () => {
     return (
         <Layout>
             <div className="inner-page-wrapper">
-                <div className='container p-5'>
+                <div className='container overflow-auto p-5'>
                     <h2 className="text-center mb-4">Examination Results</h2>
                     {/*  HSC Part 1*/}
                     <h3 className="text-center mb-4">HIGHER SECONDARY SCHOOL CERTIFICATE PART-II

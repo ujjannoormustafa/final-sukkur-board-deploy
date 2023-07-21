@@ -27,12 +27,8 @@ const contacts = () => {
                 {/* CONTACT BOX #1 */}
                 <div className="col-lg-4">
                   <div className="contact-box b-right">
-                    {/* Icon */}
-                    <img
-                      className="img-75"
-                      src="images/icons/pin.png"
-                      alt="contacts-icon"
-                    />
+
+
                     {/* Title */}
                     <h5 className="h5-md">MR. RAFIQUE AHMED PALH</h5>
                     {/* Text */}
@@ -55,12 +51,7 @@ const contacts = () => {
                 {/* CONTACT BOX #2 */}
                 <div className="col-lg-4">
                   <div className="contact-box b-right">
-                    {/* Icon */}
-                    <img
-                      className="img-75"
-                      src="images/icons/world-map.png"
-                      alt="contacts-icon"
-                    />
+
                     {/* Title */}
                     <h5 className="h5-md">MR. MUHAMMAD SALMAN KHAN</h5>
                     {/* Text */}
@@ -82,17 +73,13 @@ const contacts = () => {
                 {/* CONTACT BOX #3 */}
                 <div className="col-lg-4">
                   <div className="contact-box">
-                    {/* Icon */}
-                    <img
-                      className="img-75"
-                      src="images/icons/request.png"
-                      alt="contacts-icon"
-                    />
+
+
                     {/* Title */}
-                    <h5 className="h5-md">MR. RAFIQUE AHMED PALH</h5>
+                    <h5 className="h5-md">MR. IMTIAZ ALI BHATTI</h5>
                     {/* Text */}
                     <p>
-                      Controller of Examinations
+                    Computer Programmer
                     </p>
                     {/* Button */}
                     <Link href="#">
@@ -100,10 +87,10 @@ const contacts = () => {
                         onClick={(e) => {
                           e.preventDefault();
                         }}
-                        href="controller@bisesuksindh.edu.pk"
+                        href="info@bisesuksindh.edu.pk"
                         className="btn btn-tra-grey hoverbtn"
                       >
-                        Email: controller@bisesuksindh.edu.pk
+                       Email: info@bisesuksindh.edu.pk
                       </span>
                     </Link>
                   </div>
