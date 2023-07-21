@@ -220,18 +220,18 @@ const CourseDetails = () => {
                               </li>
                             </ul>
                             {/* Video link */}
-                            <p className="cb-video">
-                              <Link href="#">
-                                <span
-                                    className="video-popup2"
-                                    onClick={() => showVideo("7e90gBu4pas")}
-                                    href="#"
-                                >
-                                  <i className="fas fa-play-circle" />
-                                  Mauris donec ociis magnis sapien
-                                </span>
-                              </Link>
-                            </p>
+                            {/*<p className="cb-video">*/}
+                            {/*  <Link href="#">*/}
+                            {/*    <span*/}
+                            {/*        className="video-popup2"*/}
+                            {/*        onClick={() => showVideo("7e90gBu4pas")}*/}
+                            {/*        href="#"*/}
+                            {/*    >*/}
+                            {/*      <i className="fas fa-play-circle" />*/}
+                            {/*      Mauris donec ociis magnis sapien*/}
+                            {/*    </span>*/}
+                            {/*  </Link>*/}
+                            {/*</p>*/}
                           </div>
                         </Accordion.Collapse>
                       </div>
@@ -322,15 +322,15 @@ const CourseDetails = () => {
                           <div className="card-body">
                             {/* Video link */}
                             <p className="cb-video">
-                              <Link href="#">
-                                <span
-                                    className="video-popup2"
-                                    onClick={() => showVideo("7e90gBu4pas")}
-                                >
-                                  <i className="fas fa-play-circle" />
-                                  Mauris donec ociis magnis sapien
-                                </span>
-                              </Link>
+                              {/*<Link href="#">*/}
+                              {/*  <span*/}
+                              {/*      className="video-popup2"*/}
+                              {/*      onClick={() => showVideo("7e90gBu4pas")}*/}
+                              {/*  >*/}
+                              {/*    <i className="fas fa-play-circle" />*/}
+                              {/*    Mauris donec ociis magnis sapien*/}
+                              {/*  </span>*/}
+                              {/*</Link>*/}
                             </p>
                             {/* Video link */}
                             <p className="cb-video">
