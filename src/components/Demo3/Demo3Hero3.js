@@ -15,7 +15,7 @@ const Demo3Hero3 = () => {
               </h2>
               <span className={'h4'}> Sukkur,Sindhi Pakistan</span>
               {/* Text */}
-              <p className="p-md">
+              <p className="p-md mt-5">
                 Empowering Minds, Inspiring Futures: Board of Intermediate & Secondary Education Sukkur, Sindhi Pakistan
               </p>
               {/*Hero Search Form */}

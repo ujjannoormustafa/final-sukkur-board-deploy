@@ -14,13 +14,14 @@ const Schedule = () => {
                 <div className="row mx-auto px-5 mb-2 bg-lightdark rounded-3 box zoom-effect">
                     <div className='d-flex justify-content-between align-items-center text-white p-3'>
                         <h4 className='text-white'>SCHEDULE OF SSC PART-I&II ANNUAL EXAMINATION 2023</h4>
-                        <div><span href="#" className='text-white display-4 '> < HiFolderDownload/></span></div>
+
+                        <div><a href="/pdf/schedule/SCHEDULE%20SSC%20ANNUAL%20EXAMINATION%20%202023_2.pdf" className='text-white display-4 '> < HiFolderDownload/></a></div>
                     </div>
                 </div>
                 <div className="row mx-auto px-5 mb-2 bg-lightdark rounded-3 box zoom-effect">
                     <div className='d-flex justify-content-between align-items-center text-white p-3'>
                         <h4 className='text-white'>SCHEDULE OF HSC PART-I&II ANNUAL EXAMINATION 2023</h4>
-                        <div><span href="#" className='text-white display-4 '> < HiFolderDownload/></span></div>
+                        <div><a href="/pdf/schedule/SCHEDULE%20HSC%20ANNUAL%20EXAMINATION%20%202023.pdf" className='text-white display-4 '> < HiFolderDownload/></a></div>
                     </div>
                 </div>
 

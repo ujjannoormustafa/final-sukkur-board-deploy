@@ -27,12 +27,14 @@ const contacts = () => {
                 {/* CONTACT BOX #1 */}
                 <div className="col-lg-4">
                   <div className="contact-box b-right">
-
-
                     {/* Title */}
                     <h5 className="h5-md">MR. RAFIQUE AHMED PALH</h5>
                     {/* Text */}
-                    <p>Chairman</p>
+                    <p className='text-primary'>Chairman</p>
+                    <p>Office : 071-9310620</p>
+                    <p>Residence : 071-9310621</p>
+                    <p>Fax : 071-9310637</p>
+
                     {/* Button */}
                     <Link href="#">
                       <span
@@ -55,7 +57,9 @@ const contacts = () => {
                     {/* Title */}
                     <h5 className="h5-md">MR. MUHAMMAD SALMAN KHAN</h5>
                     {/* Text */}
-                    <p>Secretary</p>
+                    <p className='text-primary'>Secretary</p>
+                    <p>Office: 071-9310622</p>
+                    <p>Fax: 071-5632730</p>
                     {/* Button */}
                     <Link href="#">
                       <span
@@ -78,10 +82,13 @@ const contacts = () => {
                     {/* Title */}
                     <h5 className="h5-md">MR. IMTIAZ ALI BHATTI</h5>
                     {/* Text */}
-                    <p>
+                    <p className='text-primary'>
                     Computer Programmer
                     </p>
                     {/* Button */}
+                    <p>Office:071-5630522</p>
+
+
                     <Link href="#">
                       <span
                         onClick={(e) => {
@@ -103,24 +110,7 @@ const contacts = () => {
           {/* End container */}
         </section>
         {/* END CONTACTS-2 */}
-        {/* GOOGLE MAP
-				============================================= */}
-        <div id="gmap" className="map-section division">
-          <div className="container">
-            <div className="row">
-              <div className="col-md-12">
-                <div className="google-map">
-                  {/* Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! */}
-                  <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14128.434075053734!2d68.8284709606033!3d27.713935513611712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3935d4e9aec54e79%3A0xb5f709bf8e3bd855!2sBoard%20of%20Intermediate%20and%20Secondary%20Education%20Sukkur!5e0!3m2!1sen!2s!4v1689870349621!5m2!1sen!2s"
-                      ></iframe>
-                </div>
-              </div>
-            </div>
-            {/* End row */}
-          </div>
-          {/* End container */}
-        </div>
+
       </div>
     </Layout>
   );
