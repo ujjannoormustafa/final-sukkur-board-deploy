@@ -28,7 +28,7 @@ const Demo3Hboxes = () => {
                       {/* Image */}
                       <img
                         className="img-fluid"
-                        src="images/boximages/box (7).png"
+                        src="images/boximages/box (5).jpg"
                         alt="course-preview"
                       />
 
@@ -43,7 +43,7 @@ const Demo3Hboxes = () => {
                       {/* Image */}
                       <img
                         className="img-fluid"
-                        src="images/boximages/box (2).png"
+                        src="images/boximages/box (2).jpg"
                         alt="course-preview"
                       />
 
@@ -58,7 +58,7 @@ const Demo3Hboxes = () => {
                       {/* Image */}
                       <img
                         className="img-fluid"
-                        src="images/boximages/box (3).png"
+                        src="images/boximages/box (3).jpg"
                         alt="course-preview"
                       />
 
@@ -73,7 +73,7 @@ const Demo3Hboxes = () => {
                       {/* Image */}
                       <img
                         className="img-fluid"
-                        src="images/boximages/box (4).png"
+                        src="images/boximages/box (7).jpg"
                         alt="course-preview"
                       />
 
@@ -88,7 +88,7 @@ const Demo3Hboxes = () => {
                       {/* Image */}
                       <img
                         className="img-fluid"
-                        src="images/boximages/box (5).png"
+                        src="images/boximages/box (5).jpg"
                         alt="course-preview"
                       />
 
@@ -103,7 +103,7 @@ const Demo3Hboxes = () => {
                       {/* Image */}
                       <img
                         className="img-fluid"
-                        src="images/boximages/box (6).png"
+                        src="images/boximages/box (6).jpg"
                         alt="course-preview"
                       />
 
@@ -118,7 +118,7 @@ const Demo3Hboxes = () => {
                       {/* Image */}
                       <img
                         className="img-fluid"
-                        src="images/boximages/box (7).png"
+                        src="images/boximages/box (1).jpg"
                         alt="course-preview"
                       />
 
@@ -133,7 +133,7 @@ const Demo3Hboxes = () => {
                       {/* Image */}
                       <img
                         className="img-fluid"
-                        src="images/boximages/box (4).png"
+                        src="images/boximages/box (3).jpg"
                         alt="course-preview"
                       />
 

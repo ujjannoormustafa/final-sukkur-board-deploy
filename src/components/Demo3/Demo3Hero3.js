@@ -18,30 +18,7 @@ const Demo3Hero3 = () => {
               <p className="p-md mt-5">
                 Empowering Minds, Inspiring Futures: Board of Intermediate & Secondary Education Sukkur, Sindhi Pakistan
               </p>
-              {/*Hero Search Form */}
-              {/*<form*/}
-              {/*  className="hero-form"*/}
-              {/*  onSubmit={(e) => {*/}
-              {/*    e.preventDefault();*/}
-              {/*    Router.push({*/}
-              {/*      pathname: "/categories-list",*/}
-              {/*    });*/}
-              {/*  }}*/}
-              {/*>*/}
-              {/*  <div className="input-group">*/}
-              {/*    <input*/}
-              {/*      type="text"*/}
-              {/*      className="form-control"*/}
-              {/*      placeholder="What do you want to learn?"*/}
-              {/*      aria-label="Search"*/}
-              {/*    />*/}
-              {/*    <span className="input-group-btn">*/}
-              {/*      <button type="submit" className="btn">*/}
-              {/*        <i className="fa fa-search" aria-hidden="true" />*/}
-              {/*      </button>*/}
-              {/*    </span>*/}
-              {/*  </div>*/}
-              {/*</form>*/}
+
             </div>
           </div>
         </div>

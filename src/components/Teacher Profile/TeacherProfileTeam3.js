@@ -73,7 +73,7 @@ const TeacherProfileTeam3 = () => {
                             </div>
                             {/* Links */}
                             <div className="t-3-links">
-                                <Link href="#">
+                                <Link href="https://cm.sindh.gov.pk/cm-profile">
                                     <span
                                         onClick={(e) => {
                                             e.preventDefault();
@@ -83,17 +83,7 @@ const TeacherProfileTeam3 = () => {
                                         Website
                                     </span>
                                 </Link>
-                                {/*<Link href="#">*/}
-                                {/*    <span*/}
-                                {/*        onClick={(e) => {*/}
-                                {/*            e.preventDefault();*/}
-                                {/*        }}*/}
-                                {/*        href="mailto:yourdomain@mail.com"*/}
-                                {/*        className="btn btn-md btn-tra-grey rose-hover"*/}
-                                {/*    >*/}
-                                {/*        hello@yourdomain.com*/}
-                                {/*    </span>*/}
-                                {/*</Link>*/}
+
                             </div>
                         </div>
                     </div>
