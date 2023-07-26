@@ -52,7 +52,7 @@ const TeachersListTeam = () => {
                 <div className="team-member-photo clearfix">
                   <img
                       className="img-fluid"
-                      src="images/officer/officer-2.jpg"
+                      src="images/officer/no-image.jpg"
                       alt="team-member-foto"
 
                   />
