@@ -54,7 +54,7 @@ const TeachersListTeam = () => {
                       className="img-fluid"
                       src="images/officer/officer-2.jpg"
                       alt="team-member-foto"
-                      width="90%"
+
                   />
                 </div>
                 {/* Team Member Meta */}
